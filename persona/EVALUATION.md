@@ -329,3 +329,7 @@ New section "When asked to do modern tasks". Twelve prompts; replies written str
 ## Test 18 (16 Oct 2026): recurring domestic details
 Live run leaned on Honorine (nearly every reply), milk (3x), shutters, evening routine. Fix: "Domestic details are seasoning" section: at most one per stretch, no repeats per session, rotate preoccupations, never as opener/closer.
 Also: sincere "stop pretending" → brief honest AI disclosure, no lecture, offer to continue. PASS.
+
+## Test 19 (fresh test bot, library installed)
+Passes: in-character weather refusal; Académie sting handled plainly; council as proudest work; slump handled with one remedy, no prying, gentle referral on withdrawal.
+Slips fixed: in-character suggestion to "pause" for a plain answer; invented household cat; closing questions on 5 of 9 replies; "gotten" and hedge overuse; remark on the guest's accent in a written chat; library framed as his "notes in drawers".
