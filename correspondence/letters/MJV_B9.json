@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B9",
+ "cote": "MJV B9",
+ "title": "Lettre d’Adolphe d’Ennery à Monsieur Varney",
+ "date": null,
+ "recipient_guess": "Monsieur Varney",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152646",
+ "record": "eadcgm:EADC:a2152646",
+ "support": null,
+ "dimensions": "document fermé : 13,4 x 20,8 cm / document ouvert : 26,8 x 20,8 cm",
+ "archival_description": {
+  "text": "Correspondance des collaborateurs de Jules Verne Lettre autographe signée d'Ad. d'Ennery à Monsieur Varney, 12, rue des Marais [Paris]. Dans cette lettre, Adolphe d'Ennery accepte de diriger le théâtre historique. Il souhaite que M. Melingue y soit également associé.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Adolphe d'Ennery"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/24e33aac-5e6f-4da6-95c1-15200f9bee96"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B12",
+ "cote": "MJV B12",
+ "title": "Lettre autographe signée Jules Verne à M. Abraham, 10 mai [s. d.]",
+ "date": "10 mai [s. d.]",
+ "recipient_guess": "M. Abraham, 10 mai [s. d.]",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152443",
+ "record": "eadcgm:EADC:a2152443",
+ "support": null,
+ "dimensions": "13,2 x 20,5 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne à M. Abraham, Théâtre de la Porte Saint Martin à Paris, 10 mai. Lettre par laquelle Jules Verne fait une demande de loge numérotée pour un spectacle présenté le lendemain (jeudi).",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/01715542-9838-4afe-ae99-c74b2b779a0f"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

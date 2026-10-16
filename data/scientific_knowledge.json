@@ -1,0 +1,229 @@
+{
+ "description": "What he knew, how he got it, and what he claimed about science. Fiction is cited only as what he wrote.",
+ "evidence_levels": {
+  "documented": "stated in a cited source (Verne's reported words, firsthand observation, or reliable reference)",
+  "inferred": "reasoned from multiple sources; see reasoning",
+  "speculative": "plausible but weakly or not supported by collected sources"
+ },
+ "records": [
+  {
+   "id": "sci-001",
+   "topic": "self-description",
+   "claim": "Repeatedly denied being a scientist or having studied science; called his knowledge reading-derived 'odds and ends'.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.121",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I may say that I have never studied science",
+     "char_offset": 18703,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.208",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I do not in any way pose as a scientist",
+     "char_offset": 6405,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "sci-002",
+   "topic": "method / note-taking",
+   "claim": "Read pencil in hand, kept classified notes (claimed ~20,000+), and read ~15-20+ newspapers plus scientific reviews daily.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.121",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I always read pencil in hand",
+     "char_offset": 18903,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.121",
+     "source_kind": "verne_own_words_reported",
+     "quote": "at least twenty thousand notes",
+     "char_offset": 20073,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.208",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I subscribe to over twenty newspapers",
+     "char_offset": 7382,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "sci-003",
+   "topic": "periodicals read",
+   "claim": "Named readings: Revue Bleue, Revue des Deux Mondes, Cosmos, Tissandier's La Nature, Flammarion's L'Astronomie, Geographical Society bulletins, Le Tour du Monde; all of Reclus and Arago.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.121",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I have all Reclus’s works",
+     "char_offset": 19725,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "sci-004",
+   "topic": "geography",
+   "claim": "Geography was his declared passion and study, more than science.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.121",
+     "source_kind": "verne_own_words_reported",
+     "quote": "geography is my passion and my study",
+     "char_offset": 19687,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.207",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I had always been devoted to the study of geography",
+     "char_offset": 4576,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "sci-005",
+   "topic": "machines",
+   "claim": "Loved watching machines since boyhood visits to the Indret works near Nantes.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I used to adore watching machines at work",
+     "char_offset": 11498,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "sci-006",
+   "topic": "aeronautics",
+   "claim": "In 1893 held that steering balloons was impossible except in still air, and that if flight were solved it would be by a heavier-than-air machine on the bird principle. Made one balloon ascent at Amiens (with Godard).",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.120",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I had no faith in the possibility of ever steering balloons",
+     "char_offset": 18151,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.120",
+     "source_kind": "verne_own_words_reported",
+     "quote": "it will be with a machine which will be heavier than the air",
+     "char_offset": 18464,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "sci-007",
+   "topic": "accuracy vs prediction",
+   "claim": "Dismissed claims that his inventions came true as 'mere coincidence' due to striving for realism.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.208",
+     "source_kind": "verne_own_words_reported",
+     "quote": "that is a mere coincidence",
+     "char_offset": 6788,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "sci-008",
+   "topic": "the meridian trick",
+   "claim": "The plot device of Le Tour du monde (gaining a day by crossing meridians) came from a newspaper item (Le Siècle) about circling the globe in 80 days.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I took up a copy of Le Siécle one morning",
+     "char_offset": 7457,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.121",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I could profit by a difference of meridian",
+     "char_offset": 20907,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "sci-009",
+   "topic": "cryptography/mathematics",
+   "claim": "Claretie heard him explain how he combined letters to build ciphers the reader could not solve before the dénouement; Claretie saw 'du mathématicien' in him.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "§ œuvre",
+     "source_kind": "secondary",
+     "quote": "Il y a du mathématicien chez Jules Verne",
+     "char_offset": 30061,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "sci-010",
+   "topic": "fiction as record of what he wrote",
+   "claim": "His novels deploy contemporary science (balloons, submarines, projectiles, comets); these show what he wrote and researched, not personal predictions or beliefs.",
+   "evidence_level": "documented",
+   "fiction_cited_as": "what_he_wrote",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 1",
+     "source_kind": "encyclopedia",
+     "quote": "cleverly prepared scientific and geographical details lent an air of versimilitude",
+     "char_offset": 680,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  }
+ ]
+}

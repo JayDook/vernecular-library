@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B185",
+ "cote": "MJV B185",
+ "title": "Lettre de Jules Verne au Commandant [Heumbert], 30 septembre 1896",
+ "date": "30 septembre 1896",
+ "recipient_guess": "Commandant [Heumbert], 30 septembre 1896",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152494",
+ "record": "eadcgm:EADC:a2152494",
+ "support": null,
+ "dimensions": "document fermé : 10,1 x 13,2 cm / document ouvert : 20,2 x 13,2 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne à la veuve du Commandant [Heumbert]. Lettre suite à l'annonce du décès du Colonnel/Commandant Heumbert ; Jules Verne parle de son travail de recherches et d'écriture de ses romans.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/dd27b736-6c1f-4342-9696-142cf76a7643"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

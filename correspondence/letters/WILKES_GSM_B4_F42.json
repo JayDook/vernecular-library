@@ -1,0 +1,21 @@
+{
+ "id": "WILKES_GSM_B4_F42",
+ "cote": "Gilbert Stuart McClintock collection, Series III, Subseries IV, Box 4, Folder 42 (Item 42)",
+ "title": "Letter from Jules Verne to Unknown [in French], 1900 February 14",
+ "date": "1900-02-14",
+ "recipient_guess": "unknown correspondent who sent L'Événement with Stanislas Rzewuski's article",
+ "author_side": "active",
+ "institution": "Wilkes University Archives, Wilkes-Barre PA (USA)",
+ "ark_url": "https://archivepublic.wilkes.edu/repositories/2/archival_objects/14484",
+ "digitized_urls": [
+  "https://archivesspace.wilkes.edu/files/gsm/foreignliteraryauthors/letterfromjulesvernetounknown1900february14.pdf"
+ ],
+ "archival_description": {
+  "text": "Jules Verne is writing about his delight in a positive article that someone wrote about his work in a review. The author is Stanislas Rzewuski, who sent him the article that he had wrote.",
+  "description_type": "archival_description",
+  "attribution": "Wilkes University Archives, ArchivesSpace record (accessed 2026-10-16)"
+ },
+ "transcription_status": "transcription_withheld_in_public_release",
+ "notes": "Archive's own description says the letter concludes with thanks; its English 'translation attempt' contains errors (e.g. 'carte' rendered as 'map' = visiting card). Full transcription not copied (terms unstated); quote excerpt only.",
+ "reuse": "Open for research; no explicit reuse licence for transcription or scan. Underlying letter PD (author d. 1905)."
+}

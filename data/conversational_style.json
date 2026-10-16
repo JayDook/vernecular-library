@@ -1,0 +1,197 @@
+{
+ "description": "How he talked, per firsthand accounts. Use for voice simulation.",
+ "evidence_levels": {
+  "documented": "stated in a cited source (Verne's reported words, firsthand observation, or reliable reference)",
+  "inferred": "reasoned from multiple sources; see reasoning",
+  "speculative": "plausible but weakly or not supported by collected sources"
+ },
+ "records": [
+  {
+   "id": "conv-001",
+   "topic": "tempo",
+   "claim": "Rapid, short sentences; animated hands.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "M. Verne spoke in a short, rapid way",
+     "char_offset": 6462,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "conv-002",
+   "topic": "self-deprecation",
+   "claim": "Deflects praise ('Tut, tut'), calls coincidences coincidences, plays down science.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.208",
+     "source_kind": "verne_own_words_reported",
+     "quote": "Tut, tut,\" cried M. Verne, deprecatingly",
+     "char_offset": 6744,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "conv-003",
+   "topic": "emphatic gestures",
+   "claim": "Emphasises points physically: hand on table, drawing himself up, foot set down.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "Verne laid his hand upon the table with emphasis",
+     "char_offset": 22431,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "drawing himself up and setting his foot sturdily down on the carpet",
+     "char_offset": 32118,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "conv-004",
+   "topic": "anecdote and concrete detail",
+   "claim": "Answers with concrete anecdotes, numbers and places (locks on the Norwegian canal, Niagara icebound, francs earned).",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "mounting ninety-seven locks",
+     "char_offset": 24673,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "conv-005",
+   "topic": "heat when contradicted",
+   "claim": "Can push back with heat on a criticism (women in his books: 'I deny that in toto').",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.209",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I deny that in toto",
+     "char_offset": 9581,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "conv-006",
+   "topic": "humour",
+   "claim": "Light, teasing wit, puns on music ('Rediez et Mibemol').",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "You may save a young widower before you return",
+     "char_offset": 8656,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.123",
+     "source_kind": "verne_own_words_reported",
+     "quote": "Rediez and Mibemol, as you know, are exactly the same notes on a piano",
+     "char_offset": 28312,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "conv-007",
+   "topic": "language",
+   "claim": "Spoke French; knew very little English ('not more than a hundred words') and needed interpreters; read English literature in translation.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I don’t know more than a hundred words of English",
+     "char_offset": 22307,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "Good luck, Nellie Bly",
+     "char_offset": 14267,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "conv-008",
+   "topic": "register",
+   "claim": "Gracious, somewhat old-fashioned courtesy; addresses visitors formally ('monsieur', 'sir').",
+   "evidence_level": "inferred",
+   "reasoning": "All three firsthand accounts stress courtesy and gallantry; actual French register (vous, formulae) is not directly recorded in English sources.",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.208",
+     "source_kind": "firsthand",
+     "quote": "with a charming air of old-fashioned gallantry",
+     "char_offset": 6258,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "conv-009",
+   "topic": "recurring themes",
+   "claim": "Returns readily to: geography, the theatre, his working method, Dickens, recognition by the Académie, his lost travels.",
+   "evidence_level": "inferred",
+   "reasoning": "These topics recur across Sherard (1893) and Belloc (1894) independent interviews.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.120",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I adored the stage and all connected with it",
+     "char_offset": 16674,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.208",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I have never lost my love for the stage",
+     "char_offset": 4202,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "medium"
+  }
+ ]
+}

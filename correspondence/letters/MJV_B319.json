@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B319",
+ "cote": "MJV B319",
+ "title": "Lettre autographe signée de Jules Verne adressée à sa mère, Sophie Verne, 05 novembre 1853",
+ "date": "05 novembre 1853",
+ "recipient_guess": "sa mère, Sophie Verne, 05 novembre 1853",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152611",
+ "record": "eadcgm:EADC:a2152611",
+ "support": null,
+ "dimensions": "document fermé : H. 21 x L.13,5 cm / document ouvert : H. 21 x L.27 cm",
+ "archival_description": {
+  "text": "Lettre adressée à sa mère et écrite sur un papier à l’entête du Théâtre Lyrique. Jules Verne évoque ses divers écrits : « Les compagnons de la Marjolaine » et des écrits pour le Musée des Familles. Il questionne sa mère afin de savoir si elle a des informations au sujet du mariage de Caroline [Tronson].",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Sophie Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/5ca10d24-a050-400d-9f7d-66c89d18bbe9"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

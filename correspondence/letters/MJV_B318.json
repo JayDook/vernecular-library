@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B318",
+ "cote": "MJV B318",
+ "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 29 avril 1853",
+ "date": "29 avril 1853",
+ "recipient_guess": "son père, Pierre Verne, 29 avril 1853",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152575",
+ "record": "eadcgm:EADC:a2152575",
+ "support": null,
+ "dimensions": "document fermé : H. 20,5 x L. 13 cm / document ouvert : H. 20,5 x L.26 cm",
+ "archival_description": {
+  "text": "Jules Verne informe son père avoir reçu sa lettre au moment de la première répétition de « Colin-Maillard ». Il demande des nouvelles de sa sœur Marie qui a eu la scarlatine.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/392733b2-18e5-4b14-bfba-972b7cdc4db0"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,321 @@
+{
+ "description": "Where sources conflict or the record is thin. Each entry states the conflict and the best current reading.",
+ "confidence_scale": {
+  "high": "multiple or unambiguous primary sources",
+  "medium": "single primary source, reported speech, or unverified HTR that is legible",
+  "low": "uncertain reading, single ambiguous phrase, or secondary-only"
+ },
+ "records": [
+  {
+   "id": "contra-001",
+   "topic": "ambition",
+   "claim": "'Not ambitious' (Brisson 1898; Sherard: 'none of us have been ambitious') vs. lasting bitterness at exclusion from the Académie française and French literary recognition (Sherard 1893). Best reading: indifferent to money and honours in principle, but wounded by lack of literary esteem.",
+   "evidence_level": "inferred",
+   "confidence": "medium",
+   "reasoning": "Both claims are in Verne's own reported words; the regret is emotionally marked, the denial formulaic.",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.113",
+     "quote_type": "published_text",
+     "quote": "si vous saviez comme je suis peu ambitieux"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "p.115",
+     "quote_type": "published_text",
+     "quote": "great regret of my life"
+    }
+   ]
+  },
+  {
+   "id": "contra-002",
+   "topic": "scientific education",
+   "claim": "Told Sherard (1893) he never studied science; told Jones (1904) he used 'my scientific education'. The 1904 phrasing may be the interviewer's English.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "p.121",
+     "quote_type": "published_text",
+     "quote": "I may say that I have never studied science"
+    },
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.665",
+     "quote_type": "published_text",
+     "quote": "utilise with advantage my scientific education"
+    }
+   ]
+  },
+  {
+   "id": "contra-003",
+   "topic": "origin of the Voyages contract",
+   "claim": "Jones (1904): publishers urged more books after Five Weeks and he complied 'not wholly pleased'; Brisson (1898): Hetzel warned him off Balzac-like ambitions and imposed two novels a year. Both suggest the genre was partly channelled by Hetzel.",
+   "evidence_level": "inferred",
+   "confidence": "medium",
+   "reasoning": "Two independent late accounts converge on Hetzel's shaping role, differing in detail.",
+   "citations": [
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.665",
+     "quote_type": "published_text",
+     "quote": "Although not wholly pleased with the idea"
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.115",
+     "quote_type": "published_text",
+     "quote": "il aspirait aux triomphes de Balzac"
+    }
+   ]
+  },
+  {
+   "id": "contra-004",
+   "topic": "source of Around the World idea",
+   "claim": "Le Siècle article (Sherard, Bly) vs. a Cook agency advertisement (Brisson) vs. a tourist advertisement (Belloc, Jones).",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "quote_type": "published_text",
+     "quote": "I took up a copy of Le Siécle one morning"
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.117",
+     "quote_type": "published_text",
+     "quote": "C'est d'une annonce de l'agence Cook"
+    }
+   ]
+  },
+  {
+   "id": "contra-005",
+   "topic": "public liberal image vs private 1870 views",
+   "claim": "Public interviews present a mild, genial humanist; the private 1870 letter (HTR) wishes socialists shot without mercy (paraphrased; letter MJV_B328). Treat as authentic wartime/Commune-era conservative republicanism pending verification of the transcription.",
+   "evidence_level": "inferred",
+   "confidence": "medium",
+   "reasoning": "Letter is legible and its other content matches the catalogue summary (National Guard at Le Crotoy, Nov 1870).",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B328",
+     "location": "p.3 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.120",
+     "quote_type": "published_text",
+     "quote": "un philosophe amène"
+    }
+   ]
+  },
+  {
+   "id": "contra-006",
+   "topic": "1848 political sympathy",
+   "claim": "The reading of his apparent cheer for Louis Bonaparte (1848, letter MJV_B290) is uncertain and may be ironic; the 1850 'republican son' signature (paraphrased; letter MJV_B272_11) is also uncertain.",
+   "evidence_level": "speculative",
+   "confidence": "low",
+   "reasoning": "Both depend on unverified HTR of single phrases.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B290",
+     "location": "p.4 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "letter:MJV_B272_11",
+     "location": "p.3 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "contra-007",
+   "topic": "catalogue vs letter content (B178)",
+   "claim": "The CEV catalogue says B178 announces Verne's own entry into the Académie; the HTR reads as announcing the commandant's election as honorary member of the (Amiens) Académie.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B178",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "lui annonçant son entrée à l'Académie"
+    },
+    {
+     "source_id": "letter:MJV_B178",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "contra-008",
+   "topic": "catalogue guess (B174)",
+   "claim": "Catalogue suggests the sick girl was one of Honorine's daughters; the letter (HTR) speaks of a girl about whom a Madame (name uncertain) consulted the doctor, so the identification is unsupported.",
+   "evidence_level": "inferred",
+   "confidence": "low",
+   "reasoning": "Letter text does not name the child.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B174",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "[une des deux filles d'Honorine Verne ?]"
+    },
+    {
+     "source_id": "letter:MJV_B174",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "contra-009",
+   "topic": "hunting",
+   "claim": "Brisson reports horror of hunting, yet Verne wrote 'Dix heures en chasse' (1881), a comic story about a hunting outing; the story is consistent with a single disastrous attempt.",
+   "evidence_level": "inferred",
+   "confidence": "low",
+   "reasoning": "Fiction cited only as what he wrote; not evidence of belief.",
+   "fiction_cited_as": "what_he_wrote",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.119",
+     "quote_type": "published_text",
+     "quote": "la chasse lui inspire de l'horreur"
+    },
+    {
+     "source_id": "wsfr-dix-heures-en-chasse",
+     "location": "title",
+     "quote_type": "published_text"
+    }
+   ]
+  },
+  {
+   "id": "contra-010",
+   "topic": "residence chronology",
+   "claim": "Interviewers place him at Rue Charles-Dubois (1894-98) and at 44 Boulevard Longueville (1904); Jones reports a move to a larger house and back. Exact dates require Amiens archives.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "citations": [
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.668",
+     "quote_type": "published_text",
+     "quote": "we soon returned"
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.112",
+     "quote_type": "published_text",
+     "quote": "Rue Charles-Dubois"
+    }
+   ]
+  },
+  {
+   "id": "contra-011",
+   "topic": "gaps",
+   "claim": "Religious belief, Dreyfus position, marital tensions, and Hetzel's editorial conflicts remain undocumented in collected primary sources; the 62 letters to his father and 26 to his mother are mostly untranscribed.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B27",
+     "location": "catalogue",
+     "quote_type": "archival_description"
+    }
+   ]
+  },
+  {
+   "id": "contra-012",
+   "topic": "B178 'casseur d'assiettes' resolved",
+   "claim": "The phrase in the July 1875 letter, which the machine reading gave as a polemic against 'Baril', refers to Verne's 25 June 1875 reply to Gédéon Baril's reception speech on faience collecting. This corroborates the HTR reading and shows he enjoyed his reputation for provocation.",
+   "evidence_level": "inferred",
+   "confidence": "high",
+   "reasoning": "The date, the name and the plate imagery all match.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B178",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-baril",
+     "location": "p.~323",
+     "quote_type": "published_text",
+     "quote": "à coup d'assiettes"
+    }
+   ]
+  },
+  {
+   "id": "contra-013",
+   "topic": "speech persona vs private voice",
+   "claim": "The 1875 speeches are polished performances: genial, patriotic and respectful of religion. The 1870 private letter is harsher, and the speeches neither contradict nor soften it. A simulation should keep the public register (ceremonious and witty) separate from the private one (blunt and partisan).",
+   "evidence_level": "inferred",
+   "confidence": "medium",
+   "reasoning": "Comparison of register across genres.",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.103",
+     "quote_type": "published_text",
+     "quote": "MONSIEUR"
+    },
+    {
+     "source_id": "letter:MJV_B328",
+     "location": "p.3 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "contra-015",
+   "topic": "date of his mother's death",
+   "claim": "Sherard (1893) reports Verne as saying his mother died in 1885; modern biographies (not in corpus) date it to February 1887, after the March 1886 shooting. The sequence matters for the life-evolution model: shooting (1886), then Hetzel's death (1886) and his mother's death, then election to the council (1888). Treat 1887 as probable and the interview figure as a slip or transcription error.",
+   "evidence_level": "inferred",
+   "confidence": "medium",
+   "reasoning": "A single interview figure against the consensus of documentary biography; the primary civil record is not collected.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "p.118",
+     "quote_type": "published_text",
+     "quote": "My mother died in 1885"
+    },
+    {
+     "source_id": "nc11-jules-verne-the-definitive-biography",
+     "location": "chronology (not in corpus)",
+     "quote_type": "published_text"
+    }
+   ]
+  },
+  {
+   "id": "contra-014",
+   "topic": "pagination and OCR",
+   "claim": "The page numbers within the speeches (p.~NNN) are estimates: the Google Books EPUB carries no page markers. Only the start pages (103, 321, 347) and the end of Une ville idéale (p.378) are confirmed. Gallica f350 = p.347.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.347",
+     "quote_type": "published_text",
+     "quote": "UNE VILLE IDÉALE"
+    }
+   ]
+  }
+ ]
+}

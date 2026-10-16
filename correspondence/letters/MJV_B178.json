@@ -1,0 +1,34 @@
+{
+ "id": "MJV_B178",
+ "cote": "MJV B178",
+ "title": "Lettre de Jules Verne au Commandant [Heumbert], [juillet 1875 ?]",
+ "date": "[juillet 1875 ?]",
+ "recipient_guess": "Commandant [Heumbert], [juillet 1875 ?]",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152487",
+ "record": "eadcgm:EADC:a2152487",
+ "support": null,
+ "dimensions": "10,3 x 13 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne au Commandant [Heumbert] lui annonçant son entrée à l'Académie. Jules Verne mentionne la guerre et conclut sa lettre en mentionnant sa réponse à \"Baril\" où il s'est posé en \"casseur d'assiettes\". Lettre écrite un samedi, peut-être fin juillet 1875.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/7faf5089-afdd-40c2-8e23-cbcabce1a828"
+ ],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559250h",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_de_Jules_Verne_au_Commandant_Heumbert._Lettre_de_Jules_Verne_au_Commandant_(Heumbert)_-_btv1b10559250h.jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "transcription_withheld_in_public_release",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

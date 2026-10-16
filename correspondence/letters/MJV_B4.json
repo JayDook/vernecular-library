@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B4",
+ "cote": "MJV B4",
+ "title": "Lettre autographe signée de Jules Verne, 28 février 1888",
+ "date": "28 février 1888",
+ "recipient_guess": null,
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152438",
+ "record": "eadcgm:EADC:a2152438",
+ "support": null,
+ "dimensions": "10,5 x 13,5 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne à un [journaliste] de la revue \"Le XIXè siècle\" à propos d'un article publié sur l'écrivain dans cette revue. Lettre datée du 28 février 1888 et écrite depuis Amiens.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/8dacdfb1-4f4f-4a21-9b50-dbbfac40b3cd"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,33 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "positions.schema.json",
+ "type": "object",
+ "required": [
+  "description",
+  "records"
+ ],
+ "properties": {
+  "description": {
+   "type": "string"
+  },
+  "records": {
+   "type": "array",
+   "items": {
+    "allOf": [
+     {
+      "$ref": "claim.schema.json"
+     },
+     {
+      "type": "object",
+      "required": [
+       "topic"
+      ]
+     }
+    ]
+   }
+  },
+  "confidence_scale": {
+   "type": "object"
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B179",
+ "cote": "MJV B179",
+ "title": "Lettre de Jules Verne au Commandant [Heumbert], dernier trimestre 1875",
+ "date": "dernier trimestre 1875",
+ "recipient_guess": "Commandant [Heumbert], dernier trimestre 1875",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152488",
+ "record": "eadcgm:EADC:a2152488",
+ "support": null,
+ "dimensions": "document fermé : 10 x 13 cm / document ouvert : 20 x 13 cm",
+ "archival_description": {
+  "text": "Lettre dans laquelle Jules Verne écrit qu'il revient de Paris. Avec cette lettre de Jules Verne, le commandant pourra obtenir une loge numérotée et de face, mardi à 2 heures. Jules Verne conclut sa lettre en disant qu'il va envoyer le discours de Baril en même temps que celui qu'il a fait pour la séance générale du 12 [octobre]. Lettre sans doute envoyée dans le courant du dernier trimestre 1875.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/a8e1b0b3-5633-4237-aa97-5628208cb771"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

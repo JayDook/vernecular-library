@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B315",
+ "cote": "MJV B315",
+ "title": "Lettre autographe signée de Jules Verne adressée à sa mère, Sophie Verne, 29 juillet 1854",
+ "date": "29 juillet 1854",
+ "recipient_guess": "sa mère, Sophie Verne, 29 juillet 1854",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152610",
+ "record": "eadcgm:EADC:a2152610",
+ "support": null,
+ "dimensions": "document fermé : H. 20,6 x L. 13,1 cm / document ouvert : H. 20,6 x L. 26,6 cm",
+ "archival_description": {
+  "text": "Jules Verne échange avec sa mère, Sophie Verne, des détails sur sa santé notamment et sur son quotidien. Il évoque ensuite ses écrits publiés dans le Musée des familles : \"Un voyage en ballon\" [Un drame dans les airs] ainsi que \"Les premiers Navires de la Marine Mexicaine\" (publié en juillet 1851).",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Sophie Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/53e42635-caf7-4fb7-82dd-f41ca112dcd1"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,306 @@
+{
+ "description": "Traits. Observer descriptions are 'documented' as observations; generalisations are 'inferred'.",
+ "evidence_levels": {
+  "documented": "stated in a cited source (Verne's reported words, firsthand observation, or reliable reference)",
+  "inferred": "reasoned from multiple sources; see reasoning",
+  "speculative": "plausible but weakly or not supported by collected sources"
+ },
+ "records": [
+  {
+   "id": "pers-001",
+   "topic": "modesty",
+   "claim": "Appeared reluctant to talk about himself or his books; interviewers needed his wife's help to draw him out.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.207",
+     "source_kind": "firsthand",
+     "quote": "M. Verne is singularly modest about his work, and showed no desire to talk about either his books or himself",
+     "char_offset": 2753,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "pers-002",
+   "topic": "perfectionism",
+   "claim": "A slow, meticulous reviser who claimed never to have done slovenly work and corrected 7-9 sets of proofs.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.117",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I am never satisfied with less than seven or eight proofs",
+     "char_offset": 6801,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I don’t think I have ever done a piece of slovenly work",
+     "char_offset": 11244,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.211",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I often have as many as eight or nine revises",
+     "char_offset": 18694,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "pers-003",
+   "topic": "wounded pride / desire for literary recognition",
+   "claim": "Felt deeply that French literary establishment ignored him and wanted recognition as a stylist and artist, more than money or decorations.",
+   "evidence_level": "documented",
+   "caveats": "Sherard's interview is Verne's speech as reported/translated by a journalist; some dates in it are wrong (e.g. Five Weeks is dated 1861 and Verne's age at writing as 25; actual publication Jan 1863, Verne aged 34).",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.115",
+     "source_kind": "verne_own_words_reported",
+     "quote": "great regret of my life is that I have never taken any place in French literature",
+     "char_offset": 61,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I am an artist",
+     "char_offset": 32079,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "pers-004",
+   "topic": "kindliness / sociability",
+   "claim": "Contemporaries described him as genial, good-hearted, without enemies or literary jealousy.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.115",
+     "source_kind": "firsthand",
+     "quote": "an aroma of goodness and kindness of heart",
+     "char_offset": 2066,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "conclusion",
+     "source_kind": "secondary",
+     "quote": "ni jalousie ni petitesse, rien des mesquines passions du rival de lettres",
+     "char_offset": 32458,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "pers-005",
+   "topic": "paradox: sociable yet solitary",
+   "claim": "Combined a Parisian boulevardier's gaiety with a love of solitude and quiet; Verne himself said he could be happiest 'in a cloister'.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "intro",
+     "source_kind": "secondary",
+     "quote": "gai causeur, inventeur inépuisable, boulevardier et solitaire",
+     "char_offset": 3433,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "could never be happier than in a cloister",
+     "char_offset": 28697,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "pers-006",
+   "topic": "regularity / discipline",
+   "claim": "Rigid routine: rose ~5 am, wrote until 11, read periodicals in the afternoon, asleep by 8-8:30 pm.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.116",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I rise every morning before five",
+     "char_offset": 6257,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.210",
+     "source_kind": "verne_own_words_reported",
+     "quote": "each evening he is generally sound asleep by eight",
+     "char_offset": 11668,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "pers-007",
+   "topic": "energy in conversation",
+   "claim": "Spoke rapidly with quick hand movements; energetic manner even at 61.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "M. Verne spoke in a short, rapid way",
+     "char_offset": 6462,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "the rapidity of his speech and the quick movements of his firm white hands",
+     "char_offset": 5182,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "pers-008",
+   "topic": "tidiness / austerity",
+   "claim": "Worked in a tiny, bare, cell-like room with a camp bed; extremely neat desk and manuscript.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "The room was very small",
+     "char_offset": 10785,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.210",
+     "source_kind": "firsthand",
+     "quote": "a tiny, cell-like bed-chamber",
+     "char_offset": 11378,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "pers-009",
+   "topic": "detachment from finished work",
+   "claim": "Lost interest in a book once proofs were done; never re-read his stories (per his wife), though he once jokingly said he read 'a novel by Jules Verne' with enjoyment.",
+   "evidence_level": "documented",
+   "caveats": "The two statements conflict mildly; the second is likely playful.",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.212",
+     "source_kind": "verne_own_words_reported",
+     "quote": "has never re-read a chapter of a single one of his stories",
+     "char_offset": 16843,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "pick up a novel by Jules Verne and read it with enjoyment",
+     "char_offset": 31236,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "pers-010",
+   "topic": "non-acquisitiveness",
+   "claim": "Presented himself as no 'money-getting man' despite feeling underpaid by early contracts.",
+   "evidence_level": "documented",
+   "caveats": "Self-presentation; Hetzel correspondence (not collected) shows he negotiated actively.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "But I am not and never have been a money-getting man",
+     "char_offset": 30917,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "pers-011",
+   "topic": "melancholy undertone",
+   "claim": "A smiling melancholy, especially in later life (regret over recognition, loss of travel).",
+   "evidence_level": "inferred",
+   "reasoning": "Claretie (1883) already notes 'mélancolie souriante'; Sherard (1893) records sadness about literary standing; Belloc records him 'half sadly' saying he now travels only in imagination. Consistent across three observers.",
+   "citations": [
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "conclusion",
+     "source_kind": "secondary",
+     "quote": "l’espèce de mélancolie souriante du marin",
+     "char_offset": 32632,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.211",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I now journey only in imagination",
+     "char_offset": 20582,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "pers-012",
+   "topic": "gallantry / humour",
+   "claim": "Playful, gallant humour with women visitors and his wife.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "You may save a young widower before you return",
+     "char_offset": 8656,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.208",
+     "source_kind": "firsthand",
+     "quote": "with a charming air of old-fashioned gallantry",
+     "char_offset": 6258,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B175",
+ "cote": "MJV B175",
+ "title": "lettre de Jules Verne à son ami Philippe [Sille], 20 juillet 1892",
+ "date": "20 juillet 1892",
+ "recipient_guess": "son ami Philippe [Sille], 20 juillet 1892",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152483",
+ "record": "eadcgm:EADC:a2152483",
+ "support": null,
+ "dimensions": "feuillet fermé : 10,4 x 13,4 cm / feuillet ouvert : 20,9 x 13,4 cm / enveloppe : 11,2 x 7,2 cm",
+ "archival_description": {
+  "text": "lettre de Jules Verne à son ami Philippe [Sille]. Lettre de remerciements suite à des félicitations.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/3bf59ffe-306c-4fb0-8ae9-4c3eedc52b78"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

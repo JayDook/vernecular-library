@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B19",
+ "cote": "MJV B19",
+ "title": "Lettre de Jules Verne à sa mère, 30 juillet 1848",
+ "date": "30 juillet 1848",
+ "recipient_guess": "sa mère, 30 juillet 1848",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152587",
+ "record": "eadcgm:EADC:a2152587",
+ "support": null,
+ "dimensions": "document fermé : 15,3 x 20 cm / document ouvert : 30,5 x 20 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne à sa mère, [adressée à] Monsieur Verne, avoué, rue J.Jacques, 6, Nantes, Paris le 30 juillet 1848. Lettre dans laquelle Jules Verne évoque son quotidien d'étudiant à Paris. Il évoque aussi un songe.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Sophie Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/9f26838d-ef94-4688-828c-95c1d477a0f3"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

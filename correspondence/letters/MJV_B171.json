@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B171",
+ "cote": "MJV B171",
+ "title": "Lettre de Jules Verne à M. [Romani], 09 août 1901",
+ "date": "09 août 1901",
+ "recipient_guess": "M. [Romani], 09 août 1901",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152479",
+ "record": "eadcgm:EADC:a2152479",
+ "support": null,
+ "dimensions": "document fermé : 10,2 x 13,3 cm / document ouvert : 20,4 x 13,3 cm",
+ "archival_description": {
+  "text": "Lettre autographe de Jules Verne à M. [Romani] Jules Verne remercie Mr [Romani] de l'envoi de sa lettre. Il est heureux du succès retrouvé par l'adaptation de la pièce \"Michel Strogoff\" au théâtre de Rouen. Il évoque aussi sa prochaine opération de la cataracte.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/a727acda-29c7-4440-8555-a9f3a72c4c9f"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

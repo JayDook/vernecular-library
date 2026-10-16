@@ -1,0 +1,88 @@
+{
+ "items_total": 144,
+ "by_status": {
+  "collected": 118,
+  "merged": 11,
+  "not collected": 15
+ },
+ "collected_by_category_language": {
+  "translations/en": 50,
+  "works/fr": 55,
+  "firsthand/en": 1,
+  "biography/en": 2,
+  "biography/fr": 1,
+  "interview/en": 3,
+  "autobiography/en": 1,
+  "interview/fr": 1,
+  "speech/fr": 3,
+  "firsthand_account/fr": 1
+ },
+ "collected_by_type": {
+  "translation": 50,
+  "work": 39,
+  "travel account": 1,
+  "encyclopedia article": 1,
+  "essay": 2,
+  "biography": 1,
+  "play": 6,
+  "poetry": 1,
+  "short stories": 1,
+  "nonfiction": 2,
+  "short story": 3,
+  "novel": 2,
+  "interview": 4,
+  "autobiography": 1,
+  "speech": 3,
+  "firsthand account": 1
+ },
+ "collected_chars_total": 51373980,
+ "merged_duplicates": 11,
+ "claims": {
+  "behaviour_examples": {
+   "documented": 25
+  },
+  "biography": {
+   "documented": 15
+  },
+  "contradictions_uncertainties": {
+   "inferred": 8,
+   "documented": 6,
+   "speculative": 1
+  },
+  "conversational_style": {
+   "documented": 7,
+   "inferred": 2
+  },
+  "opinions": {
+   "documented": 12,
+   "inferred": 1,
+   "speculative": 2
+  },
+  "personality": {
+   "documented": 11,
+   "inferred": 1
+  },
+  "personality_dossier": {
+   "documented": 19
+  },
+  "positions": {
+   "documented": 15,
+   "speculative": 2,
+   "inferred": 2
+  },
+  "relationships": {
+   "documented": 12
+  },
+  "scientific_knowledge": {
+   "documented": 10
+  },
+  "timeline": {
+   "documented": 18,
+   "inferred": 1
+  },
+  "worldview": {
+   "documented": 6,
+   "inferred": 1
+  }
+ }
+}

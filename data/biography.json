@@ -1,0 +1,365 @@
+{
+ "description": "Core biographical facts.",
+ "evidence_levels": {
+  "documented": "stated in a cited source (Verne's reported words, firsthand observation, or reliable reference)",
+  "inferred": "reasoned from multiple sources; see reasoning",
+  "speculative": "plausible but weakly or not supported by collected sources"
+ },
+ "records": [
+  {
+   "id": "bio-001",
+   "claim": "Born in Nantes on 8 February 1828.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.117",
+     "source_kind": "verne_own_words_reported",
+     "quote": "was born in Nantes on the 8th of February, 1828",
+     "char_offset": 7783,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 1",
+     "source_kind": "encyclopedia",
+     "quote": "born at Nantes on the 8th of February 1828",
+     "char_offset": 45,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "§ intro",
+     "source_kind": "secondary",
+     "quote": "est né à Nantes le 8 février 1828",
+     "char_offset": 4667,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-002",
+   "claim": "His father (Pierre Verne) was a lawyer, educated in Paris, who wrote songs privately and avoided publicity; his mother was Breton, from Morlaix (per Verne).",
+   "evidence_level": "documented",
+   "caveats": "Sherard's interview is Verne's speech as reported/translated by a journalist; some dates in it are wrong (e.g. Five Weeks is dated 1861 and Verne's age at writing as 25; actual publication Jan 1863, Verne aged 34).",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "pp.117-118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "My mother was a Bas;Bretonne, from Morlaix",
+     "char_offset": 8240,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "He wrote songs at a time when songs were still written in France",
+     "char_offset": 8889,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-003",
+   "claim": "He was one of five children (two boys, three girls); his brother Paul (naval officer, later Alpine writer) was his closest friend.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "My brother Paul was and is my dearest friend",
+     "char_offset": 9874,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "final para",
+     "source_kind": "encyclopedia",
+     "quote": "His brother, Paul Verne, contributed to the Transactions of the French Alpine Club",
+     "char_offset": 3212,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-004",
+   "claim": "Educated at the lycée of Nantes, then sent to Paris to study law.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "was educated at the Lycée of Nantes, where I remained till I had finished my rhetoric classes, when I was sent to Paris to study law",
+     "char_offset": 12468,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 1",
+     "source_kind": "encyclopedia",
+     "quote": "he went to Paris to study for the bar",
+     "char_offset": 139,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-005",
+   "claim": "His early literary career was in the theatre; Les Pailles rompues (with Dumas fils' involvement) was staged at the Gymnase (1850). He was secretary of the Théâtre Lyrique.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 1",
+     "source_kind": "encyclopedia",
+     "quote": "in 1850 his verse comedy, Les Pailles rompues, in which Alexandre Dumas fils had some share, was produced at the Gymnase",
+     "char_offset": 266,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.120",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I was then secretary to the Lyric Theatre",
+     "char_offset": 16592,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-006",
+   "claim": "He speculated on the Paris Bourse in the 1850s; by his own account it taught him 'the romance of commerce' used in his novels.",
+   "evidence_level": "documented",
+   "caveats": "Sherard's interview is Verne's speech as reported/translated by a journalist; some dates in it are wrong (e.g. Five Weeks is dated 1861 and Verne's age at writing as 25; actual publication Jan 1863, Verne aged 34).",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.120",
+     "source_kind": "verne_own_words_reported",
+     "quote": "it was there that I got to know the romance of commerce, the fever of business",
+     "char_offset": 16086,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-007",
+   "claim": "First published novel, Cinq semaines en ballon, published by Hetzel (Jan 1863), beginning a lifelong publishing relationship with P.-J. Hetzel and later his son.",
+   "evidence_level": "documented",
+   "caveats": "Sherard's text dates it 1861; Claretie gives 1863 (correct).",
+   "citations": [
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "§ Hetzel",
+     "source_kind": "secondary",
+     "quote": "Ce fut en 1863 que Jules Verne publia, chez Hetzel, son premier « roman scientifique »",
+     "char_offset": 9713,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.208",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I sent the manuscript to the well-known Paris publisher, M. Hetzel",
+     "char_offset": 5514,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-008",
+   "claim": "Married Honorine (née Morel), widow de Viane with two daughters, whom he met at Amiens; they had one son, Michel.",
+   "evidence_level": "documented",
+   "caveats": "Marriage date (10 Jan 1857, Paris) and her maiden name come from modern biographies not in the corpus; Sherard's OCR spells 'de Vianne'.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "was a widow with two little daughters",
+     "char_offset": 28911,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "Our only child, Michel, lives in Paris",
+     "char_offset": 29650,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "nc10-jules-verne-an-exploratory-biography",
+     "location": "ch. on marriage (not in corpus)",
+     "source_kind": "secondary",
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-009",
+   "claim": "Owned successive yachts named Saint-Michel (a small fishing-type sailboat, later a ~100-ton steam yacht) and cruised the Channel, North Sea and Mediterranean.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "§ yacht",
+     "source_kind": "secondary",
+     "quote": "le Saint-Michel, est devenu un yacht à vapeur d’une centaine de tonneaux",
+     "char_offset": 31068,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "comes from a tour from Tangiers to Malta on my yacht",
+     "char_offset": 25079,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-010",
+   "claim": "Travelled to America in 1867 aboard the Great Eastern, visiting New York, Albany and Niagara (his only US visit).",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "came from my voyage to America in 1867, on the Great Eastern",
+     "char_offset": 26042,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "For a few days only, during which time I saw Niagara",
+     "char_offset": 6682,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-011",
+   "claim": "In 1886 his mentally ill nephew shot him in the leg, leaving him permanently lame and ending his long travels.",
+   "evidence_level": "documented",
+   "caveats": "Nephew's name (Gaston Verne) and date (9 March 1886) come from modern biography, not corpus.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "drew a revolver and fired at me, wounding me in the left leg and laming me for life",
+     "char_offset": 25707,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "walks with a slight limp, the result of a wound",
+     "char_offset": 9441,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-012",
+   "claim": "Settled permanently in Amiens, lived at the corner of Boulevard Longueville and Rue Charles-Dubois, and served on the Amiens municipal council.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.116",
+     "source_kind": "verne_own_words_reported",
+     "quote": "Jules Verne lives on the Boulevard Longueville, at Amiens, at the corner of the Rue Charles Dubois",
+     "char_offset": 2775,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.211",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I am far prouder of being a town councillor of Amiens than of my literary reputation",
+     "char_offset": 19883,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-013",
+   "claim": "Made Officer of the Légion d'honneur (1892); never elected to the Académie française although some of his books were crowned by it.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "My promotion to officer was signed in July of last year",
+     "char_offset": 31839,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 2",
+     "source_kind": "encyclopedia",
+     "quote": "he was never enrolled among its members",
+     "char_offset": 3126,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-014",
+   "claim": "Died at Amiens on 24 March 1905.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 2",
+     "source_kind": "encyclopedia",
+     "quote": "He died at Amiens on the 24th of March 1905",
+     "char_offset": 3167,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "bio-015",
+   "claim": "Suffered in old age from weakening eyesight and gastric pain ('gastralgia').",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.116",
+     "source_kind": "firsthand",
+     "quote": "there are days when gastralgia martyrizes him",
+     "char_offset": 2597,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  }
+ ]
+}

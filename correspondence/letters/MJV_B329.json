@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B329",
+ "cote": "MJV B329",
+ "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 1871",
+ "date": "1871",
+ "recipient_guess": "son père, Pierre Verne, 1871",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152585",
+ "record": "eadcgm:EADC:a2152585",
+ "support": null,
+ "dimensions": "document fermé : H. 20,7 x L.13,4 cm / document ouvert : H. 20,7 x L.26,8 cm",
+ "archival_description": {
+  "text": "Jules Verne écrit à son père avoir des difficultés pour se faire payer par P.J. Hetzel en raison de la guerre [Guerre Franco-prussienne de 1870-1871]. Il aborde le thème de la politique française : Thiers, la fin de la Commune, l’Assemblée de Versailles.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/a79ba99b-61a0-46c6-87d0-ef23a1c9aaeb"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

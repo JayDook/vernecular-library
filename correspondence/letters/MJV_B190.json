@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B190",
+ "cote": "MJV B190",
+ "title": "Lettre de Jules Verne à des Directeurs, vers 1874",
+ "date": "vers 1874",
+ "recipient_guess": "des Directeurs, vers 1874",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152499",
+ "record": "eadcgm:EADC:a2152499",
+ "support": null,
+ "dimensions": "document fermé : 13,4 x 21,3 cm / document ouvert : 26,8 x 21,3 cm",
+ "archival_description": {
+  "text": "Lettre manuscrite autographe de Jules Verne à des Directeurs [de théâtre] dans laquelle il parle d'Adolphe d'Ennery et de son travail sur l'adaptation du roman \"Le tour du monde en 80 jours\" en pièce de théâtre et reproduit certains passages de sa correspondance avec lui. Ce passage évoque les décors de la grotte aux serpents. Jules Verne termine cette lettre en signalant que le paquebot sera immobile mais qu'il faudra inclure des éléments de décors qui signaleront le mouvement. Lettre écrite un vendredi sans autre précision sur la date.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/3a57fd38-735f-4481-be22-50669d918ccf"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B304",
+ "cote": "MJV B304",
+ "title": "Lettre autographe signée de Jules Verne adressée à Léon [Guillon], 22 novembre 1891",
+ "date": "22 novembre 1891",
+ "recipient_guess": "Léon [Guillon], 22 novembre 1891",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152634",
+ "record": "eadcgm:EADC:a2152634",
+ "support": null,
+ "dimensions": "H. 8,9 x L. 11,5 cm",
+ "archival_description": {
+  "text": "Jules Verne répond à Léon Guillon qui lui a demandé un autographe pour le transmettre à une tierce personne. (document non présent).",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Léon Guillon"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/4f9eda6b-7363-43ce-8d71-7e6d3e87920a"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

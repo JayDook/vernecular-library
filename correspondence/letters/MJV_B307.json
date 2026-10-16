@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B307",
+ "cote": "MJV B307",
+ "title": "Lettre autographe signée de Jules Verne adressée à sa sœur Marie, 03 janvier 1900",
+ "date": "03 janvier 1900",
+ "recipient_guess": "sa sœur Marie, 03 janvier 1900",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152640",
+ "record": "eadcgm:EADC:a2152640",
+ "support": null,
+ "dimensions": "document fermé : H. 13,5 x L. 10,5 cm / document ouvert : H. 13,5 x 21 cm",
+ "archival_description": {
+  "text": "Jules Verne envoie ses vœux et ceux d’Honorine pour cette nouvelle année. Il écrit que sa vue l’inquiète et qu’il va devoir subir une opération de la cataracte.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Marie Guillon"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/82128364-e0c3-45e2-8462-125ecb0b7878"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

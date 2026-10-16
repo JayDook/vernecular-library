@@ -1,0 +1,90 @@
+[
+ {
+  "kept": "pg55869-les-grands-navigateurs-du-xviiie-siecle",
+  "removed": "wsfr-les-grands-navigateurs-du-xviiie-siecle",
+  "kind": "near",
+  "jaccard_estimate": 0.887,
+  "kept_title": "Les grands navigateurs du XVIIIe siècle",
+  "removed_title": "Les grands navigateurs du XVIIIe siècle"
+ },
+ {
+  "kept": "pg54873-vingt-mille-lieues-sous-les-mers",
+  "removed": "pg5097-vingt-mille-lieues-sous-les-mers-complet",
+  "kind": "near",
+  "jaccard_estimate": 0.93,
+  "kept_title": "Vingt mille lieues sous les mers",
+  "removed_title": "Vingt mille Lieues Sous Les Mers — Complete"
+ },
+ {
+  "kept": "pg60450-les-naufrages-du-jonathan",
+  "removed": "wsfr-les-naufrages-du-jonathan",
+  "kind": "near",
+  "jaccard_estimate": 0.941,
+  "kept_title": "Les naufragés du Jonathan",
+  "removed_title": "Les Naufragés du Jonathan"
+ },
+ {
+  "kept": "pg3456-le-tour-du-monde-en-quatre-vingts-jours",
+  "removed": "pg46541-le-tour-du-monde-en-quatre-vingts-jours",
+  "kind": "near",
+  "jaccard_estimate": 0.895,
+  "kept_title": "Le tour du monde en quatre-vingts jours",
+  "removed_title": "Le Tour du monde en quatre-vingts jours"
+ },
+ {
+  "kept": "pg3456-le-tour-du-monde-en-quatre-vingts-jours",
+  "removed": "pg800-le-tour-du-monde-en-quatre-vingts-jours",
+  "kind": "near",
+  "jaccard_estimate": 0.938,
+  "kept_title": "Le tour du monde en quatre-vingts jours",
+  "removed_title": "Le tour du monde en quatre-vingts jours"
+ },
+ {
+  "kept": "pg103-around-the-world-in-eighty-days",
+  "removed": "pg2154-around-the-world-in-eighty-days-junior-d",
+  "kind": "near",
+  "jaccard_estimate": 0.887,
+  "kept_title": "Around the World in Eighty Days",
+  "removed_title": "Around the World in Eighty Days. Junior Deluxe Edition"
+ },
+ {
+  "kept": "pg45058-les-tribulations-d-un-chinois-en-chine",
+  "removed": "pg14162-les-tribulations-d-un-chinois-en-chine",
+  "kind": "near",
+  "jaccard_estimate": 0.91,
+  "kept_title": "Les tribulations d'un chinois en Chine",
+  "removed_title": "Les tribulations d'un chinois en Chine"
+ },
+ {
+  "kept": "pg46111-autour-de-la-lune",
+  "removed": "pg4717-autour-de-la-lune",
+  "kind": "near",
+  "jaccard_estimate": 0.965,
+  "kept_title": "Autour de la lune",
+  "removed_title": "Autour de la Lune"
+ },
+ {
+  "kept": "pg38674-de-la-terre-a-la-lune-trajet-direct-en-9",
+  "removed": "pg799-de-la-terre-a-la-lune-trajet-direct-en-9",
+  "kind": "near",
+  "jaccard_estimate": 0.859,
+  "kept_title": "De la terre à la lune, trajet direct en 97 heures 20 minutes",
+  "removed_title": "De la terre à la lune: trajet direct en 97 heures 20 minutes"
+ },
+ {
+  "kept": "pg1698-the-survivors-of-the-chancellor",
+  "removed": "pg1652-the-survivors-of-the-chancellor-diary-of",
+  "kind": "near",
+  "jaccard_estimate": 0.883,
+  "kept_title": "The Survivors of the Chancellor",
+  "removed_title": "The Survivors of the Chancellor: Diary of J.R. Kazallon, Passenger"
+ },
+ {
+  "kept": "pg26823-michel-strogoff-piece-a-grand-spectacle-",
+  "removed": "wsfr-michel-strogoff-theatre-1880",
+  "kind": "near",
+  "jaccard_estimate": 0.93,
+  "kept_title": "Michel Strogoff: Pièce à grand spectacle en 5 actes et 16 tableaux",
+  "removed_title": "Michel Strogoff (théâtre 1880)"
+ }
+]

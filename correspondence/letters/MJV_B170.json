@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B170",
+ "cote": "MJV B170",
+ "title": "Lettre de Jules Verne à un ami",
+ "date": null,
+ "recipient_guess": "un ami",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152478",
+ "record": "eadcgm:EADC:a2152478",
+ "support": null,
+ "dimensions": "document fermé : 10,7 x 16,4 / document ouvert : 21,5 x 16,4 cm",
+ "archival_description": {
+  "text": "Lettre autographe de Jules Verne à un ami. Jules Verne donne son adresse provisoire chez Mr Caron, boulanger sur le port, durant son séjour au Tréport où se trouve son bateau le Saint Michel. Jules Verne cite également Alexandre Dulong et Alfred [Bulos].",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/78251e3c-f431-4b0f-b7a4-18d356ac4cca"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,54 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "letter.schema.json",
+ "type": "object",
+ "required": [
+  "id",
+  "cote",
+  "title",
+  "institution",
+  "transcription_status",
+  "reuse"
+ ],
+ "properties": {
+  "id": {
+   "type": "string"
+  },
+  "cote": {
+   "type": "string"
+  },
+  "date": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "author_side": {
+   "enum": [
+    "active",
+    "passive",
+    "received"
+   ]
+  },
+  "transcription_status": {
+   "enum": [
+    "machine_htr",
+    "scan_available_not_transcribed",
+    "none",
+    "archival_transcription_unverified"
+   ]
+  },
+  "reuse": {
+   "type": [
+    "object",
+    "string"
+   ]
+  },
+  "archival_description": {
+   "type": [
+    "object",
+    "null"
+   ]
+  }
+ }
+}

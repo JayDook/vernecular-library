@@ -1,0 +1,51 @@
+{
+ "id": "MJV_B290",
+ "cote": "MJV B290",
+ "title": "Lettre autographe signée adressée à sa mère, Sophie Verne, 27 novembre 1848",
+ "date": "27 novembre 1848",
+ "recipient_guess": "sa mère, Sophie Verne, 27 novembre 1848",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152608",
+ "record": "eadcgm:EADC:a2152608",
+ "support": null,
+ "dimensions": "document ouvert H. 19,4 x L. 31 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne sur sa vie personnelle.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Sophie Verne"
+ ],
+ "digitized_urls": [],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10558681c",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_sa_m%C3%A8re._Lettre_autographe_sign%C3%A9e_adress%C3%A9e_%C3%A0_sa_m%C3%A8re,_Sophie_Verne_-_btv1b10558681c_(1_of_4).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10558681c",
+   "page": 2,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_sa_m%C3%A8re._Lettre_autographe_sign%C3%A9e_adress%C3%A9e_%C3%A0_sa_m%C3%A8re,_Sophie_Verne_-_btv1b10558681c_(2_of_4).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10558681c",
+   "page": 3,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_sa_m%C3%A8re._Lettre_autographe_sign%C3%A9e_adress%C3%A9e_%C3%A0_sa_m%C3%A8re,_Sophie_Verne_-_btv1b10558681c_(3_of_4).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10558681c",
+   "page": 4,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_sa_m%C3%A8re._Lettre_autographe_sign%C3%A9e_adress%C3%A9e_%C3%A0_sa_m%C3%A8re,_Sophie_Verne_-_btv1b10558681c_(4_of_4).jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "transcription_withheld_in_public_release",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

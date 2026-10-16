@@ -1,0 +1,29 @@
+{
+ "id": "MJV_B337",
+ "cote": "MJV B337",
+ "title": "Lettre autographe signée adressée à Marguerite Allote de la Fuÿe, 06 décembre 1928",
+ "date": "06 décembre 1928",
+ "recipient_guess": "Marguerite Allote de la Fuÿe, 06 décembre 1928",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152678",
+ "record": "eadcgm:EADC:a2152678",
+ "support": null,
+ "dimensions": "lettre : H. 21 x L. 13,6 cm / enveloppe : H. 12 x L. 14,5 cm",
+ "archival_description": {
+  "text": "Cette lettre est en lien avec le centenaire de Jules Verne fêté à Nantes en 1928. L’artiste répond à une lettre de Marguerite Allotte de la Fuÿe. Dans cette lettre il la remercie pour son inscription dans le Comité d’Honneur pour le centenaire de Jules Verne. Il précise avoir lu les romans de l’auteur.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Giorgio De Chirico",
+  "Jules Verne",
+  "Marguerite Allotte de la Fuÿe"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/c6cfa205-504e-484f-9e24-57142510a88e"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

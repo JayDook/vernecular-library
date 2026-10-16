@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B314",
+ "cote": "MJV B314",
+ "title": "Lettre autographe signée de Jules Verne adressée à sa mère, Sophie Verne, 26 janvier 1851",
+ "date": "26 janvier 1851",
+ "recipient_guess": "sa mère, Sophie Verne, 26 janvier 1851",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152609",
+ "record": "eadcgm:EADC:a2152609",
+ "support": null,
+ "dimensions": "document fermé : H. 20,5 x L. 13,3 cm / document ouvert : H. 20,5 x L. 26,6 cm",
+ "archival_description": {
+  "text": "Dans cette lettre Jules Verne échange avec sa mère sur son quotidien parisien et évoque ses premières pièces de théâtre : « Un drame sous Louis XV » qu’il n’a pas souhaité présenter, « La conspiration des poudres » et « Quiridine » et parle d’Hignard. Il change de sujet afin de demander à sa mère de le marier.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Sophie Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/82a271a7-39ee-4325-b5e0-0542b6774bde"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

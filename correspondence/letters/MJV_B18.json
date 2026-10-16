@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B18",
+ "cote": "MJV B18",
+ "title": "Lettre de Jules Verne à sa tante, Madame Chataubour, 30 mars 1836",
+ "date": "30 mars 1836",
+ "recipient_guess": "sa tante, Madame Chataubour, 30 mars 1836",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152448",
+ "record": "eadcgm:EADC:a2152448",
+ "support": null,
+ "dimensions": "document fermé : 16,3 x 20,4 cm / document ouvert : 32,5 x 20,4 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne à sa tante, Madame Chataubour [sic], 1 étage. Lhorient [sic] – Lhorient, le 30 mars 1836 Lettre du jeune Jules Verne demandant à sa tante quand est-ce qu'elle viendra le voir en lui apportant un petit télégraphe.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Madame Chataubour"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/57bebb48-9256-45a6-a88f-22de029ac9d8"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

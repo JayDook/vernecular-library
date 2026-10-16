@@ -1,0 +1,34 @@
+{
+ "id": "MJV_B174",
+ "cote": "MJV B174",
+ "title": "Lettre de Jules Verne au docteur, après 1857",
+ "date": "après 1857",
+ "recipient_guess": "docteur, après 1857",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152482",
+ "record": "eadcgm:EADC:a2152482",
+ "support": null,
+ "dimensions": "11,3 x 17,8 cm",
+ "archival_description": {
+  "text": "Lettre manuscrite de Jules Verne adressée à un docteur. Dans cette lettre, Jules Verne évoque la maladie d'une petite fille [une des deux filles d'Honorine Verne ?] qui semble assez grave mais qui a été indentifiée par les médecins d'Amiens. Jules Verne lui signale qu'il n'a pas à se déplacer jusqu'à Amiens.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/604008b9-ed18-40d9-b927-7ed5a713c74e"
+ ],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559246s",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettre_de_Jules_Verne_au_docteur_-_btv1b10559246s.jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "transcription_withheld_in_public_release",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

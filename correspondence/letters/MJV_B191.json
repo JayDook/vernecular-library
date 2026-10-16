@@ -1,0 +1,46 @@
+{
+ "id": "MJV_B191",
+ "cote": "MJV B191",
+ "title": "Lettre de Jules Verne à Ritt, vers 1874-1875",
+ "date": "vers 1874-1875",
+ "recipient_guess": "Ritt, vers 1874-1875",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152501",
+ "record": "eadcgm:EADC:a2152501",
+ "support": null,
+ "dimensions": "document fermé : 10,2 x 13,5 cm / document ouvert : 20,4 x 13,5 cm",
+ "archival_description": {
+  "text": "Lettre manuscrite de Jules Verne adressée à Ritt. Dans cette lettre Jules Verne invite son interlocteur au calme. En effet, ce dernier semble indigné suite à la publication d'un article de [Francisque] Sarcey en lien avec l'échec de la pièce de théâtre \"La Haine\" de [Victorien] Sardou et au succès du \"Tour du monde\". Jules Verne évoque aussi la future adaptation des \"Enfants du capitaine Grant\".",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/9b8d3afc-6c8d-40d5-865b-c4b025de4637"
+ ],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b105592638",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_de_Jules_Verne_%C3%A0_Ritt._Lettre_de_Jules_Verne_%C3%A0_Ritt_-_btv1b105592638_(1_of_3).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b105592638",
+   "page": 2,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_de_Jules_Verne_%C3%A0_Ritt._Lettre_de_Jules_Verne_%C3%A0_Ritt_-_btv1b105592638_(2_of_3).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b105592638",
+   "page": 3,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_de_Jules_Verne_%C3%A0_Ritt._Lettre_de_Jules_Verne_%C3%A0_Ritt_-_btv1b105592638_(3_of_3).jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "transcription_withheld_in_public_release",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

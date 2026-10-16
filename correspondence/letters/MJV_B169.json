@@ -1,0 +1,30 @@
+{
+ "id": "MJV_B169",
+ "cote": "MJV B169",
+ "title": "Lettre de Jules Verne à Monsieur [?], 17 décembre 190[1]",
+ "date": "17 décembre 190[1]",
+ "recipient_guess": "Monsieur [?], 17 décembre 190[1]",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152477",
+ "record": "eadcgm:EADC:a2152477",
+ "support": null,
+ "dimensions": "document fermé : 10,1 x 13,3 cm / document ouvert : 20,4 x 13,3 cm",
+ "archival_description": null,
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/8feec7d4-ac13-4e07-a5d7-e4fcae7b6660"
+ ],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559241j",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettre_de_Jules_Verne_%C3%A0_Monsieur_-_btv1b10559241j.jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

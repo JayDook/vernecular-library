@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B166",
+ "cote": "MJV B166",
+ "title": "Lettre de Jules Verne à son frère Paul Verne, 21 août 1894",
+ "date": "21 août 1894",
+ "recipient_guess": "son frère Paul Verne, 21 août 1894",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152475",
+ "record": "eadcgm:EADC:a2152475",
+ "support": null,
+ "dimensions": "document fermé : 13,5 x 21,1 cm / document ouvert : 27 x 21,1 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne adressée à son frère Paul Verne. Lettre de Jules Verne à son \"vieux Paul\". Amiens, 21 août 1894, sur papier à en-tête de la Société industrielle d'Amiens. Jules Verne évoque les quelques extraits des mémoires du prince de Joinville et il comprend que son vieux Paul s'y soit intéressé car c'est toute sa jeunesse. Il lui demande qu'est ce qu'il a dans la tête pour son Vaisseau fantôme. \"Je ne dis pas que je ferai ce roman, mais comme j'ai du temps devant moi, cela m'amuse beaucoup de le chercher. Le vrai ce serait le bateau sous-marin [...] Il faudrait que cela fut à la fois très romanesque et très élevé...\".",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Paul Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/420865df-4b97-478f-b64c-5c83ac241332"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

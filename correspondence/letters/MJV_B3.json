@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B3",
+ "cote": "MJV B3",
+ "title": "Lettre autographe signée de Jules Verne [à un jeune ami poète], 23 septembre 1898",
+ "date": "23 septembre 1898",
+ "recipient_guess": "un jeune ami poète], 23 septembre 1898",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152437",
+ "record": "eadcgm:EADC:a2152437",
+ "support": null,
+ "dimensions": "Document fermé : 13,5 x 21 cm / document ouvert 27 x 21 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne [à un jeune ami poète]. Dans cette lettre, il explique qu'il ne peut rien publier en dehors de la maison Hetzel en raison d'un traité signé avec elle.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/92e5c4b0-f2e5-4a7e-89a2-25709b4f472e"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

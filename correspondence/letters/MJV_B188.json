@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B188",
+ "cote": "MJV B188",
+ "title": "Carte de visite de Jules Verne au Commandant [Heumbert], Fin XIXe-début XXe",
+ "date": "Fin XIXe-début XXe",
+ "recipient_guess": "Commandant [Heumbert], Fin XIXe-début XXe",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152497",
+ "record": "eadcgm:EADC:a2152497",
+ "support": null,
+ "dimensions": "9,6 x 5,7 cm",
+ "archival_description": {
+  "text": "Carte de visite de Jules Verne au Commandant [Heumbert] pour le remercier ; écrite le 28 avril sans préciser l'année.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/770b059e-def4-4a75-a0d5-800d84f41d7c"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

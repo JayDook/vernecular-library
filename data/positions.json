@@ -1,0 +1,422 @@
+{
+ "description": "Political, religious and philosophical positions. Fictional dialogue is never used. Positions in private letters may differ from public statements (see contradictions).",
+ "confidence_scale": {
+  "high": "multiple or unambiguous primary sources",
+  "medium": "single primary source, reported speech, or unverified HTR that is legible",
+  "low": "uncertain reading, single ambiguous phrase, or secondary-only"
+ },
+ "records": [
+  {
+   "id": "pos-001",
+   "topic": "politics 1848: anti-Cavaignac, pro-Louis Bonaparte (student)",
+   "claim": "Aged 20, writing from Paris (27 Nov 1848), he distanced himself from his father's Cavaignac sympathies and apparently cheered for Louis Bonaparte (paraphrased; letter MJV_B290).",
+   "evidence_level": "documented",
+   "confidence": "low",
+   "caveats": "Machine HTR of a dense cursive page; the key phrase needs verification. Ironic tone possible.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B290",
+     "location": "p.4 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "letter:MJV_B290",
+     "location": "p.4 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "pos-002",
+   "topic": "politics 1848-1852: interest in regime change",
+   "claim": "Letters of July 1848 and Oct 1852 discuss the political context and the new emperor Louis-Napoléon (content known only from catalogue summaries).",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B288",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "ses études de droit et le contexte politique de la France"
+    },
+    {
+     "source_id": "letter:MJV_B317",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "Il évoque le nouvel empereur : Louis-Napoléon Bonaparte"
+    }
+   ]
+  },
+  {
+   "id": "pos-003",
+   "topic": "politics 1850: self-description as republican",
+   "claim": "A c.1850 letter to his father appears to be signed as his father's republican son (paraphrased; letter MJV_B272_11).",
+   "evidence_level": "speculative",
+   "confidence": "low",
+   "reasoning": "Single uncertain HTR reading of a signature formula; could be playful.",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B272_11",
+     "location": "p.3 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "pos-004",
+   "topic": "politics 1870: legalism, conservative republicanism, hostility to socialism",
+   "claim": "During the 1870 war he questioned the legitimacy of the Government of National Defence (a government in fact only; paraphrased, letter MJV_B328) without a Constituent Assembly, wanted a quick peace, and wrote that he hoped troops would shoot socialists without mercy, in very harsh terms (paraphrased; letter MJV_B328), the Republic being the only legitimate government entitled to be pitiless toward socialism.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Private letter in wartime; HTR unverified but the passage is legible. Major counterweight to an idealised 'utopian' Verne.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B328",
+     "location": "p.1-2 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "letter:MJV_B328",
+     "location": "p.3 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "letter:MJV_B328",
+     "location": "p.3 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "pos-005",
+   "topic": "politics 1871: Thiers, Commune, Versailles",
+   "claim": "A 1871 letter to his father discusses Thiers, the end of the Commune and the Versailles Assembly (content not yet transcribed).",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B329",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "Il aborde le thème de la politique française : Thiers, la fin de la Commune, l’Assemblée de Versailles"
+    }
+   ]
+  },
+  {
+   "id": "pos-006",
+   "topic": "army and state budget",
+   "claim": "In 1868 he joked that congratulating an officer on automatic promotion was like congratulating someone on coming of age, mocking everyone who, near or far, feeds off the state budget (paraphrased).",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B272_50",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "pos-007",
+   "topic": "war and peace 1875",
+   "claim": "In 1875 he refused to believe in an imminent new war with Germany (he wrote that he could not believe war was coming soon; paraphrased).",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B178",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "pos-008",
+   "topic": "religion",
+   "claim": "Conventional Catholic idiom only: 'if God grants me life', 'Mon Dieu non!', Hetzel-era 's'il plaît à Dieu' (Brisson's phrasing). No collected primary source states doctrinal belief; Brisson notes Mme Verne's charity work. Depth of faith remains undocumented.",
+   "evidence_level": "inferred",
+   "confidence": "low",
+   "reasoning": "Only formulaic expressions and observers' remarks; none of the HTR'd letters discusses faith. The 1848 letter's Seine-water remedy (paraphrased; letter MJV_B290) and family first-communion arrangements (1868) show ordinary Catholic family practice, not personal conviction.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "p.116",
+     "quote_type": "published_text",
+     "quote": "if God grants me life, I shall finish eighty"
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.119",
+     "quote_type": "published_text",
+     "quote": "Mon Dieu non"
+    },
+    {
+     "source_id": "letter:MJV_B272_50",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "pos-009",
+   "topic": "philosophy of his work: realism and instruction",
+   "claim": "Insisted his inventions rest on 'a groundwork of actual fact' and contemporary engineering (Nautilus), contrasting himself with Wells's invented materials; meant his books to be 'instructive'; dénouements should be optimistic and ingenious.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.670",
+     "quote_type": "published_text",
+     "quote": "basing my so-called inventions upon a groundwork of actual fact"
+    },
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.667",
+     "quote_type": "published_text",
+     "quote": "I always intend them to be in a certain sense instructive"
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.117",
+     "quote_type": "published_text",
+     "quote": "que le dénouement soit, tout ensemble, optimiste et ingénieux"
+    }
+   ]
+  },
+  {
+   "id": "pos-010",
+   "topic": "philosophy of progress",
+   "claim": "Saw himself as of the generation 'between Stephenson and Edison', listing everyday inventions with gentle irony (Loire steamers 'inexplosive' because they blew up less often).",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-verne-1891-story-of-my-boyhood",
+     "location": "p.210",
+     "quote_type": "published_text",
+     "quote": "I belong to that generation which is comprised between those two geniuses, Stephenson and Edison"
+    },
+    {
+     "source_id": "ia-verne-1891-story-of-my-boyhood",
+     "location": "p.210",
+     "quote_type": "published_text",
+     "quote": "because they blow up a little less often than the rest"
+    }
+   ]
+  },
+  {
+   "id": "pos-011",
+   "topic": "America",
+   "claim": "In his memoir called America a country 'which every Frenchman may love as a sister of France' and regretted he would never see it again.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "caveats": "Written for an American magazine.",
+   "citations": [
+    {
+     "source_id": "ia-verne-1891-story-of-my-boyhood",
+     "location": "p.211",
+     "quote_type": "published_text",
+     "quote": "which every Frenchman may love as a sister of France"
+    }
+   ]
+  },
+  {
+   "id": "pos-012",
+   "topic": "Dreyfus Affair",
+   "claim": "Reportedly anti-Dreyfusard (against son Michel); no primary evidence collected.",
+   "evidence_level": "speculative",
+   "confidence": "low",
+   "reasoning": "Only modern-biography report (not in corpus); no CEV catalogue summary mentions Dreyfus.",
+   "citations": [
+    {
+     "source_id": "nc11-jules-verne-the-definitive-biography",
+     "location": "ch. on 1890s (not in corpus)",
+     "quote_type": "published_text"
+    }
+   ]
+  },
+  {
+   "id": "pos-013",
+   "topic": "civic improvement (Amiens, 1875)",
+   "claim": "Une ville idéale lists, as a comic wish-list, the municipal improvements he wanted: paved and watered boulevards, good street lighting, benches, clean drinking water in fountains, trams and omnibuses, a new theatre, a proper post office, a finished Palais de Justice, a cleared cathedral parvis, an accurate station clock, and better rail service from the Compagnie du Nord. This anticipates his work as a town councillor (1888-1904).",
+   "evidence_level": "inferred",
+   "confidence": "medium",
+   "reasoning": "The wishes appear as satirical 'dream' improvements contrasted with the present-day failings he names (the water main bursting every year, the narrow post-office window). The satire implies the criticism.",
+   "caveats": "Formal public speech (written to be read aloud as Director of the Académie): a performed persona, but in his own words.",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.~352",
+     "quote_type": "published_text",
+     "quote": "ce fut avec volupté que je frappai du pied ce pavé municipal"
+    },
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.~360",
+     "quote_type": "published_text",
+     "quote": "la grosse conduite qui crève là, tous les ans, avec une régularité mathématique"
+    },
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.~364",
+     "quote_type": "published_text",
+     "quote": "à travers l'un de ces étroits guichets si propices aux torticolis"
+    }
+   ]
+  },
+  {
+   "id": "pos-014",
+   "topic": "patriotism and revanche after 1870-71",
+   "claim": "In January 1875 he praised a new member's 'lignes patriotiques', named 'l'amour du pays, la haine de l'étranger' among noble passions, and set the defeated dead of Froeschwiller-Wœrth and Bazeilles beside the victors of Fleurus and Jemmappes. In the Ville idéale satire, marriage under a bachelor tax is 'le drapeau de la revanche'.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "caveats": "Formal public speech (written to be read aloud as Director of the Académie): a performed persona, but in his own words.",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~106",
+     "quote_type": "published_text",
+     "quote": "l'amour du pays, la haine de l'étranger"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~106",
+     "quote_type": "published_text",
+     "quote": "C'est que ceux-ci valaient ceux-là"
+    },
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.~370",
+     "quote_type": "published_text",
+     "quote": "Qui a été le drapeau de la revanche"
+    }
+   ]
+  },
+  {
+   "id": "pos-015",
+   "topic": "the Commune and religion (public stance, 1875)",
+   "claim": "He publicly endorsed the candidate's condemnation of the 'horreurs de la Commune' and its killing of clergy ('Vous avez cent fois raison'), adding the maxim 'Les martyrs, on ne les enterre pas, on les sème'. This is consistent with the anti-socialist private letter of 1870 (pos-004). It shows public respect for the Church, not personal belief.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Formal public speech (written to be read aloud as Director of the Académie): a performed persona, but in his own words. Agreement voiced in a ceremonial reply.",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~107",
+     "quote_type": "published_text",
+     "quote": "Vous avez cent fois raison, Monsieur"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~107",
+     "quote_type": "published_text",
+     "quote": "on ne les enterre pas, on les sème"
+    }
+   ]
+  },
+  {
+   "id": "pos-016",
+   "topic": "literary property (authors' rights)",
+   "claim": "He disagreed with the candidate and leaned towards perpetual authorial property, as Lamartine did. He suggested states could 'expropriate' great books for public use. He added 'laissez-moi croire que le dernier mot n'est pas dit'.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~109",
+     "quote_type": "published_text",
+     "quote": "La thèse est discutable, Monsieur"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~109",
+     "quote_type": "published_text",
+     "quote": "dût-on exproprier pour cause d'utilité publique les livres qui sont dignes de rester"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~110",
+     "quote_type": "published_text",
+     "quote": "des États, assez riches pour payer leur gloire, peuvent bien faire la dépense d'un flambeau"
+    }
+   ]
+  },
+  {
+   "id": "pos-017",
+   "topic": "progress and the moderns",
+   "claim": "He held that the nineteenth century deserves a place beside the classics and that literature now absorbs science and art: 'C'est la loi du progrès'. In the 2000 dream he satirises progress itself: 'musique de l'avenir', absurd American machines, Latin abolished, and an official speech whose opening sentence never changes.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~105",
+     "quote_type": "published_text",
+     "quote": "La littérature s'est élargie, la science et l'art s'y mêlent"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~105",
+     "quote_type": "published_text",
+     "quote": "C'est la loi du progrès"
+    },
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.~376",
+     "quote_type": "published_text",
+     "quote": "Seule, la première phrase du discours de M. le Délégué était restée ce qu'elle était jadis"
+    }
+   ]
+  },
+  {
+   "id": "pos-018",
+   "topic": "antiquarianism and taste",
+   "claim": "He argued that age alone gives no artistic value and mocked the craze for collecting old faience. If he sat on the jury trying skilled forgers, he said, he would acquit them.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-baril",
+     "location": "p.~325",
+     "quote_type": "published_text",
+     "quote": "l'antiquité ne vaut pas par elle seule"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-baril",
+     "location": "p.~325",
+     "quote_type": "published_text",
+     "quote": "récusez-moi, ou je les acquitte"
+    }
+   ]
+  },
+  {
+   "id": "pos-019",
+   "topic": "'conservative' republic of letters",
+   "claim": "He approved calling the republic of letters 'conservatrice' and said equality cannot exist within it, though there is room for everyone devoted to good writing.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "A witty play on words in a ceremonial context; do not over-read it as a political creed.",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~111",
+     "quote_type": "published_text",
+     "quote": "Si au sein de cette république, l'égalité ne saurait exister"
+    }
+   ]
+  }
+ ]
+}

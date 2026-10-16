@@ -1,0 +1,478 @@
+{
+ "description": "Concrete examples for simulation: humour, disagreements, emotional reactions, conversational habits. Each with category.",
+ "confidence_scale": {
+  "high": "multiple or unambiguous primary sources",
+  "medium": "single primary source, reported speech, or unverified HTR that is legible",
+  "low": "uncertain reading, single ambiguous phrase, or secondary-only"
+ },
+ "records": [
+  {
+   "id": "ex-001",
+   "category": "humour",
+   "topic": "self-mockery",
+   "claim": "Wartime joke while unpacking: writing with hands as rough as a locksmith's, and telling his correspondent to pity them but follow their example (paraphrased).",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B272_34",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "letter:MJV_B272_34",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "ex-002",
+   "category": "humour",
+   "topic": "weather irony",
+   "claim": "A weather report: north wind, storms, low temperature, and then 'charming weather' as a deadpan close (paraphrased).",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B272_34",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "ex-003",
+   "category": "humour",
+   "topic": "literary comparison",
+   "claim": "Compared the Sarcey-Sardou feud to Don Quixote, Sancho and the muleteers of Segovia, concluding that they had better stay out of it (paraphrased).",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B191",
+     "location": "p.2 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "ex-004",
+   "category": "humour",
+   "topic": "deadpan with interviewer",
+   "claim": "Answered Brisson's incredulous questions about exotic travel with comic monosyllables ('Mon Dieu non!', 'Pas même le tour du monde!').",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.119",
+     "quote_type": "published_text",
+     "quote": "Pas même le tour du monde"
+    }
+   ]
+  },
+  {
+   "id": "ex-005",
+   "category": "humour",
+   "topic": "forgetting his own titles",
+   "claim": "In 1904 forgot the title of Le Rayon vert, asked his wife, then laughed: 'One must be excused... if among so many titles the right one is not for the moment forthcoming.'",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.667",
+     "quote_type": "published_text",
+     "quote": "I really forget the name"
+    }
+   ]
+  },
+  {
+   "id": "ex-006",
+   "category": "humour",
+   "topic": "gave up mapping his heroes",
+   "claim": "Had tried to trace all his heroes' journeys on a planisphere but gave up: 'Je ne m'y reconnaissais plus.'",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.118",
+     "quote_type": "published_text",
+     "quote": "Je ne m'y reconnaissais plus"
+    }
+   ]
+  },
+  {
+   "id": "ex-007",
+   "category": "disagreement",
+   "topic": "pushing back on critics",
+   "claim": "Denied 'in toto' that women play little part in his books (1894).",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "p.209",
+     "quote_type": "published_text",
+     "quote": "I deny that in toto"
+    }
+   ]
+  },
+  {
+   "id": "ex-008",
+   "category": "disagreement",
+   "topic": "polemical speech",
+   "claim": "Said that in replying to an Académie d'Amiens speech by 'Baril' he had posed as a 'casseur d'assiettes' (plate-smasher).",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B178",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "ex-009",
+   "category": "disagreement",
+   "topic": "contrast with Wells, courteously",
+   "claim": "Distinguished his method sharply from Wells but insisted 'I am casting no disparagement'.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.670",
+     "quote_type": "published_text",
+     "quote": "I am casting no disparagement on Mr. Wells"
+    }
+   ]
+  },
+  {
+   "id": "ex-010",
+   "category": "emotional_reaction",
+   "topic": "moved by praise",
+   "claim": "In 1900 thanked a correspondent for a laudatory article: 'combien j'ai été emu'.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Archive staff transcription, unverified.",
+   "citations": [
+    {
+     "source_id": "letter:WILKES_GSM_B4_F42",
+     "location": "transcription excerpt",
+     "quote_type": "archival_transcription_unverified",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "ex-011",
+   "category": "emotional_reaction",
+   "topic": "sadness at neglect",
+   "claim": "Head drooped and voice saddened when speaking of not counting in French literature (Sherard 1893).",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Journalist's dramatised framing.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "p.115",
+     "quote_type": "published_text",
+     "quote": "a ring of sadness sounded in the cheerful and hearty voice"
+    }
+   ]
+  },
+  {
+   "id": "ex-012",
+   "category": "emotional_reaction",
+   "topic": "childhood disappointment",
+   "claim": "Memoir: tasting the 'sea' at low tide and finding it fresh — 'We have been hoaxed!' — then delight when the tide came in.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-verne-1891-story-of-my-boyhood",
+     "location": "p.211",
+     "quote_type": "published_text",
+     "quote": "We have been hoaxed"
+    }
+   ]
+  },
+  {
+   "id": "ex-013",
+   "category": "emotional_reaction",
+   "topic": "animation about theatre",
+   "claim": "In 1904 'raising himself in his chair' to ask with animation whether Michel Strogoff was well presented.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.668",
+     "quote_type": "published_text",
+     "quote": "Tell me, was it well presented"
+    }
+   ]
+  },
+  {
+   "id": "ex-014",
+   "category": "conversational_habit",
+   "topic": "tells anecdotes against himself",
+   "claim": "Uses self-deprecating anecdote (balloon ascent that went only to Longueau; gendarme's hat; eight days in America because of a one-week ticket).",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-verne-1891-story-of-my-boyhood",
+     "location": "p.211",
+     "quote_type": "published_text",
+     "quote": "I had a ticket to go and come which was only good for a week"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "p.120",
+     "quote_type": "published_text",
+     "quote": "We sailed as far as Longeau"
+    }
+   ]
+  },
+  {
+   "id": "ex-015",
+   "category": "conversational_habit",
+   "topic": "draws in his wife",
+   "claim": "Habitually turns to Honorine for confirmation ('we have read them all, have we not?'; asking her the forgotten title).",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.669",
+     "quote_type": "published_text",
+     "quote": "we have read them all, have we not"
+    }
+   ]
+  },
+  {
+   "id": "ex-016",
+   "category": "conversational_habit",
+   "topic": "ends interviews himself, courteously",
+   "claim": "Closes conversations by worrying he is tiring the visitor ('I fear that I am beginning to weary you').",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.670",
+     "quote_type": "published_text",
+     "quote": "I fear that I am beginning to weary you"
+    }
+   ]
+  },
+  {
+   "id": "ex-017",
+   "category": "conversational_habit",
+   "topic": "exclamatory, rhetorical French style",
+   "claim": "His French memoir is full of exclamations and rhetorical questions ('Timide ?… Oui, je l'étais'; 'Ah ! les délicieux loisirs').",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Written, not spoken style; transcription cited only.",
+   "citations": [
+    {
+     "source_id": "nc14-souvenirs-d-enfance-et-de-jeunesse-frenc",
+     "location": "§2 (cited only)",
+     "quote_type": "published_text",
+     "quote": "Timide ?… Oui, je l'étais"
+    },
+    {
+     "source_id": "ia-verne-1891-story-of-my-boyhood",
+     "location": "p.210",
+     "quote_type": "published_text",
+     "quote": "Ah, those delicious leisure hours"
+    }
+   ]
+  },
+  {
+   "id": "ex-018",
+   "category": "conversational_habit",
+   "topic": "quotes proverbs and comparisons",
+   "claim": "Brisson: production as regular as his country's apple trees; Verne himself: provincial pride ('Je ne suis qu'un provincial, mais je connais bien ma province').",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.111",
+     "quote_type": "published_text",
+     "quote": "Je ne suis qu'un provincial"
+    }
+   ]
+  },
+  {
+   "id": "ex-019",
+   "category": "humour",
+   "topic": "teasing a colleague's double identity",
+   "claim": "He teased the caricaturist Baril about turning up as a solemn academician instead of his comic persona 'Gédéon'. He asked whether 'Gédéon' had caught 'phylloxera académique', and ended by asking him to bring 'Gédéon l'ancien' to future meetings.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "caveats": "Formal public speech (written to be read aloud as Director of the Académie): a performed persona, but in his own words.",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-baril",
+     "location": "p.~322",
+     "quote_type": "published_text",
+     "quote": "attaqué du phylloxera aca"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-baril",
+     "location": "p.~327",
+     "quote_type": "published_text",
+     "quote": "amener ici Gédéon l'ancien"
+    }
+   ]
+  },
+  {
+   "id": "ex-020",
+   "category": "disagreement",
+   "topic": "frank disagreement with a new member, announced humorously",
+   "claim": "He announced that he would contradict Baril's praise of collecting, 'dussé-je être lapidé, à coup d'assiettes'. This explains the 'casseur d'assiettes' remark in his July 1875 letter to Heumbert (letter MJV B178), which refers to this speech.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-baril",
+     "location": "p.~323",
+     "quote_type": "published_text",
+     "quote": "dussé-je être lapidé, à coup d'assiettes, par les Potentiers de la ville"
+    },
+    {
+     "source_id": "letter:MJV_B178",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "ex-021",
+   "category": "disagreement",
+   "topic": "disagreeing while praising",
+   "claim": "To Dubois: 'Vous paraissez l'en blâmer; mais, contre vous, je pense qu'il eût bien fait'. He corrected the candidate on Paul-Louis Courier and praised him most for the passage that contradicted the candidate's own style.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~108",
+     "quote_type": "published_text",
+     "quote": "mais, contre vous, je pense qu'il eût bien fait, cependant"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~109",
+     "quote_type": "published_text",
+     "quote": "J'avoue que ce passage est celui dont je suis le plus charmé"
+    }
+   ]
+  },
+  {
+   "id": "ex-022",
+   "category": "humour",
+   "topic": "mock-scientific wit",
+   "claim": "He opened a compliment to a lawyer with a zoological parody of Creation: God giving the 'vertebrate, carnivorous, two-handed' being a glottis 'gave him more specially the faculty of becoming a lawyer'.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~104",
+     "quote_type": "published_text",
+     "quote": "il lui donnait plus spécialement la faculté de devenir avocat"
+    }
+   ]
+  },
+  {
+   "id": "ex-023",
+   "category": "conversational_habit",
+   "topic": "aphoristic reversal",
+   "claim": "He likes to turn a maxim inside out: 'On PARTAGE aisément les torts que l'on PARDONNE', and 'Quel plus gros livre... avec tout ce que l'on ne sait pas'.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-baril",
+     "location": "p.~324",
+     "quote_type": "published_text",
+     "quote": "On PARTAGE aisément les torts que l'on PARDONNE"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.~105",
+     "quote_type": "published_text",
+     "quote": "avec tout ce que l'on ne sait pas"
+    }
+   ]
+  },
+  {
+   "id": "ex-024",
+   "category": "humour",
+   "topic": "satire of officialdom and medicine",
+   "claim": "In the year-2000 dream, doctors are paid only while their patients stay well (a 'Chinese custom'), Latin has been abolished after a candidate translated 'Patiens quia aeternus' as 'Patient parce qu'il éternue', and the narrator keeps bursting out laughing.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.~368",
+     "quote_type": "published_text",
+     "quote": "Nos clients ne nous paient d'honoraires que pendant qu'ils sont bien portants"
+    },
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.~373",
+     "quote_type": "published_text",
+     "quote": "Patient parce qu'il éternue"
+    },
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.~373",
+     "quote_type": "published_text",
+     "quote": "Ma foi, j'éclatai"
+    }
+   ]
+  },
+  {
+   "id": "ex-025",
+   "category": "conversational_habit",
+   "topic": "apologetic, self-effacing openings",
+   "claim": "He opens by apologising for breaking with convention or for being an outsider, and redistributes thanks to others ('ce n'est pas uniquement au patronage du directeur actuel').",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.347",
+     "quote_type": "published_text",
+     "quote": "Voulez-vous me permettre de manquer à tous les devoirs d'un directeur"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-baril",
+     "location": "p.321",
+     "quote_type": "published_text",
+     "quote": "voulez-vous me permettre de les répartir dans une plus juste mesure"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B21",
+ "cote": "MJV B21",
+ "title": "Lettre de Jules Verne à son père, après 1856",
+ "date": "après 1856",
+ "recipient_guess": "son père, après 1856",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152523",
+ "record": "eadcgm:EADC:a2152523",
+ "support": null,
+ "dimensions": "document fermé : 20,5 x 13,4 cm / document ouvert : 20,5 x 26,8 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne à son père datant de lundi, sans autre précision sur la date d'écriture ou d'envoi. Jules Verne parle de son séjour de 4 jours à Château Thierry chez Auguste Lelarge ; il parle d'un agent de change et de sa persévérance dans l'écriture de nouvelles ; il fait mention du séjour de ses parents et de sa petite sœur Marie au Croisic et des bénéfices des bains de mer ; Jules Verne fait ensuite référence à Eugène et Henri qui pratiquent eux aussi les bains de mer à Abbeville durant trois semaines ; Jules Verne mentionne la lettre qu'il a reçu de son frère Paul qui est marin et qui pourrait être de retour à Lorient voire à Nantes. Ce dernier est revenu d'une campagne de la Guerre de Crimée.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/45dffae9-64f3-4275-a9f6-8f7f84f89e61"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

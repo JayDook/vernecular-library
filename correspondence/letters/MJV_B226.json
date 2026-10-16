@@ -1,0 +1,84 @@
+{
+ "id": "MJV_B226",
+ "cote": "MJV B226",
+ "title": "Lettres de Jules Verne à ses parents, 1851-1858",
+ "date": "1851-1858",
+ "recipient_guess": "ses parents, 1851-1858",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152520",
+ "record": "eadcgm:EADC:a2152520",
+ "support": null,
+ "dimensions": null,
+ "archival_description": null,
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne",
+  "Sophie Verne"
+ ],
+ "digitized_urls": [],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559273p",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_ses_parents_-_btv1b10559273p_(01_of_10).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559273p",
+   "page": 2,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_ses_parents_-_btv1b10559273p_(02_of_10).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559273p",
+   "page": 3,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_ses_parents_-_btv1b10559273p_(03_of_10).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559273p",
+   "page": 4,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_ses_parents_-_btv1b10559273p_(04_of_10).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559273p",
+   "page": 5,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_ses_parents_-_btv1b10559273p_(05_of_10).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559273p",
+   "page": 6,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_ses_parents_-_btv1b10559273p_(06_of_10).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559273p",
+   "page": 7,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_ses_parents_-_btv1b10559273p_(07_of_10).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559273p",
+   "page": 8,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_ses_parents_-_btv1b10559273p_(08_of_10).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559273p",
+   "page": 9,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_ses_parents_-_btv1b10559273p_(09_of_10).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559273p",
+   "page": 10,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_ses_parents_-_btv1b10559273p_(10_of_10).jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

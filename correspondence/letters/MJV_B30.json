@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B30",
+ "cote": "MJV B30",
+ "title": "Lettre autographe signée de Jules Verne adressée à son père, vers 1851",
+ "date": "vers 1851",
+ "recipient_guess": "son père, vers 1851",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152525",
+ "record": "eadcgm:EADC:a2152525",
+ "support": null,
+ "dimensions": "document fermé : 19,8x 15,4 cm / document ouvert : 19,8 x 30,7 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne à son père dans laquelle il évoque son quotidien. La lettre commence par une description de l'état de santé de Jules Verne qui est souffrant. Jules Verne mentionne M. Lelarge. A la fin de la lettre, il précise avoir reçu une lettre de [Mr] Colombel. Ce dernier l'informe l'avoir recommandé à Jacques Arago.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/f088d59c-a102-471b-9492-008536bbe59e"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B27",
+ "cote": "MJV B27",
+ "title": "Lettre autographe signée de Jules Verne adressée à son père, vers 1855-1856",
+ "date": "vers 1855-1856",
+ "recipient_guess": "son père, vers 1855-1856",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152524",
+ "record": "eadcgm:EADC:a2152524",
+ "support": null,
+ "dimensions": "document fermé : 13,3x 10,2 cm / document ouvert : 13,3 x 20,5 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne à son père. Dans cette lettre il évoque l'orgueil, la paresse, la timidité, le sens des valeurs... Il semble évoquer un texte pour une pièce de théâtre. Jules Verne mentionne Auguste Lelarge et son futur mariage avec : \"une jeune femme d'Amiens\". Cette jeune femme est Aimée de Viane, la soeur d'Honorine de Viane, la future épouse de Jules Verne. Il termine en demandant que sa sœur Mathilde lui écrive une lettre.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/01ef4e47-3ed8-4472-8030-62591cfa7305"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

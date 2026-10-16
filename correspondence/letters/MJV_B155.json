@@ -1,0 +1,41 @@
+{
+ "id": "MJV_B155",
+ "cote": "MJV B155",
+ "title": "Lettre de Jules Verne à Monsieur Alliou, 19 décembre 1889",
+ "date": "19 décembre 1889",
+ "recipient_guess": "Monsieur Alliou, 19 décembre 1889",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152458",
+ "record": "eadcgm:EADC:a2152458",
+ "support": null,
+ "dimensions": "feuillet fermé : 10,5 x 13,3 cm / feuillet ouvert : 21 x 13,3 cm / enveloppe : 11,2 x 7,2 cm",
+ "archival_description": {
+  "text": "Ensemble de 13 lettres de Jules Verne adressée à Mr Alliou , collaborateur et typographe chez l'Editeur Hetzel. Jules Verne avait l'occasion de lui écrire pour lui faire rectifier des fautes sur les épreuves imprimées de ses manuscrits.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Mr Alliou"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/4217e014-10aa-4dde-9df7-d6fbbba292b4"
+ ],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559227d",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_de_Jules_Verne_aux_%C3%A9ditions_Hetzel._Lettres_de_Jules_Verne_%C3%A0_Monsieur_Alliou._Lettre_de_Jules_Verne_%C3%A0_Monsieur_Alliou_-_btv1b10559227d_(1_of_2).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559227d",
+   "page": 2,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_de_Jules_Verne_aux_%C3%A9ditions_Hetzel._Lettres_de_Jules_Verne_%C3%A0_Monsieur_Alliou._Lettre_de_Jules_Verne_%C3%A0_Monsieur_Alliou_-_btv1b10559227d_(2_of_2).jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

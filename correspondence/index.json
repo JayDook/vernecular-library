@@ -1,0 +1,2266 @@
+{
+ "description": "Chronological index of Jules Verne correspondence held by the Centre d'études verniennes, Nantes (CCFr catalogue), with links to scans and machine HTR. Undated items sort last.",
+ "count": 226,
+ "letters": [
+  {
+   "id": "MJV_B18",
+   "cote": "MJV B18",
+   "date": "30 mars 1836",
+   "title": "Lettre de Jules Verne à sa tante, Madame Chataubour, 30 mars 1836",
+   "recipient_guess": "sa tante, Madame Chataubour, 30 mars 1836",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152448"
+  },
+  {
+   "id": "MJV_B272_1",
+   "cote": "MJV B272/1",
+   "date": "le 30 mars [entre 1840 et 1844]",
+   "title": "Lettre autographe signée Jules Verne à son père, Monsieur Verne, avoué, rue Jean-Jacques, n 6. Nantes. Loire-Inférieure, le 30 mars [entre 1840 et 1844]",
+   "recipient_guess": "son père, Monsieur Verne, avoué, rue Jean-Jacques, n 6. Nantes. Loire-Inférieure, le 30 mars [entre 1840 et 1844]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152531"
+  },
+  {
+   "id": "MJV_B272_3",
+   "cote": "MJV B272/3",
+   "date": "26 septembre 1846",
+   "title": "Lettre autographe signée Jules Verne à sa mère, Madame Verne, place de l'Eglise, à Chantenay. Commune de Nantes, 26 septembre 1846",
+   "recipient_guess": "sa mère, Madame Verne, place de l'Eglise, à Chantenay. Commune de Nantes, 26 septembre 1846",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152590"
+  },
+  {
+   "id": "MJV_B273",
+   "cote": "MJV B273",
+   "date": "30 décembre 1847",
+   "title": "Lettre autographe signée J. Verne à Monsieur le Maire de Nantes, 30 décembre 1847",
+   "recipient_guess": "Monsieur le Maire de Nantes, 30 décembre 1847",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152614"
+  },
+  {
+   "id": "MJV_B289",
+   "cote": "MJV B289",
+   "date": "05 août 1848",
+   "title": "Lettre autographe signée adressée à son père, Pierre Verne, 05 août 1848",
+   "recipient_guess": "son père, Pierre Verne, 05 août 1848",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152569"
+  },
+  {
+   "id": "MJV_B291",
+   "cote": "MJV B291",
+   "date": "06 décembre 1848",
+   "title": "Lettre autographe adressée à son père, Pierre Verne, 06 décembre 1848",
+   "recipient_guess": "son père, Pierre Verne, 06 décembre 1848",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152570"
+  },
+  {
+   "id": "MJV_B292",
+   "cote": "MJV B292",
+   "date": "12 décembre 1848",
+   "title": "Lettre autographe signée adressée à son père, Pierre Verne, 12 décembre 1848",
+   "recipient_guess": "son père, Pierre Verne, 12 décembre 1848",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152571"
+  },
+  {
+   "id": "MJV_B287",
+   "cote": "MJV B287",
+   "date": "17 juillet 1848",
+   "title": "Lettre autographe signée adressée à son père, Pierre Verne, 17 juillet 1848",
+   "recipient_guess": "son père, Pierre Verne, 17 juillet 1848",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152567"
+  },
+  {
+   "id": "MJV_B228",
+   "cote": "MJV B228",
+   "date": "1848-1856",
+   "title": "copies de lettres de Jules Verne à ses parents, 1848-1856",
+   "recipient_guess": "ses parents, 1848-1856",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152521"
+  },
+  {
+   "id": "MJV_B293",
+   "cote": "MJV B293",
+   "date": "21 décembre 1848",
+   "title": "Lettre autographe signée adressée à son père, Pierre Verne, 21 décembre 1848",
+   "recipient_guess": "son père, Pierre Verne, 21 décembre 1848",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152572"
+  },
+  {
+   "id": "MJV_B288",
+   "cote": "MJV B288",
+   "date": "21 juillet 1848",
+   "title": "Lettre autographe signée adressée à son père, Pierre Verne, 21 juillet 1848",
+   "recipient_guess": "son père, Pierre Verne, 21 juillet 1848",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152568"
+  },
+  {
+   "id": "MJV_B272_5",
+   "cote": "MJV B272/5",
+   "date": "21 novembre 1848",
+   "title": "Lettre autographe signée J. Verne à son père, Monsieur Verne, avoué, rue Jean-Jacques, 6. Nantes, 21 novembre 1848",
+   "recipient_guess": "son père, Monsieur Verne, avoué, rue Jean-Jacques, 6. Nantes, 21 novembre 1848",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152533"
+  },
+  {
+   "id": "MJV_B272_4",
+   "cote": "MJV B272/4",
+   "date": "27 décembre 1848",
+   "title": "Lettre autographe signée J. Verne à son père, Monsieur Verne, rue Jean-Jacques, 6, Nantes, 27 décembre 1848",
+   "recipient_guess": "son père, Monsieur Verne, rue Jean-Jacques, 6, Nantes, 27 décembre 1848",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152532"
+  },
+  {
+   "id": "MJV_B290",
+   "cote": "MJV B290",
+   "date": "27 novembre 1848",
+   "title": "Lettre autographe signée adressée à sa mère, Sophie Verne, 27 novembre 1848",
+   "recipient_guess": "sa mère, Sophie Verne, 27 novembre 1848",
+   "author_side": "active",
+   "transcription_status": "transcription_withheld_in_public_release",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152608"
+  },
+  {
+   "id": "MJV_B19",
+   "cote": "MJV B19",
+   "date": "30 juillet 1848",
+   "title": "Lettre de Jules Verne à sa mère, 30 juillet 1848",
+   "recipient_guess": "sa mère, 30 juillet 1848",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152587"
+  },
+  {
+   "id": "MJV_B272_9",
+   "cote": "MJV B272/9",
+   "date": "16 novembre 1849",
+   "title": "Lettre autographe signée J. Verne à sa mère, [adressé à] Monsieur Verne, avoué, rue Jean-Jacques, 6, Nantes, Loire-Inférieure, 16 novembre 1849",
+   "recipient_guess": "sa mère, [adressé à] Monsieur Verne, avoué, rue Jean-Jacques, 6, Nantes, Loire-Inférieure, 16 novembre 1849",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152592"
+  },
+  {
+   "id": "MJV_B272_7",
+   "cote": "MJV B272/7",
+   "date": "17 mars 1849",
+   "title": "Lettre autographe signée J. Verne à sa mère, [adressé à] Monsieur Verne, avoué, rue Jean-Jacques, 6, Nantes, Loire-Inférieure, 17 mars 1849",
+   "recipient_guess": "sa mère, [adressé à] Monsieur Verne, avoué, rue Jean-Jacques, 6, Nantes, Loire-Inférieure, 17 mars 1849",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152591"
+  },
+  {
+   "id": "MJV_B272_8",
+   "cote": "MJV B272/8",
+   "date": "2 avril 1849",
+   "title": "Lettre autographe signée J. Verne à son père, Monsieur Verne, rue J.-Jacques, 6, Nantes, Loire-Inférieure, 2 avril 1849",
+   "recipient_guess": "son père, Monsieur Verne, rue J.-Jacques, 6, Nantes, Loire-Inférieure, 2 avril 1849",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152535"
+  },
+  {
+   "id": "MJV_B272_6",
+   "cote": "MJV B272/6",
+   "date": "8 janvier 1849",
+   "title": "Lettre autographe signée J. Verne à son père, Monsieur Verne, avoué, rue Jean-Jacques, 6, Nantes, Loire-Inférieure, 8 janvier 1849",
+   "recipient_guess": "son père, Monsieur Verne, avoué, rue Jean-Jacques, 6, Nantes, Loire-Inférieure, 8 janvier 1849",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152534"
+  },
+  {
+   "id": "MJV_B1",
+   "cote": "MJV B1",
+   "date": "1850 - 1900",
+   "title": "Carte de visite de Jules Verne, 1850 - 1900",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152436"
+  },
+  {
+   "id": "MJV_B272_12",
+   "cote": "MJV B272/12",
+   "date": "13 mars [1851 ?]",
+   "title": "Lettre autographe signée Jules Verne à sa mère, 13 mars [1851 ?]",
+   "recipient_guess": "sa mère, 13 mars [1851 ?]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152594"
+  },
+  {
+   "id": "MJV_B299",
+   "cote": "MJV B299",
+   "date": "15 février 1851",
+   "title": "Lettre autographe signée de Jules Verne adressée à son ami Ernest Genevois, 15 février 1851",
+   "recipient_guess": "son ami Ernest Genevois, 15 février 1851",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152630"
+  },
+  {
+   "id": "MJV_B272_21",
+   "cote": "MJV B272/21",
+   "date": "1851",
+   "title": "Lettre autographe signée Jule Verne à son père, 1851",
+   "recipient_guess": "son père, 1851",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152540"
+  },
+  {
+   "id": "MJV_B316",
+   "cote": "MJV B316",
+   "date": "1851",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 1851",
+   "recipient_guess": "son père, Pierre Verne, 1851",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152573"
+  },
+  {
+   "id": "MJV_B226",
+   "cote": "MJV B226",
+   "date": "1851-1858",
+   "title": "Lettres de Jules Verne à ses parents, 1851-1858",
+   "recipient_guess": "ses parents, 1851-1858",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152520"
+  },
+  {
+   "id": "MJV_B272_22",
+   "cote": "MJV B272/22",
+   "date": "22 janvier 1851",
+   "title": "Lettre autographe signée Jules Verne à son père, 22 janvier 1851",
+   "recipient_guess": "son père, 22 janvier 1851",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152541"
+  },
+  {
+   "id": "MJV_B314",
+   "cote": "MJV B314",
+   "date": "26 janvier 1851",
+   "title": "Lettre autographe signée de Jules Verne adressée à sa mère, Sophie Verne, 26 janvier 1851",
+   "recipient_guess": "sa mère, Sophie Verne, 26 janvier 1851",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152609"
+  },
+  {
+   "id": "MJV_B272_24",
+   "cote": "MJV B272/24",
+   "date": "dimanche [6 avril 1851, cachet de la poste]",
+   "title": "Lettre autographe signée Jules Verne à son père, Monsieur Verne, rue J.-Jacques, 6, Nantes, Loire-Inférieure, dimanche [6 avril 1851, cachet de la poste]",
+   "recipient_guess": "son père, Monsieur Verne, rue J.-Jacques, 6, Nantes, Loire-Inférieure, dimanche [6 avril 1851, cachet de la poste]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152542"
+  },
+  {
+   "id": "MJV_B213",
+   "cote": "MJV B213",
+   "date": "mercredi [03 décembre 1851]",
+   "title": "Lettre autographe de Jules Verne à son père Pierre Verne, mercredi [03 décembre 1851]",
+   "recipient_guess": "son père Pierre Verne, mercredi [03 décembre 1851]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152530"
+  },
+  {
+   "id": "MJV_B30",
+   "cote": "MJV B30",
+   "date": "vers 1851",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, vers 1851",
+   "recipient_guess": "son père, vers 1851",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152525"
+  },
+  {
+   "id": "MJV_B33",
+   "cote": "MJV B33",
+   "date": "vers 1851",
+   "title": "Lettre de Jules Verne à son père, vers 1851",
+   "recipient_guess": "son père, vers 1851",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152527"
+  },
+  {
+   "id": "MJV_B317",
+   "cote": "MJV B317",
+   "date": "Octobre 1852",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, Octobre 1852",
+   "recipient_guess": "son père, Pierre Verne, Octobre 1852",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152574"
+  },
+  {
+   "id": "MJV_B272_20",
+   "cote": "MJV B272/20",
+   "date": "[1852 ?]",
+   "title": "Lettre autographe signée Jules Verne à sa mère, [1852 ?]",
+   "recipient_guess": "sa mère, [1852 ?]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152599"
+  },
+  {
+   "id": "MJV_B319",
+   "cote": "MJV B319",
+   "date": "05 novembre 1853",
+   "title": "Lettre autographe signée de Jules Verne adressée à sa mère, Sophie Verne, 05 novembre 1853",
+   "recipient_guess": "sa mère, Sophie Verne, 05 novembre 1853",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152611"
+  },
+  {
+   "id": "MJV_B29",
+   "cote": "MJV B29",
+   "date": "14 mai 1853",
+   "title": "Lettre autographe de Jules Verne adressée à sa mère, 14 mai 1853",
+   "recipient_guess": "sa mère, 14 mai 1853",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152589"
+  },
+  {
+   "id": "MJV_B272_13",
+   "cote": "MJV B272/13",
+   "date": "14 mars 1853",
+   "title": "Lettre autographe signée Jules Verne à sa mère, 14 mars 1853",
+   "recipient_guess": "sa mère, 14 mars 1853",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152595"
+  },
+  {
+   "id": "MJV_B320",
+   "cote": "MJV B320",
+   "date": "19 novembre 1853",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 19 novembre 1853",
+   "recipient_guess": "son père, Pierre Verne, 19 novembre 1853",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152576"
+  },
+  {
+   "id": "MJV_B318",
+   "cote": "MJV B318",
+   "date": "29 avril 1853",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 29 avril 1853",
+   "recipient_guess": "son père, Pierre Verne, 29 avril 1853",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152575"
+  },
+  {
+   "id": "MJV_B272_16",
+   "cote": "MJV B272/16",
+   "date": "30 janvier 1853, d'après le cachet de la poste]",
+   "title": "Lettre autographe signée Jules Verne à sa mère, Madame Verne, rue J.-Jacques, 6, Nantes, Loire-Inférieure, 30 janvier 1853, d'après le cachet de la poste]",
+   "recipient_guess": "sa mère, Madame Verne, rue J.-Jacques, 6, Nantes, Loire-Inférieure, 30 janvier 1853, d'après le cachet de la poste]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152596"
+  },
+  {
+   "id": "MJV_B272_17",
+   "cote": "MJV B272/17",
+   "date": "4 mai 1853",
+   "title": "Lettre autographe signée Jules Verne à son père, Monsieur Verne, rue J.-Jacques, 6, Nantes, 4 mai 1853",
+   "recipient_guess": "son père, Monsieur Verne, rue J.-Jacques, 6, Nantes, 4 mai 1853",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152539"
+  },
+  {
+   "id": "MJV_B272_45",
+   "cote": "MJV B272/45",
+   "date": "le 21 août 1853",
+   "title": "Lettre autographe signée J. Verne à son père, Monsieur P. Verne, rue J.-Jacques, 6, Nantes, Loire-Inférieure, le 21 août 1853",
+   "recipient_guess": "son père, Monsieur P. Verne, rue J.-Jacques, 6, Nantes, Loire-Inférieure, le 21 août 1853",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152558"
+  },
+  {
+   "id": "MJV_B272_14",
+   "cote": "MJV B272/14",
+   "date": "le 30 novembre 1853",
+   "title": "Lettre autographe signée Jules Verne à son père, le 30 novembre 1853",
+   "recipient_guess": "son père, le 30 novembre 1853",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152537"
+  },
+  {
+   "id": "MJV_B272_15",
+   "cote": "MJV B272/15",
+   "date": "vendredi 4 mars [1853 d'après le cachet de la poste]",
+   "title": "Lettre autographe signée Jules Verne à son père, Monsieur Verne, rue J.-Jacques, 6, Nantes, vendredi 4 mars [1853 d'après le cachet de la poste]",
+   "recipient_guess": "son père, Monsieur Verne, rue J.-Jacques, 6, Nantes, vendredi 4 mars [1853 d'après le cachet de la poste]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152538"
+  },
+  {
+   "id": "MJV_B17",
+   "cote": "MJV B17",
+   "date": "05 novembre 1854",
+   "title": "Lettre de Jules Verne à [Ernest Genevois], 05 novembre 1854",
+   "recipient_guess": "[Ernest Genevois], 05 novembre 1854",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152447"
+  },
+  {
+   "id": "MJV_B315",
+   "cote": "MJV B315",
+   "date": "29 juillet 1854",
+   "title": "Lettre autographe signée de Jules Verne adressée à sa mère, Sophie Verne, 29 juillet 1854",
+   "recipient_guess": "sa mère, Sophie Verne, 29 juillet 1854",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152610"
+  },
+  {
+   "id": "MJV_B272_41",
+   "cote": "MJV B272/41",
+   "date": "le 27 septembre 1854",
+   "title": "Lettre autographe signée Jules Verne à sa mère, le 27 septembre 1854",
+   "recipient_guess": "sa mère, le 27 septembre 1854",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152603"
+  },
+  {
+   "id": "MJV_B272_19",
+   "cote": "MJV B272/19",
+   "date": "[1855 ?]",
+   "title": "Lettre autographe signée Jules Verne à sa mère, [1855 ?]",
+   "recipient_guess": "sa mère, [1855 ?]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152598"
+  },
+  {
+   "id": "MJV_B272_37",
+   "cote": "MJV B272/37",
+   "date": "samedi [1855 ?]",
+   "title": "Lettre autographe signée Jules Verne à son père, samedi [1855 ?]",
+   "recipient_guess": "son père, samedi [1855 ?]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152554"
+  },
+  {
+   "id": "MJV_B321",
+   "cote": "MJV B321",
+   "date": "vers 1855",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, vers 1855",
+   "recipient_guess": "son père, Pierre Verne, vers 1855",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152577"
+  },
+  {
+   "id": "MJV_B27",
+   "cote": "MJV B27",
+   "date": "vers 1855-1856",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, vers 1855-1856",
+   "recipient_guess": "son père, vers 1855-1856",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152524"
+  },
+  {
+   "id": "MJV_B323",
+   "cote": "MJV B323",
+   "date": "1856",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 1856",
+   "recipient_guess": "son père, Pierre Verne, 1856",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152579"
+  },
+  {
+   "id": "MJV_B265",
+   "cote": "MJV B265",
+   "date": "1856 et 1864",
+   "title": "Lettres manuscrites autographes à M. de la Bédollière, 1856 et 1864",
+   "recipient_guess": "M. de la Bédollière, 1856 et 1864",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152613"
+  },
+  {
+   "id": "MJV_B272_36",
+   "cote": "MJV B272/36",
+   "date": "27 mars 1856, d'après le cachet de la poste]",
+   "title": "Lettre autographe signée Jules Verne à son père, Monsieur Verne, rue J.-Jacques, 6, Nantes, Loire-Inférieure, 27 mars 1856, d'après le cachet de la poste]",
+   "recipient_guess": "son père, Monsieur Verne, rue J.-Jacques, 6, Nantes, Loire-Inférieure, 27 mars 1856, d'après le cachet de la poste]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152553"
+  },
+  {
+   "id": "MJV_B322",
+   "cote": "MJV B322",
+   "date": "29 mai 1856",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 29 mai 1856",
+   "recipient_guess": "son père, Pierre Verne, 29 mai 1856",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152578"
+  },
+  {
+   "id": "MJV_B272_43",
+   "cote": "MJV B272/43",
+   "date": "5 septembre 1856",
+   "title": "Lettre autographe signée Jules Verne à sa mère, 5 septembre 1856",
+   "recipient_guess": "sa mère, 5 septembre 1856",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152605"
+  },
+  {
+   "id": "MJV_B272_38",
+   "cote": "MJV B272/38",
+   "date": "[1856 ?]",
+   "title": "Lettre autographe signée Jules Verne à son père, [1856 ?]",
+   "recipient_guess": "son père, [1856 ?]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152555"
+  },
+  {
+   "id": "MJV_B210",
+   "cote": "MJV B210",
+   "date": "[fin 1856]",
+   "title": "Lettre autographe de Jules Verne à son père Pierre Verne, [fin 1856]",
+   "recipient_guess": "son père Pierre Verne, [fin 1856]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152529"
+  },
+  {
+   "id": "MJV_B21",
+   "cote": "MJV B21",
+   "date": "après 1856",
+   "title": "Lettre de Jules Verne à son père, après 1856",
+   "recipient_guess": "son père, après 1856",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152523"
+  },
+  {
+   "id": "MJV_B281",
+   "cote": "MJV B281",
+   "date": "8 mars [1857]",
+   "title": "Lettre autographe signée de Jules Verne, 8 mars [1857]",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152627"
+  },
+  {
+   "id": "MJV_B20",
+   "cote": "MJV B20",
+   "date": "[vers mars 1857]",
+   "title": "Lettre de Jules Verne à sa mère, [vers mars 1857]",
+   "recipient_guess": "sa mère, [vers mars 1857]",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152588"
+  },
+  {
+   "id": "MJV_B174",
+   "cote": "MJV B174",
+   "date": "après 1857",
+   "title": "Lettre de Jules Verne au docteur, après 1857",
+   "recipient_guess": "docteur, après 1857",
+   "author_side": "active",
+   "transcription_status": "transcription_withheld_in_public_release",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152482"
+  },
+  {
+   "id": "MJV_B272_29",
+   "cote": "MJV B272/29",
+   "date": "17 octobre 1858",
+   "title": "Lettre autographe signée Jules Verne à son père, 17 octobre 1858",
+   "recipient_guess": "son père, 17 octobre 1858",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152547"
+  },
+  {
+   "id": "MJV_B324",
+   "cote": "MJV B324",
+   "date": "29 mars 1858",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 29 mars 1858",
+   "recipient_guess": "son père, Pierre Verne, 29 mars 1858",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152580"
+  },
+  {
+   "id": "MJV_B212",
+   "cote": "MJV B212",
+   "date": "22 mars 1861",
+   "title": "Hetzel, lettre autographe signée à Léon de Wailly, 22 mars 1861",
+   "recipient_guess": "Léon de Wailly, 22 mars 1861",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152655"
+  },
+  {
+   "id": "MJV_B275",
+   "cote": "MJV B275",
+   "date": "le 1er mars 1862",
+   "title": "Lettre autographe signée Jules Verne à son oncle, Monsieur de Châteaubourg, le 1er mars 1862",
+   "recipient_guess": "son oncle, Monsieur de Châteaubourg, le 1er mars 1862",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152626"
+  },
+  {
+   "id": "MJV_B325",
+   "cote": "MJV B325",
+   "date": "24 avril 1866",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 24 avril 1866",
+   "recipient_guess": "son père, Pierre Verne, 24 avril 1866",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152581"
+  },
+  {
+   "id": "MJV_B272_54",
+   "cote": "MJV B272/54",
+   "date": "le 11 février 1866",
+   "title": "Lettre autographe signée Jules Verne à son père, le 11 février 1866",
+   "recipient_guess": "son père, le 11 février 1866",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152565"
+  },
+  {
+   "id": "MJV_B282",
+   "cote": "MJV B282",
+   "date": "30 décembre 1867",
+   "title": "Lettre autographe signée de Jules Verne, 30 décembre 1867",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152566"
+  },
+  {
+   "id": "MJV_B272_51",
+   "cote": "MJV B272/51",
+   "date": "7 mai, [circa 1867]",
+   "title": "Lettre autographe signée Jules Verne à son père, 7 mai, [circa 1867]",
+   "recipient_guess": "son père, 7 mai, [circa 1867]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152562"
+  },
+  {
+   "id": "MJV_B272_48",
+   "cote": "MJV B272/48",
+   "date": "le 5 décembre 1867",
+   "title": "Lettre autographe signée Jules Verne à son père, le 5 décembre 1867",
+   "recipient_guess": "son père, le 5 décembre 1867",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152560"
+  },
+  {
+   "id": "MJV_B326",
+   "cote": "MJV B326",
+   "date": "30 septembre 1868",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 30 septembre 1868",
+   "recipient_guess": "son père, Pierre Verne, 30 septembre 1868",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152582"
+  },
+  {
+   "id": "MJV_B272_50",
+   "cote": "MJV B272/50",
+   "date": "le 6 avril 1868",
+   "title": "Lettre autographe signée Jules Verne à sa mère, le 6 avril 1868",
+   "recipient_guess": "sa mère, le 6 avril 1868",
+   "author_side": "active",
+   "transcription_status": "transcription_withheld_in_public_release",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152607"
+  },
+  {
+   "id": "MJV_B31",
+   "cote": "MJV B31",
+   "date": "vers 1868",
+   "title": "Lettre de Jules Verne à Monsieur [?], vers 1868",
+   "recipient_guess": "Monsieur [?], vers 1868",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152450"
+  },
+  {
+   "id": "MJV_B327",
+   "cote": "MJV B327",
+   "date": "vers 1869",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, vers 1869",
+   "recipient_guess": "son père, Pierre Verne, vers 1869",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152583"
+  },
+  {
+   "id": "MJV_B272_49",
+   "cote": "MJV B272/49",
+   "date": "20 septembre [1870]",
+   "title": "Lettre autographe signée Jules Verne à son père, 20 septembre [1870]",
+   "recipient_guess": "son père, 20 septembre [1870]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152561"
+  },
+  {
+   "id": "MJV_B328",
+   "cote": "MJV B328",
+   "date": "novembre 1870",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, novembre 1870",
+   "recipient_guess": "son père, Pierre Verne, novembre 1870",
+   "author_side": "active",
+   "transcription_status": "transcription_withheld_in_public_release",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152584"
+  },
+  {
+   "id": "MJV_B330",
+   "cote": "MJV B330",
+   "date": "10 octobre 1871",
+   "title": "Lettre autographe de Jules Verne adressée à ? [Léon Guillon], 10 octobre 1871",
+   "recipient_guess": "? [Léon Guillon], 10 octobre 1871",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152643"
+  },
+  {
+   "id": "MJV_B329",
+   "cote": "MJV B329",
+   "date": "1871",
+   "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 1871",
+   "recipient_guess": "son père, Pierre Verne, 1871",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152585"
+  },
+  {
+   "id": "MJV_B223",
+   "cote": "MJV B223",
+   "date": "4 octobre 1873",
+   "title": "Billet signé, 4 octobre 1873",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152517"
+  },
+  {
+   "id": "MJV_B16",
+   "cote": "MJV B16",
+   "date": "5 avril 1874",
+   "title": "Lettre de Jules Verne adressée au Président du Yacht club de France : Monsieur le Vice amiral de la Roncière Le Noury, 5 avril 1874",
+   "recipient_guess": "Président du Yacht club de France : Monsieur le Vice amiral de la Roncière Le Noury, 5 avril 1874",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152446"
+  },
+  {
+   "id": "MJV_B190",
+   "cote": "MJV B190",
+   "date": "vers 1874",
+   "title": "Lettre de Jules Verne à des Directeurs, vers 1874",
+   "recipient_guess": "des Directeurs, vers 1874",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152499"
+  },
+  {
+   "id": "MJV_B191",
+   "cote": "MJV B191",
+   "date": "vers 1874-1875",
+   "title": "Lettre de Jules Verne à Ritt, vers 1874-1875",
+   "recipient_guess": "Ritt, vers 1874-1875",
+   "author_side": "active",
+   "transcription_status": "transcription_withheld_in_public_release",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152501"
+  },
+  {
+   "id": "MJV_B178",
+   "cote": "MJV B178",
+   "date": "[juillet 1875 ?]",
+   "title": "Lettre de Jules Verne au Commandant [Heumbert], [juillet 1875 ?]",
+   "recipient_guess": "Commandant [Heumbert], [juillet 1875 ?]",
+   "author_side": "active",
+   "transcription_status": "transcription_withheld_in_public_release",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152487"
+  },
+  {
+   "id": "MJV_B179",
+   "cote": "MJV B179",
+   "date": "dernier trimestre 1875",
+   "title": "Lettre de Jules Verne au Commandant [Heumbert], dernier trimestre 1875",
+   "recipient_guess": "Commandant [Heumbert], dernier trimestre 1875",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152488"
+  },
+  {
+   "id": "MJV_B192",
+   "cote": "MJV B192",
+   "date": "fin mars 1875",
+   "title": "Lettre de Jules Verne à [Ritt], fin mars 1875",
+   "recipient_guess": "[Ritt], fin mars 1875",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152502"
+  },
+  {
+   "id": "MJV_B180",
+   "cote": "MJV B180",
+   "date": "05 janvier 1876",
+   "title": "Lettre de Jules Verne au Commandant [Heumbert], 05 janvier 1876",
+   "recipient_guess": "Commandant [Heumbert], 05 janvier 1876",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152489"
+  },
+  {
+   "id": "MJV_B193",
+   "cote": "MJV B193",
+   "date": "05 janvier 1876",
+   "title": "Lettre de Jules Verne à Adolphe d'Ennery, 05 janvier 1876",
+   "recipient_guess": "Adolphe d'Ennery, 05 janvier 1876",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152507"
+  },
+  {
+   "id": "MJV_B195",
+   "cote": "MJV B195",
+   "date": "12 février 1876",
+   "title": "Lettre de Jules Verne à Adolphe d'Ennery, 12 février 1876",
+   "recipient_guess": "Adolphe d'Ennery, 12 février 1876",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152508"
+  },
+  {
+   "id": "MJV_B168",
+   "cote": "MJV B168",
+   "date": "18 novembre 1876",
+   "title": "Lettre de Jules Verne à son père Pierre Verne, 18 novembre 1876",
+   "recipient_guess": "son père Pierre Verne, 18 novembre 1876",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152528"
+  },
+  {
+   "id": "MJV_B196",
+   "cote": "MJV B196",
+   "date": "30 août 1876",
+   "title": "Lettre de Jules Verne, 30 août 1876",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152512"
+  },
+  {
+   "id": "MJV_B194",
+   "cote": "MJV B194",
+   "date": "vers 1876",
+   "title": "Lettre de Jules Verne à [Ritt et La Rochelle], vers 1876",
+   "recipient_guess": "[Ritt et La Rochelle], vers 1876",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152503"
+  },
+  {
+   "id": "MJV_B286",
+   "cote": "MJV B286",
+   "date": "23 décembre 1877",
+   "title": "Lettre illustrée autographe de Paul Boyton, 23 décembre 1877",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152664"
+  },
+  {
+   "id": "MJV_B203",
+   "cote": "MJV B203",
+   "date": "06 octobre 1878",
+   "title": "Lettre de Jules Verne à [Ritt], 06 octobre 1878",
+   "recipient_guess": "[Ritt], 06 octobre 1878",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152505"
+  },
+  {
+   "id": "MJV_B216",
+   "cote": "MJV B216",
+   "date": "12 mars [1878]",
+   "title": "Lettre autographe signée [à Jules Hetzel père], 12 mars [1878]",
+   "recipient_guess": "Jules Hetzel père], 12 mars [1878]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152469"
+  },
+  {
+   "id": "MJV_B217",
+   "cote": "MJV B217",
+   "date": "lundi [février 1878]",
+   "title": "Lettre autographe signée [à Jules Hetzel père], lundi [février 1878]",
+   "recipient_guess": "Jules Hetzel père], lundi [février 1878]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152470"
+  },
+  {
+   "id": "MJV_B302",
+   "cote": "MJV B302",
+   "date": "1er août 1879",
+   "title": "Lettre autographe signée de Jules Verne adressée à Léon [Guillon], 1er août 1879",
+   "recipient_guess": "Léon [Guillon], 1er août 1879",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152633"
+  },
+  {
+   "id": "MJV_B218",
+   "cote": "MJV B218",
+   "date": "31 janv. [1879]",
+   "title": "Lettre autographe signée [à Jules Hetzel père], 31 janv. [1879]",
+   "recipient_guess": "Jules Hetzel père], 31 janv. [1879]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152471"
+  },
+  {
+   "id": "MJV_B189",
+   "cote": "MJV B189",
+   "date": "24 juin 1880",
+   "title": "Lettre de Jules Verne au colonel [Hermebert], 24 juin 1880",
+   "recipient_guess": "colonel [Hermebert], 24 juin 1880",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152498"
+  },
+  {
+   "id": "MJV_B301",
+   "cote": "MJV B301",
+   "date": "vers 1880",
+   "title": "Lettre autographe signée de Jules Verne adressée à Léon [Guillon], vers 1880",
+   "recipient_guess": "Léon [Guillon], vers 1880",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152632"
+  },
+  {
+   "id": "MJV_B182",
+   "cote": "MJV B182",
+   "date": "01 janvier 1881",
+   "title": "Lettre de Jules Verne au Commandant [Heumbert], 01 janvier 1881",
+   "recipient_guess": "Commandant [Heumbert], 01 janvier 1881",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152491"
+  },
+  {
+   "id": "MJV_B186",
+   "cote": "MJV B186",
+   "date": "27 mars 1882",
+   "title": "Lettre de Jules Verne au Commandant [Heumbert], 27 mars 1882",
+   "recipient_guess": "Commandant [Heumbert], 27 mars 1882",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152495"
+  },
+  {
+   "id": "MJV_B222",
+   "cote": "MJV B222",
+   "date": "6 mars [1882]",
+   "title": "Lettre autographe signée [à M. Maréchal, 6 mars [1882]",
+   "recipient_guess": "M. Maréchal, 6 mars [1882]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152516"
+  },
+  {
+   "id": "MJV_B219",
+   "cote": "MJV B219",
+   "date": "8 mars [1882]",
+   "title": "Lettre autographe signée [à Jules Hetzel fils], 8 mars [1882]",
+   "recipient_guess": "Jules Hetzel fils], 8 mars [1882]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152472"
+  },
+  {
+   "id": "MJV_B153",
+   "cote": "MJV B153",
+   "date": "28 mars 1883",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 28 mars 1883",
+   "recipient_guess": "Monsieur Alliou, 28 mars 1883",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152456"
+  },
+  {
+   "id": "MJV_B10",
+   "cote": "MJV B10",
+   "date": "8 mars 1884",
+   "title": "Lettre autographe signée Jules Verne [à Georges Kohn], 8 mars 1884",
+   "recipient_guess": "Georges Kohn], 8 mars 1884",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152441"
+  },
+  {
+   "id": "MJV_B312",
+   "cote": "MJV B312",
+   "date": "11 mars 1886",
+   "title": "Lettre autographe signée de Paul Verne adressée à Léon [Guillon], 11 mars 1886",
+   "recipient_guess": "Léon [Guillon], 11 mars 1886",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152669"
+  },
+  {
+   "id": "MJV_B310",
+   "cote": "MJV B310",
+   "date": "14 mars 1886",
+   "title": "Lettre autographe signée de Michel Verne adressée à sa tante [Marie Guillon], 14 mars 1886",
+   "recipient_guess": "sa tante [Marie Guillon], 14 mars 1886",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152667"
+  },
+  {
+   "id": "MJV_B154",
+   "cote": "MJV B154",
+   "date": "24 mai 1886",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 24 mai 1886",
+   "recipient_guess": "Monsieur Alliou, 24 mai 1886",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152457"
+  },
+  {
+   "id": "MJV_B313",
+   "cote": "MJV B313",
+   "date": "28 mars 1886",
+   "title": "Lettre autographe signée de J. [Henry] adressée à Monsieur [Guillon], 28 mars 1886",
+   "recipient_guess": "Monsieur [Guillon], 28 mars 1886",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152670"
+  },
+  {
+   "id": "MJV_B163",
+   "cote": "MJV B163",
+   "date": "[novembre 1886 ?]",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, [novembre 1886 ?]",
+   "recipient_guess": "Monsieur Alliou, [novembre 1886 ?]",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152466"
+  },
+  {
+   "id": "MJV_B311",
+   "cote": "MJV B311",
+   "date": "mars 1886",
+   "title": "Lettre autographe signée de Paul Verne adressée à Léon [Guillon], mars 1886",
+   "recipient_guess": "Léon [Guillon], mars 1886",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152668"
+  },
+  {
+   "id": "MJV_B39",
+   "cote": "MJV B39",
+   "date": "09 décembre 1887",
+   "title": "Lettre de Jules Verne à [Monsieur Floury], 09 décembre 1887",
+   "recipient_guess": "[Monsieur Floury], 09 décembre 1887",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152451"
+  },
+  {
+   "id": "MJV_B6",
+   "cote": "MJV B6",
+   "date": "17 juillet 1887",
+   "title": "Lettre de Jules Verne à Monsieur Henri Pene du Bois, 17 juillet 1887",
+   "recipient_guess": "Monsieur Henri Pene du Bois, 17 juillet 1887",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152440"
+  },
+  {
+   "id": "MJV_B227",
+   "cote": "MJV B227",
+   "date": "1887-1894",
+   "title": "Lettres de Jules Verne à Anna et Raymond Ducrest de Villeneuve, 1887-1894",
+   "recipient_guess": "Anna et Raymond Ducrest de Villeneuve, 1887-1894",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152618"
+  },
+  {
+   "id": "MJV_B173",
+   "cote": "MJV B173",
+   "date": "24 février 1887",
+   "title": "Lettre de Jules Verne à M. le Directeur, 24 février 1887",
+   "recipient_guess": "M. le Directeur, 24 février 1887",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152481"
+  },
+  {
+   "id": "MJV_B296",
+   "cote": "MJV B296",
+   "date": "09 mai 1888",
+   "title": "Lettre autographe signée de Jules Verne adressée à Paul Bonnetain au Figaro, 09 mai 1888",
+   "recipient_guess": "Paul Bonnetain au Figaro, 09 mai 1888",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152629"
+  },
+  {
+   "id": "MJV_B4",
+   "cote": "MJV B4",
+   "date": "28 février 1888",
+   "title": "Lettre autographe signée de Jules Verne, 28 février 1888",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152438"
+  },
+  {
+   "id": "MJV_B184",
+   "cote": "MJV B184",
+   "date": "11 février 1889",
+   "title": "Lettre de Jules Verne au Commandant [Heumbert], 11 février 1889",
+   "recipient_guess": "Commandant [Heumbert], 11 février 1889",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152493"
+  },
+  {
+   "id": "MJV_B155",
+   "cote": "MJV B155",
+   "date": "19 décembre 1889",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 19 décembre 1889",
+   "recipient_guess": "Monsieur Alliou, 19 décembre 1889",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152458"
+  },
+  {
+   "id": "MJV_B209",
+   "cote": "MJV B209",
+   "date": "22 septembre 1889",
+   "title": "Lettre à Melle Nemie Vd. Gon Nesmer, 22 septembre 1889",
+   "recipient_guess": "Melle Nemie Vd. Gon Nesmer, 22 septembre 1889",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152513"
+  },
+  {
+   "id": "MJV_B303",
+   "cote": "MJV B303",
+   "date": "10 août 1891",
+   "title": "Lettre autographe signée de Jules Verne adressée à sa sœur Marie, 10 août 1891",
+   "recipient_guess": "sa sœur Marie, 10 août 1891",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152637"
+  },
+  {
+   "id": "MJV_B156",
+   "cote": "MJV B156",
+   "date": "14 avril 1891",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 14 avril 1891",
+   "recipient_guess": "Monsieur Alliou, 14 avril 1891",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152459"
+  },
+  {
+   "id": "MJV_B304",
+   "cote": "MJV B304",
+   "date": "22 novembre 1891",
+   "title": "Lettre autographe signée de Jules Verne adressée à Léon [Guillon], 22 novembre 1891",
+   "recipient_guess": "Léon [Guillon], 22 novembre 1891",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152634"
+  },
+  {
+   "id": "MJV_B175",
+   "cote": "MJV B175",
+   "date": "20 juillet 1892",
+   "title": "lettre de Jules Verne à son ami Philippe [Sille], 20 juillet 1892",
+   "recipient_guess": "son ami Philippe [Sille], 20 juillet 1892",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152483"
+  },
+  {
+   "id": "MJV_B167",
+   "cote": "MJV B167",
+   "date": "07 septembre 1894",
+   "title": "Lettre de Jules Verne à son frère Paul Verne, 07 septembre 1894",
+   "recipient_guess": "son frère Paul Verne, 07 septembre 1894",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152476"
+  },
+  {
+   "id": "MJV_B166",
+   "cote": "MJV B166",
+   "date": "21 août 1894",
+   "title": "Lettre de Jules Verne à son frère Paul Verne, 21 août 1894",
+   "recipient_guess": "son frère Paul Verne, 21 août 1894",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152475"
+  },
+  {
+   "id": "MJV_B159",
+   "cote": "MJV B159",
+   "date": "03 novembre 1895",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 03 novembre 1895",
+   "recipient_guess": "Monsieur Alliou, 03 novembre 1895",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152462"
+  },
+  {
+   "id": "MJV_B214",
+   "cote": "MJV B214",
+   "date": "28 mars 1895",
+   "title": "Lettre autographe signée [à un journaliste], 28 mars 1895",
+   "recipient_guess": "un journaliste], 28 mars 1895",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152514"
+  },
+  {
+   "id": "MJV_B11",
+   "cote": "MJV B11",
+   "date": "le 17 février 1895",
+   "title": "Lettre autographe signée Jules Verne [à Léon Séché ?], le 17 février 1895",
+   "recipient_guess": "Léon Séché ?], le 17 février 1895",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152442"
+  },
+  {
+   "id": "MJV_B172",
+   "cote": "MJV B172",
+   "date": "04 novembre 1896",
+   "title": "Lettre de Jules Verne à M. Le [Consul], 04 novembre 1896",
+   "recipient_guess": "M. Le [Consul], 04 novembre 1896",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152480"
+  },
+  {
+   "id": "MJV_B160",
+   "cote": "MJV B160",
+   "date": "16 août 1896",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 16 août 1896",
+   "recipient_guess": "Monsieur Alliou, 16 août 1896",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152463"
+  },
+  {
+   "id": "MJV_B41",
+   "cote": "MJV B41",
+   "date": "17 décembre 1896",
+   "title": "Lettre manuscrite de Jules Verne à Monsieur [?], 17 décembre 1896",
+   "recipient_guess": "Monsieur [?], 17 décembre 1896",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152453"
+  },
+  {
+   "id": "MJV_B185",
+   "cote": "MJV B185",
+   "date": "30 septembre 1896",
+   "title": "Lettre de Jules Verne au Commandant [Heumbert], 30 septembre 1896",
+   "recipient_guess": "Commandant [Heumbert], 30 septembre 1896",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152494"
+  },
+  {
+   "id": "MJV_B14",
+   "cote": "MJV B14",
+   "date": "20 juillet 1897",
+   "title": "Lettre de Jules Verne, 20 juillet 1897",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152444"
+  },
+  {
+   "id": "MJV_B15",
+   "cote": "MJV B15",
+   "date": "26 juillet 1897",
+   "title": "Lettre de Jules Verne à Monsieur [en réalité Madame Charles Vincens, née Cécile Bouffé, pseud. Arvède Barine], 26 juillet 1897",
+   "recipient_guess": "Monsieur [en réalité Madame Charles Vincens, née Cécile Bouffé, pseud. Arvède Barine], 26 juillet 1897",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152445"
+  },
+  {
+   "id": "MJV_B157",
+   "cote": "MJV B157",
+   "date": "28 juin 1897",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 28 juin 1897",
+   "recipient_guess": "Monsieur Alliou, 28 juin 1897",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152460"
+  },
+  {
+   "id": "MJV_B3",
+   "cote": "MJV B3",
+   "date": "23 septembre 1898",
+   "title": "Lettre autographe signée de Jules Verne [à un jeune ami poète], 23 septembre 1898",
+   "recipient_guess": "un jeune ami poète], 23 septembre 1898",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152437"
+  },
+  {
+   "id": "MJV_B176",
+   "cote": "MJV B176",
+   "date": "25 octobre 1898",
+   "title": "Lettre de Jules Verne à Monsieur et cher maître, 25 octobre 1898",
+   "recipient_guess": "Monsieur et cher maître, 25 octobre 1898",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152484"
+  },
+  {
+   "id": "MJV_B161",
+   "cote": "MJV B161",
+   "date": "01 juillet 1899",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 01 juillet 1899",
+   "recipient_guess": "Monsieur Alliou, 01 juillet 1899",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152464"
+  },
+  {
+   "id": "MJV_B40",
+   "cote": "MJV B40",
+   "date": "09 avril 1899",
+   "title": "Lettre de Jules Verne à [M. Robert Dumesnil], 09 avril 1899",
+   "recipient_guess": "[M. Robert Dumesnil], 09 avril 1899",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152452"
+  },
+  {
+   "id": "MJV_B306",
+   "cote": "MJV B306",
+   "date": "17 décembre 1899",
+   "title": "Lettre autographe signée de Jules Verne adressée à sa sœur Marie, 17 décembre 1899",
+   "recipient_guess": "sa sœur Marie, 17 décembre 1899",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152639"
+  },
+  {
+   "id": "MJV_B305",
+   "cote": "MJV B305",
+   "date": "20 août 1899",
+   "title": "Lettre autographe signée de Jules Verne adressée à sa sœur Marie, 20 août 1899",
+   "recipient_guess": "sa sœur Marie, 20 août 1899",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152638"
+  },
+  {
+   "id": "MJV_B158",
+   "cote": "MJV B158",
+   "date": "29 juin 1899",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 29 juin 1899",
+   "recipient_guess": "Monsieur Alliou, 29 juin 1899",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152461"
+  },
+  {
+   "id": "MJV_B307",
+   "cote": "MJV B307",
+   "date": "03 janvier 1900",
+   "title": "Lettre autographe signée de Jules Verne adressée à sa sœur Marie, 03 janvier 1900",
+   "recipient_guess": "sa sœur Marie, 03 janvier 1900",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152640"
+  },
+  {
+   "id": "MJV_B308",
+   "cote": "MJV B308",
+   "date": "11 juin 1900",
+   "title": "Lettre autographe signée de Jules Verne adressée à sa sœur Marie, 11 juin 1900",
+   "recipient_guess": "sa sœur Marie, 11 juin 1900",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152641"
+  },
+  {
+   "id": "WILKES_GSM_B4_F42",
+   "cote": "Gilbert Stuart McClintock collection, Series III, Subseries IV, Box 4, Folder 42 (Item 42)",
+   "date": "1900-02-14",
+   "title": "Letter from Jules Verne to Unknown [in French], 1900 February 14",
+   "recipient_guess": "unknown correspondent who sent L'Événement with Stanislas Rzewuski's article",
+   "author_side": "active",
+   "transcription_status": "transcription_withheld_in_public_release",
+   "ark_url": "https://archivepublic.wilkes.edu/repositories/2/archival_objects/14484"
+  },
+  {
+   "id": "MJV_B23",
+   "cote": "MJV B23",
+   "date": "27 janvier 1900",
+   "title": "Carte-lettre autographe signée Jules Verne à Madame Béatrice Seymour, 27 janvier 1900",
+   "recipient_guess": "Madame Béatrice Seymour, 27 janvier 1900",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152449"
+  },
+  {
+   "id": "MJV_B171",
+   "cote": "MJV B171",
+   "date": "09 août 1901",
+   "title": "Lettre de Jules Verne à M. [Romani], 09 août 1901",
+   "recipient_guess": "M. [Romani], 09 août 1901",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152479"
+  },
+  {
+   "id": "MJV_B165",
+   "cote": "MJV B165",
+   "date": "23 juillet 1901",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 23 juillet 1901",
+   "recipient_guess": "Monsieur Alliou, 23 juillet 1901",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152468"
+  },
+  {
+   "id": "MJV_B164",
+   "cote": "MJV B164",
+   "date": "25 août 1901",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 25 août 1901",
+   "recipient_guess": "Monsieur Alliou, 25 août 1901",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152467"
+  },
+  {
+   "id": "MJV_B274_1",
+   "cote": "MJV B274/1",
+   "date": "29 décembre 1902",
+   "title": "Lettre autographe signée Jules Verne à Albert, 29 décembre 1902",
+   "recipient_guess": "Albert, 29 décembre 1902",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152615"
+  },
+  {
+   "id": "MJV_B162",
+   "cote": "MJV B162",
+   "date": "30 juillet 1902",
+   "title": "Lettre de Jules Verne à Monsieur Alliou, 30 juillet 1902",
+   "recipient_guess": "Monsieur Alliou, 30 juillet 1902",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152465"
+  },
+  {
+   "id": "MJV_B22",
+   "cote": "MJV B22",
+   "date": "17 août 1903",
+   "title": "Lettre de Jules Verne à sa sœur Marie, 17 août 1903",
+   "recipient_guess": "sa sœur Marie, 17 août 1903",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152636"
+  },
+  {
+   "id": "MJV_B274_10_et_MJV_B274_11",
+   "cote": "MJV B274/10 et MJV B274/11",
+   "date": "17 juin 1903",
+   "title": "MS. MJV B274/10 et MJV B274/11. Lettre autographe signée Jules Verne à Monsieur Th. Cart, 17 juin 1903",
+   "recipient_guess": "Monsieur Th. Cart, 17 juin 1903",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152625"
+  },
+  {
+   "id": "MJV_B274_2",
+   "cote": "MJV B274/2",
+   "date": "30 octobre 1903",
+   "title": "Lettre autographe signée Jules Verne à Madame..., 30 octobre 1903",
+   "recipient_guess": "Madame..., 30 octobre 1903",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152616"
+  },
+  {
+   "id": "MJV_B309",
+   "cote": "MJV B309",
+   "date": "04 janvier 1904",
+   "title": "Lettre autographe signée de Jules Verne adressée à sa sœur Marie, 04 janvier 1904",
+   "recipient_guess": "sa sœur Marie, 04 janvier 1904",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152642"
+  },
+  {
+   "id": "MJV_B297",
+   "cote": "MJV B297",
+   "date": "05 avril 1905",
+   "title": "Lettre autographe signée de Marie Guillon-Verne adressée à son fils, Claude Guillon-Verne, 05 avril 1905",
+   "recipient_guess": "son fils, Claude Guillon-Verne, 05 avril 1905",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152665"
+  },
+  {
+   "id": "MJV_B298",
+   "cote": "MJV B298",
+   "date": "09 avril 1905",
+   "title": "Lettre autographe signée de Claude Guillon-Verne adressée à sa mère, Marie Guillon-Verne, 09 avril 1905",
+   "recipient_guess": "sa mère, Marie Guillon-Verne, 09 avril 1905",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152666"
+  },
+  {
+   "id": "MJV_B205",
+   "cote": "MJV B205",
+   "date": "19 novembre 1905",
+   "title": "Lettre de [Mario Turelle, 19 novembre 1905",
+   "recipient_guess": null,
+   "author_side": "received",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152651"
+  },
+  {
+   "id": "MJV_B206",
+   "cote": "MJV B206",
+   "date": "22 septembre 1905",
+   "title": "Lettre de Michel Verne à M. [Montorgueil], 22 septembre 1905",
+   "recipient_guess": "M. [Montorgueil], 22 septembre 1905",
+   "author_side": "received",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152652"
+  },
+  {
+   "id": "MJV_B208",
+   "cote": "MJV B208",
+   "date": "[15 novembre 1905]",
+   "title": "Lettre de Michel Verne, [15 novembre 1905]",
+   "recipient_guess": null,
+   "author_side": "received",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152654"
+  },
+  {
+   "id": "MJV_B207",
+   "cote": "MJV B207",
+   "date": "[19 octobre 1905]",
+   "title": "Lettre de Michel Verne, [19 octobre 1905]",
+   "recipient_guess": null,
+   "author_side": "received",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152653"
+  },
+  {
+   "id": "MJV_B229",
+   "cote": "MJV B229",
+   "date": "1914-1925",
+   "title": "Lettres de Michel Verne et de Michel Jules-Verne à Raymond Ducrest de Villeneuve, 1914-1925",
+   "recipient_guess": "Raymond Ducrest de Villeneuve, 1914-1925",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152656"
+  },
+  {
+   "id": "MJV_B337",
+   "cote": "MJV B337",
+   "date": "06 décembre 1928",
+   "title": "Lettre autographe signée adressée à Marguerite Allote de la Fuÿe, 06 décembre 1928",
+   "recipient_guess": "Marguerite Allote de la Fuÿe, 06 décembre 1928",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152678"
+  },
+  {
+   "id": "MJV_B333_5",
+   "cote": "MJV B333/5",
+   "date": "1er avril 1931",
+   "title": "Lettre dactylographiée signée adressée à Claude Guillon-Verne, 1er avril 1931",
+   "recipient_guess": "Claude Guillon-Verne, 1er avril 1931",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152677"
+  },
+  {
+   "id": "MJV_B333_4",
+   "cote": "MJV B333/4",
+   "date": "21 janvier 1931",
+   "title": "Lettre dactylographiée signée adressée à Louis Laloy, Secrétaire Général de l’Opéra, 21 janvier 1931",
+   "recipient_guess": "Louis Laloy, Secrétaire Général de l’Opéra, 21 janvier 1931",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152676"
+  },
+  {
+   "id": "MJV_B333_1",
+   "cote": "MJV B333/1",
+   "date": "vers 1931",
+   "title": "Lettre manuscrite autographe adressée à [Claude Guillon-Verne] accompagnée de deux chansons, vers 1931",
+   "recipient_guess": "[Claude Guillon-Verne] accompagnée de deux chansons, vers 1931",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152673"
+  },
+  {
+   "id": "MJV_B333_2",
+   "cote": "MJV B333/2",
+   "date": "vers 1931",
+   "title": "Lettre manuscrite autographe adressée à [Claude Guillon-Verne], vers 1931",
+   "recipient_guess": "[Claude Guillon-Verne], vers 1931",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152674"
+  },
+  {
+   "id": "MJV_B333_3",
+   "cote": "MJV B333/3",
+   "date": "vers 1931",
+   "title": "Lettre manuscrite autographe adressée à [Claude Guillon-Verne], vers 1931",
+   "recipient_guess": "[Claude Guillon-Verne], vers 1931",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152675"
+  },
+  {
+   "id": "MJV_B278_1_et_MJV_B278_2",
+   "cote": "MJV B278/1 et MJV B278/2",
+   "date": "1978",
+   "title": "MS. MJV B278/1 et MJV B278/2. 2 lettres manuscrites autographe de Louis de Funès, 1978",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152663"
+  },
+  {
+   "id": "MJV_B5",
+   "cote": "MJV B5",
+   "date": null,
+   "title": "Lettre de Jules Verne à Monsieur Monnier",
+   "recipient_guess": "Monsieur Monnier",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152439"
+  },
+  {
+   "id": "MJV_B170",
+   "cote": "MJV B170",
+   "date": null,
+   "title": "Lettre de Jules Verne à un ami",
+   "recipient_guess": "un ami",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152478"
+  },
+  {
+   "id": "MJV_B32",
+   "cote": "MJV B32",
+   "date": null,
+   "title": "Lettre de Jules Verne à son père",
+   "recipient_guess": "son père",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152526"
+  },
+  {
+   "id": "MJV_B272_11",
+   "cote": "MJV B272/11",
+   "date": "",
+   "title": "Lettre autographe signée Jules Verne à son père",
+   "recipient_guess": "son père",
+   "author_side": "active",
+   "transcription_status": "transcription_withheld_in_public_release",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152536"
+  },
+  {
+   "id": "MJV_B272_47",
+   "cote": "MJV B272/47",
+   "date": null,
+   "title": "Lettre autographe signée Jules Verne à son père",
+   "recipient_guess": "son père",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152559"
+  },
+  {
+   "id": "MJV_B272_10",
+   "cote": "MJV B272/10",
+   "date": null,
+   "title": "Lettre autographe signée Jules Verne à sa mère",
+   "recipient_guess": "sa mère",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152593"
+  },
+  {
+   "id": "MJV_B272_23",
+   "cote": "MJV B272/23",
+   "date": null,
+   "title": "Lettre autographe signée Jules Verne à sa mère, un mardi de [1851 ?]]",
+   "recipient_guess": "sa mère, un mardi de [1851 ?]]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152600"
+  },
+  {
+   "id": "MJV_B272_40",
+   "cote": "MJV B272/40",
+   "date": null,
+   "title": "Lettre autographe signée Jules Verne à sa mère",
+   "recipient_guess": "sa mère",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152602"
+  },
+  {
+   "id": "MJV_B272_46",
+   "cote": "MJV B272/46",
+   "date": null,
+   "title": "Lettre autographe signée Jules Verne à sa mère",
+   "recipient_guess": "sa mère",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152606"
+  },
+  {
+   "id": "MJV_B247",
+   "cote": "MJV B247",
+   "date": null,
+   "title": "Jules Verne. Lettres : Biographie",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152612"
+  },
+  {
+   "id": "MJV_B274_3",
+   "cote": "MJV B274/3",
+   "date": "",
+   "title": "Carte de visite écrite recto, verso et signée Jules Verne [à son neveu] Raymond [Ducrest de Villeneuve]",
+   "recipient_guess": "son neveu] Raymond [Ducrest de Villeneuve]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152619"
+  },
+  {
+   "id": "MJV_B274_4",
+   "cote": "MJV B274/4",
+   "date": null,
+   "title": "Carte de visite avec 8 lignes manuscrites signées Jules Verne [à son neveu] Raymond [Ducrest de Villeneuve], [s. d.]",
+   "recipient_guess": "son neveu] Raymond [Ducrest de Villeneuve], [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152620"
+  },
+  {
+   "id": "MJV_B285",
+   "cote": "MJV B285",
+   "date": null,
+   "title": "Lettre - préface",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152628"
+  },
+  {
+   "id": "MJV_B8",
+   "cote": "MJV B8",
+   "date": null,
+   "title": "Lettre de Hetzel à [Zazvady]",
+   "recipient_guess": "[Zazvady]",
+   "author_side": "received",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152645"
+  },
+  {
+   "id": "MJV_B9",
+   "cote": "MJV B9",
+   "date": null,
+   "title": "Lettre d’Adolphe d’Ennery à Monsieur Varney",
+   "recipient_guess": "Monsieur Varney",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152646"
+  },
+  {
+   "id": "MJV_B24",
+   "cote": "MJV B24",
+   "date": null,
+   "title": "Lettre de Nadar à Dalloz",
+   "recipient_guess": "Dalloz",
+   "author_side": "received",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152647"
+  },
+  {
+   "id": "MJV_B25",
+   "cote": "MJV B25",
+   "date": null,
+   "title": "Lettre de Nadar à Monsieur le Directeur du Moniteur du Soir",
+   "recipient_guess": "Monsieur le Directeur du Moniteur du Soir",
+   "author_side": "received",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152648"
+  },
+  {
+   "id": "MJV_B204",
+   "cote": "MJV B204",
+   "date": null,
+   "title": "Lettre de M. de [Villemeaut] à propos du Tour du monde",
+   "recipient_guess": "propos du Tour du monde",
+   "author_side": "received",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152650"
+  },
+  {
+   "id": "MJV_B238",
+   "cote": "MJV B238",
+   "date": null,
+   "title": "Lettre manuscrite de Jean-Baptiste Charcot à Jean-Jules Verne",
+   "recipient_guess": "Jean-Jules Verne",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152657"
+  },
+  {
+   "id": "MJV_B272_18",
+   "cote": "MJV B272/18",
+   "date": "10 [sans mois et sans année]",
+   "title": "Lettre autographe signée Jules Verne à sa mère, 10 [sans mois et sans année]",
+   "recipient_guess": "sa mère, 10 [sans mois et sans année]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152597"
+  },
+  {
+   "id": "MJV_B12",
+   "cote": "MJV B12",
+   "date": "10 mai [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à M. Abraham, 10 mai [s. d.]",
+   "recipient_guess": "M. Abraham, 10 mai [s. d.]",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152443"
+  },
+  {
+   "id": "MJV_B274_8_et_MJV_B274_9",
+   "cote": "MJV B274/8 et MJV B274/9",
+   "date": "17 août 90",
+   "title": "MS. MJV B274/8 et MJV B274/9. Lettre autographe signée Jules Verne à Monsieur le Docteur J. Félix, 17 août 90",
+   "recipient_guess": "Monsieur le Docteur J. Félix, 17 août 90",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152624"
+  },
+  {
+   "id": "MJV_B169",
+   "cote": "MJV B169",
+   "date": "17 décembre 190[1]",
+   "title": "Lettre de Jules Verne à Monsieur [?], 17 décembre 190[1]",
+   "recipient_guess": "Monsieur [?], 17 décembre 190[1]",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152477"
+  },
+  {
+   "id": "MJV_B274_5",
+   "cote": "MJV B274/5",
+   "date": "1er janvier [18]99",
+   "title": "Carte de visite écrite recto, verso, signée Jules Verne [à son neveu] Raymond [Ducrest de Villeneuve], 1er janvier [18]99",
+   "recipient_guess": "son neveu] Raymond [Ducrest de Villeneuve], 1er janvier [18]99",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152621"
+  },
+  {
+   "id": "MJV_B221",
+   "cote": "MJV B221",
+   "date": "1er octobre [18]87",
+   "title": "Lettre autographe signée à [M. Simon, 1er octobre [18]87",
+   "recipient_guess": "[M. Simon, 1er octobre [18]87",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152515"
+  },
+  {
+   "id": "MJV_B272_31",
+   "cote": "MJV B272/31",
+   "date": "22 mars 185...",
+   "title": "Lettre autographe signée Jules Verne à sa mère, 22 mars 185...",
+   "recipient_guess": "sa mère, 22 mars 185...",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152601"
+  },
+  {
+   "id": "MJV_B202",
+   "cote": "MJV B202",
+   "date": "24 juillet",
+   "title": "Lettre de d'Ennery à Ritt, 24 juillet",
+   "recipient_guess": "Ritt, 24 juillet",
+   "author_side": "received",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152649"
+  },
+  {
+   "id": "MJV_B201",
+   "cote": "MJV B201",
+   "date": "24 mai [?]",
+   "title": "Lettre de Jules Verne à d'Ennery, 24 mai [?]",
+   "recipient_guess": "d'Ennery, 24 mai [?]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152511"
+  },
+  {
+   "id": "MJV_B276",
+   "cote": "MJV B276",
+   "date": "27 décembre [18]97",
+   "title": "Lettre autographe signée Nadar à ..., 27 décembre [18]97",
+   "recipient_guess": "..., 27 décembre [18]97",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152662"
+  },
+  {
+   "id": "MJV_B272_39",
+   "cote": "MJV B272/39",
+   "date": "27 septembre [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, 27 septembre [s. d.]",
+   "recipient_guess": "son père, 27 septembre [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152556"
+  },
+  {
+   "id": "MJV_B274_7",
+   "cote": "MJV B274/7",
+   "date": "31 décembre [18]95",
+   "title": "Carte de visite écrite recto verso, signée des deux côtés Jules Verne [à son neveu] Raymond [Ducrest de Villeneuve], 31 décembre [18]95",
+   "recipient_guess": "son neveu] Raymond [Ducrest de Villeneuve], 31 décembre [18]95",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152623"
+  },
+  {
+   "id": "MJV_B272_34",
+   "cote": "MJV B272/34",
+   "date": "31 mars [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, 31 mars [s. d.]",
+   "recipient_guess": "son père, 31 mars [s. d.]",
+   "author_side": "active",
+   "transcription_status": "transcription_withheld_in_public_release",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152551"
+  },
+  {
+   "id": "MJV_B220",
+   "cote": "MJV B220",
+   "date": "7 mai [18]87",
+   "title": "Lettre autographe signée [à Jules Hetzel fils], 7 mai [18]87",
+   "recipient_guess": "Jules Hetzel fils], 7 mai [18]87",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152473"
+  },
+  {
+   "id": "MJV_B272_30",
+   "cote": "MJV B272/30",
+   "date": "8 mai [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, 8 mai [s. d.]",
+   "recipient_guess": "son père, 8 mai [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152548"
+  },
+  {
+   "id": "MJV_B181",
+   "cote": "MJV B181",
+   "date": "Fin XIXe",
+   "title": "Lettre de Jules Verne au Commandant [Heumbert], Fin XIXe",
+   "recipient_guess": "Commandant [Heumbert], Fin XIXe",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152490"
+  },
+  {
+   "id": "MJV_B183",
+   "cote": "MJV B183",
+   "date": "Fin XIXe-début XXe",
+   "title": "Lettre de Jules Verne au Commandant [Heumbert], Fin XIXe-début XXe",
+   "recipient_guess": "Commandant [Heumbert], Fin XIXe-début XXe",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152492"
+  },
+  {
+   "id": "MJV_B187",
+   "cote": "MJV B187",
+   "date": "Fin XIXe-début XXe",
+   "title": "Lettre de Jules Verne au Commandant [Heumbert], Fin XIXe-début XXe",
+   "recipient_guess": "Commandant [Heumbert], Fin XIXe-début XXe",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152496"
+  },
+  {
+   "id": "MJV_B188",
+   "cote": "MJV B188",
+   "date": "Fin XIXe-début XXe",
+   "title": "Carte de visite de Jules Verne au Commandant [Heumbert], Fin XIXe-début XXe",
+   "recipient_guess": "Commandant [Heumbert], Fin XIXe-début XXe",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152497"
+  },
+  {
+   "id": "MJV_B197",
+   "cote": "MJV B197",
+   "date": "Fin XIXe-début XXe",
+   "title": "Lettre de Jules Verne à Ritt, Fin XIXe-début XXe",
+   "recipient_guess": "Ritt, Fin XIXe-début XXe",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152504"
+  },
+  {
+   "id": "MJV_B198",
+   "cote": "MJV B198",
+   "date": "Fin XIXe-début XXe",
+   "title": "Lettre de Jules Verne à des amis sur une lettre de d'Ennery, Fin XIXe-début XXe",
+   "recipient_guess": "des amis sur une lettre de d'Ennery, Fin XIXe-début XXe",
+   "author_side": "received",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152509"
+  },
+  {
+   "id": "MJV_B200",
+   "cote": "MJV B200",
+   "date": "Fin XIXe-début XXe",
+   "title": "Lettre de Jules Verne à un ami [Adolphe d'Ennery], Fin XIXe-début XXe",
+   "recipient_guess": "un ami [Adolphe d'Ennery], Fin XIXe-début XXe",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152510"
+  },
+  {
+   "id": "MJV_B272_32",
+   "cote": "MJV B272/32",
+   "date": "[s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, [s. d.]",
+   "recipient_guess": "son père, [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152549"
+  },
+  {
+   "id": "MJV_B272_53",
+   "cote": "MJV B272/53",
+   "date": "[s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, [s. d.]",
+   "recipient_guess": "son père, [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152564"
+  },
+  {
+   "id": "MJV_B224",
+   "cote": "MJV B224",
+   "date": "[s.d.]",
+   "title": "Billet autographe signé, [s.d.]",
+   "recipient_guess": null,
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152518"
+  },
+  {
+   "id": "MJV_B272_28",
+   "cote": "MJV B272/28",
+   "date": "dimanche [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, dimanche [s. d.]",
+   "recipient_guess": "son père, dimanche [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152546"
+  },
+  {
+   "id": "MJV_B274_6",
+   "cote": "MJV B274/6",
+   "date": "décembre [18]96",
+   "title": "Carte de visite avec 7 lignes manuscrite signée Jules Verne [à son neveu], décembre [18]96",
+   "recipient_guess": "son neveu], décembre [18]96",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152622"
+  },
+  {
+   "id": "MJV_B177",
+   "cote": "MJV B177",
+   "date": "fin XIXe - début XXe",
+   "title": "Lettre de Jules Verne à Monsieur [?], fin XIXe - début XXe",
+   "recipient_guess": "Monsieur [?], fin XIXe - début XXe",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152485"
+  },
+  {
+   "id": "MJV_B272_27",
+   "cote": "MJV B272/27",
+   "date": "jeudi [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, jeudi [s. d.]",
+   "recipient_guess": "son père, jeudi [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152545"
+  },
+  {
+   "id": "MJV_B272_35",
+   "cote": "MJV B272/35",
+   "date": "jeudi [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, jeudi [s. d.]",
+   "recipient_guess": "son père, jeudi [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152552"
+  },
+  {
+   "id": "MJV_B272_26",
+   "cote": "MJV B272/26",
+   "date": "jeudi [s. jour] mars [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, jeudi [s. jour] mars [s. d.]",
+   "recipient_guess": "son père, jeudi [s. jour] mars [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152544"
+  },
+  {
+   "id": "MJV_B272_25",
+   "cote": "MJV B272/25",
+   "date": "jeudi, avril [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, jeudi, avril [s. d.]",
+   "recipient_guess": "son père, jeudi, avril [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152543"
+  },
+  {
+   "id": "MJV_B272_44",
+   "cote": "MJV B272/44",
+   "date": "le... 185... [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, le... 185... [s. d.]",
+   "recipient_guess": "son père, le... 185... [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152557"
+  },
+  {
+   "id": "MJV_B272_42",
+   "cote": "MJV B272/42",
+   "date": "le... 185... [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à sa mère, le... 185... [s. d.]",
+   "recipient_guess": "sa mère, le... 185... [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152604"
+  },
+  {
+   "id": "MJV_B272_33",
+   "cote": "MJV B272/33",
+   "date": "samedi [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, samedi [s. d.]",
+   "recipient_guess": "son père, samedi [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152550"
+  },
+  {
+   "id": "MJV_B300",
+   "cote": "MJV B300",
+   "date": "sans date",
+   "title": "Lettre autographe signée de Jules Verne adressée à Léon [Guillon], sans date",
+   "recipient_guess": "Léon [Guillon], sans date",
+   "author_side": "active",
+   "transcription_status": "scan_available_not_transcribed",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152631"
+  },
+  {
+   "id": "MJV_B272_52",
+   "cote": "MJV B272/52",
+   "date": "vendredi matin [s. d.]",
+   "title": "Lettre autographe signée Jules Verne à son père, vendredi matin [s. d.]",
+   "recipient_guess": "son père, vendredi matin [s. d.]",
+   "author_side": "active",
+   "transcription_status": "none",
+   "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152563"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B310",
+ "cote": "MJV B310",
+ "title": "Lettre autographe signée de Michel Verne adressée à sa tante [Marie Guillon], 14 mars 1886",
+ "date": "14 mars 1886",
+ "recipient_guess": "sa tante [Marie Guillon], 14 mars 1886",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152667",
+ "record": "eadcgm:EADC:a2152667",
+ "support": null,
+ "dimensions": "document fermé : H. 18 x L. 11,3 cm / document ouvert : H. 18 x 22,5 cm",
+ "archival_description": {
+  "text": "Michel Verne envoie une lettre à sa tante Marie Guillon pour l’informer de l’état de santé de son père après l’attentat perpétué par Gaston Verne (fils de Paul Verne). L’état de santé de Jules Verne s’améliore même si la situation reste préoccupante. Il l’informe aussi sur la suite à donner pour Gaston qui devra être enfermé dans une maison de santé.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Marie Guillon",
+  "Verne, Michel"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/11f4a239-bf5d-4425-be6c-a40d12bc8294"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

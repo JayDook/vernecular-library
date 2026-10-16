@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B33",
+ "cote": "MJV B33",
+ "title": "Lettre de Jules Verne à son père, vers 1851",
+ "date": "vers 1851",
+ "recipient_guess": "son père, vers 1851",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152527",
+ "record": "eadcgm:EADC:a2152527",
+ "support": null,
+ "dimensions": "document fermé : 17,8 x 11,8 cm / document ouvert : 17,8 x 23,7 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne. Jules Verne parle de son quotidien : du théâtre, de son travail, de sa situation financière. Il évoque une rencontre avec [Ernest] Moker (acteur et régisseur général de l'Opéra Comique) par le biais de [Jacques] Arago. Moker s'engage à présenter le livret remis par Jules Verne au directeur de l'Opéra Comique. Jules Verne précise aussi qu'il a une charge de travail importante : il termine un vaudeville ; une pièce en 2 actes pour le Gymnase avec V. [Chevalier] et un article sur l'histoire anécdotique des ballons pour le musée.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/cdb9ad02-8b45-46f6-86ad-e13439a3e765"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

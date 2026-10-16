@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B302",
+ "cote": "MJV B302",
+ "title": "Lettre autographe signée de Jules Verne adressée à Léon [Guillon], 1er août 1879",
+ "date": "1er août 1879",
+ "recipient_guess": "Léon [Guillon], 1er août 1879",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152633",
+ "record": "eadcgm:EADC:a2152633",
+ "support": null,
+ "dimensions": "document fermé : H. 13,3 x L. 10,3 cm / document ouvert : H. 13,3 x L. 20,6 cm",
+ "archival_description": {
+  "text": "Jules Verne écrit une lettre à Léon [Guillon] pour lui transmettre son soutien après l’annonce du décès de sa mère [Claire née Roy – 1818-1879]. Lettre datée du 01-08-1879",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Léon Guillon"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/a99e2827-e50e-4c1a-a8a2-4517d6725bc9"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

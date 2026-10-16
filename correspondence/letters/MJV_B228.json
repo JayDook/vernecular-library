@@ -1,0 +1,26 @@
+{
+ "id": "MJV_B228",
+ "cote": "MJV B228",
+ "title": "copies de lettres de Jules Verne à ses parents, 1848-1856",
+ "date": "1848-1856",
+ "recipient_guess": "ses parents, 1848-1856",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152521",
+ "record": "eadcgm:EADC:a2152521",
+ "support": null,
+ "dimensions": null,
+ "archival_description": {
+  "text": "ensemble de 14 copies de lettres de Jules Verne adressées à ses parents et recopiées par Anna Ducrest de Villeneuve, la soeur de Jules Verne.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Anna Ducrest de Villeneuve",
+  "Jules Verne"
+ ],
+ "digitized_urls": [],
+ "scans": [],
+ "transcription_status": "none",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

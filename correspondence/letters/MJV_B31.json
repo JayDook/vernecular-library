@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B31",
+ "cote": "MJV B31",
+ "title": "Lettre de Jules Verne à Monsieur [?], vers 1868",
+ "date": "vers 1868",
+ "recipient_guess": "Monsieur [?], vers 1868",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152450",
+ "record": "eadcgm:EADC:a2152450",
+ "support": null,
+ "dimensions": "document fermé : 19,2 x 13,4 cm / document ouvert : 19,8 x 30,7 cm",
+ "archival_description": {
+  "text": "Lettre manuscrite de Jules Verne à Monsieur [?] Lettre de remerciements à propos de l'envoi de rectifications concernant la publication de personnages célèbres de la \"Géographie illustrée\". Il évoque notamment Valoo et le maréchal Macdonald et informe des corrections qui seront apportées à la fin de l'ouvrage.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/23326eda-48be-4fc6-bffb-f86299e87ece"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

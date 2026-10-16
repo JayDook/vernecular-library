@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B306",
+ "cote": "MJV B306",
+ "title": "Lettre autographe signée de Jules Verne adressée à sa sœur Marie, 17 décembre 1899",
+ "date": "17 décembre 1899",
+ "recipient_guess": "sa sœur Marie, 17 décembre 1899",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152639",
+ "record": "eadcgm:EADC:a2152639",
+ "support": null,
+ "dimensions": "document fermé : H. 13,4 x L. 10,4 cm / document ouvert : H. 13,4 x L. 20,8 cm",
+ "archival_description": {
+  "text": "Jules Verne répond à sa sœur Marie Guillon et lui adresse en retour ses vœux pour la nouvelle année. Il lui envoie aussi une photographie de lui (document non présent). Il lui annonce qu’ils ne viendront pas à Nantes l’année suivante car il commence à être trop âgé pour se déplacer.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Marie Guillon"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/a53b140f-2057-4745-af43-7baa43f788fd"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B311",
+ "cote": "MJV B311",
+ "title": "Lettre autographe signée de Paul Verne adressée à Léon [Guillon], mars 1886",
+ "date": "mars 1886",
+ "recipient_guess": "Léon [Guillon], mars 1886",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152668",
+ "record": "eadcgm:EADC:a2152668",
+ "support": null,
+ "dimensions": "document fermé : H. 16,5 cm x L. 10,9 cm / document ouvert : H. 16,5 x L. 21,8 cm",
+ "archival_description": {
+  "text": "Paul Verne envoie à son beau-frère Léon Guillon des informations suite à l’attentat perpétué par son fils, Gaston, contre son oncle Jules Verne le 09 mars 1886. Gaston a été placé à l’infirmerie de l’hôpital à la demande de son oncle.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Léon Guillon",
+  "Verne, Paul"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/209536eb-d45f-45b6-853a-d50795fa2002"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

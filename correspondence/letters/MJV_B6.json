@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B6",
+ "cote": "MJV B6",
+ "title": "Lettre de Jules Verne à Monsieur Henri Pene du Bois, 17 juillet 1887",
+ "date": "17 juillet 1887",
+ "recipient_guess": "Monsieur Henri Pene du Bois, 17 juillet 1887",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152440",
+ "record": "eadcgm:EADC:a2152440",
+ "support": null,
+ "dimensions": "lettre fermée : 10,6 x 13,5 cm / lettre ouverte : 20,9 x 13,5 cm / enveloppe : 11,2 x 7,3 cm / extrait de catalogue : 6,8 x 3,6 cm / feuillet simple : 15,1 x 24 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne (et enveloppe timbrée), adressée à Monsieur Henri Pene du Bois 106, Eastern Boulevard, New-York, U.S.A, Amiens 17/07/1887. Lettre de remerciements de Jules Verne à propos de l'envoi d'un article en anglais qu'il souhaite faire traduire. Jules Verne cite deux personnes : [G. Bennett] et [Cyrus Frild]. Jules Verne se remémore son voyage aux Etats-Unis à bord du Great Eastern en 1867 et souhaite y retourner.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pène du Bois, Henri (1858-1906)"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/ffe66dc7-acd4-432c-851c-66aa827384bc"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

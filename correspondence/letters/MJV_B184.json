@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B184",
+ "cote": "MJV B184",
+ "title": "Lettre de Jules Verne au Commandant [Heumbert], 11 février 1889",
+ "date": "11 février 1889",
+ "recipient_guess": "Commandant [Heumbert], 11 février 1889",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152493",
+ "record": "eadcgm:EADC:a2152493",
+ "support": null,
+ "dimensions": "document fermé : 13,1 x 20,3 cm / document ouvert : 26,2 x 20,3 cm",
+ "archival_description": {
+  "text": "Lettre dans laquelle Jules Verne écrit qu'il a bien reçu \"La revue nouvelle des inventions et découvertes\" dont l'interlocuteur est le directeur.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/3ca94f14-3701-4ff1-a55b-8184c41e8257"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

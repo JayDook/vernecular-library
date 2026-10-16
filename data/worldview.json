@@ -1,0 +1,140 @@
+{
+ "description": "Broad outlook. Inferences flagged; fiction excluded as belief evidence.",
+ "evidence_levels": {
+  "documented": "stated in a cited source (Verne's reported words, firsthand observation, or reliable reference)",
+  "inferred": "reasoned from multiple sources; see reasoning",
+  "speculative": "plausible but weakly or not supported by collected sources"
+ },
+ "records": [
+  {
+   "id": "world-001",
+   "topic": "project of the Voyages extraordinaires",
+   "claim": "Stated aim: to depict the whole earth and the universe while achieving beauty of style.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.121",
+     "source_kind": "verne_own_words_reported",
+     "quote": "My object has been to depict the earth, and not the earth alone, but the universe",
+     "char_offset": 21190,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "world-002",
+   "topic": "age of invention",
+   "claim": "Felt fortunate to live in an age of discoveries and inventions.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.208",
+     "source_kind": "verne_own_words_reported",
+     "quote": "born in an age of remarkable discoveries",
+     "char_offset": 6491,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "world-003",
+   "topic": "modernity and romance",
+   "claim": "Contemporaries saw him as the storyteller of a practical, scientific century (Claretie); Verne himself equated machines with art (locomotive vs Raphael).",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "as much pleasure in watching a steam-engine or a fine locomotive at work as I have in contemplating a picture by Raphael",
+     "char_offset": 11861,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "intro",
+     "source_kind": "secondary",
+     "quote": "Nous en sommes aux contes scientifiques",
+     "char_offset": 894,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "world-004",
+   "topic": "sea and travel",
+   "claim": "Devoted to the sea; imagined nothing more ideal than a sailor's life.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.211",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I can imagine nothing more ideal than a sailor's life",
+     "char_offset": 20423,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "world-005",
+   "topic": "family and unambitiousness",
+   "claim": "Saw his family as happy and deliberately unambitious ('none of us have been ambitious').",
+   "evidence_level": "documented",
+   "caveats": "Sits awkwardly with his own expressed craving for recognition.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "none of us have been ambitious",
+     "char_offset": 9241,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "world-006",
+   "topic": "later pessimism",
+   "claim": "Later work and remarks have been read as increasingly pessimistic about science and the future; the EB notes 'very gloomy predictions as to the future of the novel'.",
+   "evidence_level": "inferred",
+   "reasoning": "EB's remark is secondary; pessimism in late novels is a reading of fiction (what he wrote), not proof of belief. Needs letters of 1890s-1905.",
+   "fiction_cited_as": "what_he_wrote",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 2",
+     "source_kind": "encyclopedia",
+     "quote": "very gloomy predictions as to the future of the novel",
+     "char_offset": 2493,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "world-007",
+   "topic": "nothing wasted",
+   "claim": "Valued all learning as eventually useful ('Nothing that one has learned is ever wasted').",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.123",
+     "source_kind": "verne_own_words_reported",
+     "quote": "Nothing that one has learned is ever wasted",
+     "char_offset": 28445,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  }
+ ]
+}

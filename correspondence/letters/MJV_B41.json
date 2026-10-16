@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B41",
+ "cote": "MJV B41",
+ "title": "Lettre manuscrite de Jules Verne à Monsieur [?], 17 décembre 1896",
+ "date": "17 décembre 1896",
+ "recipient_guess": "Monsieur [?], 17 décembre 1896",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152453",
+ "record": "eadcgm:EADC:a2152453",
+ "support": null,
+ "dimensions": "document fermé : 10,1 x 13,1 cm / document ouvert : 20,2 x 13,1 cm",
+ "archival_description": {
+  "text": "Lettre de remerciements pour l'envoi d'une lettre et d'un article publié dans le Journal d'Amiens.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/6e98c5b0-843a-461e-af6c-d7c44a82c87c"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

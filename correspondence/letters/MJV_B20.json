@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B20",
+ "cote": "MJV B20",
+ "title": "Lettre de Jules Verne à sa mère, [vers mars 1857]",
+ "date": "[vers mars 1857]",
+ "recipient_guess": "sa mère, [vers mars 1857]",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152588",
+ "record": "eadcgm:EADC:a2152588",
+ "support": null,
+ "dimensions": "13,5 x 20,9 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne à sa mère, Paris, Mars [circa 1857]. Dans cette lettre, Jules Verne évoque son quotidien d'étudiant parisien et ses problèmes de santé.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Sophie Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/69ca3ed5-3527-45c5-9bf7-9df329198e96"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

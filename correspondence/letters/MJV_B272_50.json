@@ -1,0 +1,29 @@
+{
+ "id": "MJV_B272_50",
+ "cote": "MJV B272/50",
+ "title": "Lettre autographe signée Jules Verne à sa mère, le 6 avril 1868",
+ "date": "le 6 avril 1868",
+ "recipient_guess": "sa mère, le 6 avril 1868",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152607",
+ "record": "eadcgm:EADC:a2152607",
+ "support": null,
+ "dimensions": null,
+ "archival_description": null,
+ "persons_index": [
+  "Jules Verne",
+  "Sophie Verne"
+ ],
+ "digitized_urls": [],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559324f",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_sa_m%C3%A8re._Lettre_autographe_sign%C3%A9e_Jules_Verne_%C3%A0_sa_m%C3%A8re_-_btv1b10559324f.jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "transcription_withheld_in_public_release",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

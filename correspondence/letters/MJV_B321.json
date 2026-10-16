@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B321",
+ "cote": "MJV B321",
+ "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, vers 1855",
+ "date": "vers 1855",
+ "recipient_guess": "son père, Pierre Verne, vers 1855",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152577",
+ "record": "eadcgm:EADC:a2152577",
+ "support": null,
+ "dimensions": "document fermé : H. 20,4 x L.13,3 cm / document ouvert : H. 20,4 x L.26,6 cm",
+ "archival_description": {
+  "text": "Dans cette lettre Jules Verne évoque la nomination du nouveau directeur du Théâtre Lyrique et précise que ce poste lui a été proposé mais qu’il a refusé.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/63462325-234f-40ad-9c4a-8c2f189bc0ab"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

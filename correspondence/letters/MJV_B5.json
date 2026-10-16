@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B5",
+ "cote": "MJV B5",
+ "title": "Lettre de Jules Verne à Monsieur Monnier",
+ "date": null,
+ "recipient_guess": "Monsieur Monnier",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152439",
+ "record": "eadcgm:EADC:a2152439",
+ "support": null,
+ "dimensions": "document fermé : 10,7 x 15,5 cm / document ouvert : 21,4 x 15,5 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne à Monsieur Monnier. Lettre de remerciement à propos de l'envoi du modèle du bateau de Jules Verne, le Saint-Michel.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/40c4c11e-2878-4878-9ccc-e24b84e4bb61"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

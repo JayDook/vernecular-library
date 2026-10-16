@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B305",
+ "cote": "MJV B305",
+ "title": "Lettre autographe signée de Jules Verne adressée à sa sœur Marie, 20 août 1899",
+ "date": "20 août 1899",
+ "recipient_guess": "sa sœur Marie, 20 août 1899",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152638",
+ "record": "eadcgm:EADC:a2152638",
+ "support": null,
+ "dimensions": "document fermé : H. 13,5 x L. 10,5 cm / document ouvert : H. 13,5 x 21 cm",
+ "archival_description": {
+  "text": "Jules Verne répond à sa sœur Marie Guillon et lui adresse quelques lignes pour une tierce personne (document non présent) et lui demande de lui transmettre. Il lui fait part de son souhait de continuer à écrire et d’atteindre les 100 volumes puisqu’il en a déjà écrit 94.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Marie Guillon"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/89cfd50b-b018-4620-9676-85a88bf40c1a"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

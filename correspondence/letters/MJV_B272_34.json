@@ -1,0 +1,29 @@
+{
+ "id": "MJV_B272_34",
+ "cote": "MJV B272/34",
+ "title": "Lettre autographe signée Jules Verne à son père, 31 mars [s. d.]",
+ "date": "31 mars [s. d.]",
+ "recipient_guess": "son père, 31 mars [s. d.]",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152551",
+ "record": "eadcgm:EADC:a2152551",
+ "support": null,
+ "dimensions": null,
+ "archival_description": null,
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10559308d",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_son_p%C3%A8re_Pierre_Verne._Lettre_autographe_sign%C3%A9e_Jules_Verne_%C3%A0_son_p%C3%A8re_-_btv1b10559308d.jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "transcription_withheld_in_public_release",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

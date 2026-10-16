@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B157",
+ "cote": "MJV B157",
+ "title": "Lettre de Jules Verne à Monsieur Alliou, 28 juin 1897",
+ "date": "28 juin 1897",
+ "recipient_guess": "Monsieur Alliou, 28 juin 1897",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152460",
+ "record": "eadcgm:EADC:a2152460",
+ "support": null,
+ "dimensions": "feuillet fermé : 10 x 13,1 / feuillet ouvert : 20 x 13,1 cm / enveloppe : 11,2 x 7,3 cm",
+ "archival_description": {
+  "text": "Ensemble de 13 lettres de Jules Verne adressée à Mr Alliou , collaborateur et typographe chez l'Editeur Hetzel. Jules Verne avait l'occasion de lui écrire pour lui faire rectifier des fautes sur les épreuves imprimées de ses manuscrits.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Mr Alliou"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/cdc8e7e7-e53a-450b-a565-e0cee67f7c04"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

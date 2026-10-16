@@ -1,0 +1,53 @@
+{
+ "id": "MJV_B328",
+ "cote": "MJV B328",
+ "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, novembre 1870",
+ "date": "novembre 1870",
+ "recipient_guess": "son père, Pierre Verne, novembre 1870",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152584",
+ "record": "eadcgm:EADC:a2152584",
+ "support": null,
+ "dimensions": "document fermé : H. 21 x L.13,5 cm / document ouvert : H. 21 x L.27 cm",
+ "archival_description": {
+  "text": "Dans cette lettre, Jules Verne annonce à son père qu’il est garde National au Crotoy. Il précise qu’il tiendra ce poste jusqu’à la fin de la guerre [Guerre Franco-prussienne de 1870-1871]. Lettre datée de novembre 1870",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/c1f68b0f-f251-46fa-8bb3-b7d49b88e80c"
+ ],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10558713r",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_son_p%C3%A8re_Pierre_Verne._Lettre_autographe_sign%C3%A9e_de_Jules_Verne_adress%C3%A9e_%C3%A0_son..._-_btv1b10558713r_(1_of_4).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10558713r",
+   "page": 2,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_son_p%C3%A8re_Pierre_Verne._Lettre_autographe_sign%C3%A9e_de_Jules_Verne_adress%C3%A9e_%C3%A0_son..._-_btv1b10558713r_(2_of_4).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10558713r",
+   "page": 3,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_son_p%C3%A8re_Pierre_Verne._Lettre_autographe_sign%C3%A9e_de_Jules_Verne_adress%C3%A9e_%C3%A0_son..._-_btv1b10558713r_(3_of_4).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b10558713r",
+   "page": 4,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_son_p%C3%A8re_Pierre_Verne._Lettre_autographe_sign%C3%A9e_de_Jules_Verne_adress%C3%A9e_%C3%A0_son..._-_btv1b10558713r_(4_of_4).jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "transcription_withheld_in_public_release",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

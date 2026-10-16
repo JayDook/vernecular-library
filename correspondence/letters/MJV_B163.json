@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B163",
+ "cote": "MJV B163",
+ "title": "Lettre de Jules Verne à Monsieur Alliou, [novembre 1886 ?]",
+ "date": "[novembre 1886 ?]",
+ "recipient_guess": "Monsieur Alliou, [novembre 1886 ?]",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152466",
+ "record": "eadcgm:EADC:a2152466",
+ "support": null,
+ "dimensions": "document fermé : 10,4 x 13 cm / document ouvert : 20,8 x 13 cm",
+ "archival_description": {
+  "text": "Ensemble de 13 lettres de Jules Verne adressée à Mr Alliou , collaborateur et typographe chez l'Editeur Hetzel. Jules Verne avait l'occasion de lui écrire pour lui faire rectifier des fautes sur les épreuves imprimées de ses manuscrits.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Mr Alliou"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/d00e26e7-96db-4192-b376-e5048ee9ac97"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

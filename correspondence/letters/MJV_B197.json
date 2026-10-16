@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B197",
+ "cote": "MJV B197",
+ "title": "Lettre de Jules Verne à Ritt, Fin XIXe-début XXe",
+ "date": "Fin XIXe-début XXe",
+ "recipient_guess": "Ritt, Fin XIXe-début XXe",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152504",
+ "record": "eadcgm:EADC:a2152504",
+ "support": null,
+ "dimensions": "document fermé : 10,4 x 13,2 cm / document ouvert : 20,9 x 13,2 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne à Ritt le remerciant de lui avoir donné des nouvelles de \"la première représentation\" ; il écrit cette lettre à son retour de voyage du Havre. Il mentionne à la fin de sa lettre une adaptation du Courier du Tzar. Lettre écrite un mardi sans autre précision concernant la date.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/ce670150-2d4e-4aeb-9f24-9add24f70c85"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

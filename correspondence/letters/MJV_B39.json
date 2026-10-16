@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B39",
+ "cote": "MJV B39",
+ "title": "Lettre de Jules Verne à [Monsieur Floury], 09 décembre 1887",
+ "date": "09 décembre 1887",
+ "recipient_guess": "[Monsieur Floury], 09 décembre 1887",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152451",
+ "record": "eadcgm:EADC:a2152451",
+ "support": null,
+ "dimensions": "document fermé : 13,2 x 10,4 cm / document ouvert : 13,2 x 21 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne à [Monsieur Floury]. Jules Verne parle de ses problèmes de santé (cicatrice de sa jambe), de ce fait il n'a pu aller voir la représentation de \"Mathias Sandorf\". Jules Verne mentionne ensuite Adolphe d'Ennery et l'adaptation de \"Michel Strogoff\".",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/c4046e84-d37b-41ff-9993-0e35e3df9a07"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

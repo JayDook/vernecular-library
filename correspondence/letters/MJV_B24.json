@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B24",
+ "cote": "MJV B24",
+ "title": "Lettre de Nadar à Dalloz",
+ "date": null,
+ "recipient_guess": "Dalloz",
+ "author_side": "received",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152647",
+ "record": "eadcgm:EADC:a2152647",
+ "support": null,
+ "dimensions": "document fermé : 21,5 x 13,4 cm / document ouvert : 21,5 x 27,7 cm",
+ "archival_description": {
+  "text": "Correspondance des amis de Jules Verne Lettre autographe signée de Nadar à Dalloz. Papier à entête Société de navigation aérienne. Texte faisant référence à une supercherie dont le destinataire de la lettre est le premier complice.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Dalloz",
+  "Nadar"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/4609f379-6807-40da-b588-3dacb8078a7e"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

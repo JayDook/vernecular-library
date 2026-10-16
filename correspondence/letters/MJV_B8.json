@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B8",
+ "cote": "MJV B8",
+ "title": "Lettre de Hetzel à [Zazvady]",
+ "date": null,
+ "recipient_guess": "[Zazvady]",
+ "author_side": "received",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152645",
+ "record": "eadcgm:EADC:a2152645",
+ "support": null,
+ "dimensions": "document fermé : 13,4 x 20,5 cm / document ouvert : 34,7 x 24,8 cm",
+ "archival_description": {
+  "text": "Lettre de Hetzel à [Zazvady]. Lettre à propos de l'envoi d'un ouvrage [Les frontières de France] par Théophille Lavallée.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Hetzel, Pierre-Jules"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/03533464-39d8-445c-a374-a69602e105c2"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

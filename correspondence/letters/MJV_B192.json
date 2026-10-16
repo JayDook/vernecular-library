@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B192",
+ "cote": "MJV B192",
+ "title": "Lettre de Jules Verne à [Ritt], fin mars 1875",
+ "date": "fin mars 1875",
+ "recipient_guess": "[Ritt], fin mars 1875",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152502",
+ "record": "eadcgm:EADC:a2152502",
+ "support": null,
+ "dimensions": "document fermé : 10,2 x 13,2 cm / document ouvert : 20,5 x 13,2 cm",
+ "archival_description": {
+  "text": "Lettre autographe de Jules Verne adressée à [Ritt]. Jules Verne demande une loge de 6 places, numérotée, de face, pour la représentation au théâtre du \"Tour du monde en 80 jours\" ce vendredi 02 avril. Il fait cette demande pour des amis qui quittent Paris le lendemain.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/944d9749-4988-4281-9f91-23b648212411"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

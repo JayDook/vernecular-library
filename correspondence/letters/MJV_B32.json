@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B32",
+ "cote": "MJV B32",
+ "title": "Lettre de Jules Verne à son père",
+ "date": null,
+ "recipient_guess": "son père",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152526",
+ "record": "eadcgm:EADC:a2152526",
+ "support": null,
+ "dimensions": "document fermé : 20,5 x 13,3 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne à son père. Lettre de Jules Verne mentionnant son frère Paul qui est marin et Alfred Hignard, il parle également de son quotidien.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/e8fd757a-3811-4c84-8c4c-25e881e383db"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

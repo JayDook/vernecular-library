@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B16",
+ "cote": "MJV B16",
+ "title": "Lettre de Jules Verne adressée au Président du Yacht club de France : Monsieur le Vice amiral de la Roncière Le Noury, 5 avril 1874",
+ "date": "5 avril 1874",
+ "recipient_guess": "Président du Yacht club de France : Monsieur le Vice amiral de la Roncière Le Noury, 5 avril 1874",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152446",
+ "record": "eadcgm:EADC:a2152446",
+ "support": null,
+ "dimensions": "document fermé : 13,2 x 21 cm / document ouvert : 26,4 x 21 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne adressée au Président du Yacht club de France : Monsieur le Vice amiral de la Roncière Le Noury, Amiens 5 avril 1874. Lettre de remerciements suite à la nomination de Jules Verne comme membre honoraire du Yacht club de France. Jules Verne évoque son bateau, le Saint-Michel III.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "La Roncière-Le Noury, Camille-Adalbert-Marie Clément (1813-1881 ; baron de)"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/7e63e3ca-4747-4445-8b57-3d37bca875a5"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

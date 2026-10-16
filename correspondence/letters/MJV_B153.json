@@ -1,0 +1,29 @@
+{
+ "id": "MJV_B153",
+ "cote": "MJV B153",
+ "title": "Lettre de Jules Verne à Monsieur Alliou, 28 mars 1883",
+ "date": "28 mars 1883",
+ "recipient_guess": "Monsieur Alliou, 28 mars 1883",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152456",
+ "record": "eadcgm:EADC:a2152456",
+ "support": null,
+ "dimensions": "13,7 x 9 cm",
+ "archival_description": {
+  "text": "Ensemble de 13 lettres de Jules Verne adressée à Mr Alliou , collaborateur et typographe chez l'Editeur Hetzel. Jules Verne avait l'occasion de lui écrire pour lui faire rectifier des fautes sur les épreuves imprimées de ses manuscrits.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Albert Rozé",
+  "Jules Verne",
+  "Mr Alliou"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/26d786b3-72c2-47ed-a89f-c4e82c8c2752"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

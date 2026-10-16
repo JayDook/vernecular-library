@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B285",
+ "cote": "MJV B285",
+ "title": "Lettre - préface",
+ "date": null,
+ "recipient_guess": null,
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152628",
+ "record": "eadcgm:EADC:a2152628",
+ "support": null,
+ "dimensions": "22 x 17 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée à un confrère écrivain, Edouard Noël (1846-1926) , qui lui demande une préface pour un texte fantaisiste où il est question de voyage dans les nuages et d'une nappe d'eau dans les couches supérieures de l'atmosphère. Camille Flammarion reconnaît les grands mérites de son correspondant, mais décline aimablement la proposition, orientant l'auteur plutôt vers Jules Verne dont \"la plume ondoyante et féconde conviendrait mieux [...] car elle sait mettre en pleine lumière les inventions les plus originales et leur donne une saveur piquante, un goût relevé, qui leur prêtent un caractère de réalité tout à fait séduisant.\" A défaut il conseille Alphonse Daudet car l'auteur de \"Tartarin\" se retrouverait dans cette fantaisie provençale. Les réticences exprimées dans cette lettre sont coquetteries d'auteur car cette lettre-préface a bien été publiée en tête du texte demandé : \"Aventure incroyable et véridique de Modeste Parambas, de Beaucaire\", ouvrage publié par E. Dentu en 1890. (présentation de la librairie Thierry Corcelle)",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Alphonse Daudet",
+  "Camille Flammarion",
+  "Edouard Noël (1846-1926)",
+  "Jules Verne"
+ ],
+ "digitized_urls": [],
+ "scans": [],
+ "transcription_status": "none",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

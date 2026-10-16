@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B22",
+ "cote": "MJV B22",
+ "title": "Lettre de Jules Verne à sa sœur Marie, 17 août 1903",
+ "date": "17 août 1903",
+ "recipient_guess": "sa sœur Marie, 17 août 1903",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152636",
+ "record": "eadcgm:EADC:a2152636",
+ "support": null,
+ "dimensions": "document fermé : 13,2 x 10,6 cm / document ouvert : 13,2 x 21,2 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne à sa sœur Marie [Guillon] (+ lettre d'Honorine) Jules Verne aborde ses problèmes de santé (cataracte) et la vieillesse ; il refuse maintenant de voyager. La lettre d'Honorine Verne va dans le même sens que celle de son mari.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Marie Guillon"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/9000df73-2e9c-477b-b63b-763276a52864"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

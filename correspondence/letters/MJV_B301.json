@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B301",
+ "cote": "MJV B301",
+ "title": "Lettre autographe signée de Jules Verne adressée à Léon [Guillon], vers 1880",
+ "date": "vers 1880",
+ "recipient_guess": "Léon [Guillon], vers 1880",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152632",
+ "record": "eadcgm:EADC:a2152632",
+ "support": null,
+ "dimensions": "document fermé : H. 13,5 x 10,4 cm / document ouvert : H. 13,5 x L. 20,9 cm",
+ "archival_description": {
+  "text": "Jules Verne a effectué des démarches infructueuses auprès du parquet [d’Amiens] pour aider Réné Guillon-Verne (né en 1863), fils de Marie et Léon Guillon.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Léon Guillon"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/0d178f1b-a69d-4d78-bbb3-d951c4b22dbd"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,290 @@
+{
+ "description": "People in Verne's life.",
+ "evidence_levels": {
+  "documented": "stated in a cited source (Verne's reported words, firsthand observation, or reliable reference)",
+  "inferred": "reasoned from multiple sources; see reasoning",
+  "speculative": "plausible but weakly or not supported by collected sources"
+ },
+ "records": [
+  {
+   "id": "rel-001",
+   "person": "Paul Verne",
+   "relation": "brother",
+   "claim": "Dearest and most intimate friend since childhood; co-explorer of the Loire; navy officer; companion on yacht cruises.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "he is not only my brother but my most intimate friend",
+     "char_offset": 9940,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "rel-002",
+   "person": "Pierre Verne",
+   "relation": "father",
+   "claim": "Admired as cultured, literary and unambitious; provided Verne a small allowance in Paris.",
+   "evidence_level": "documented",
+   "caveats": "Their extensive correspondence (letters from Paris 1848-1860s) is the key gap: not in corpus.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.117",
+     "source_kind": "verne_own_words_reported",
+     "quote": "Our father, who was an admirable man",
+     "char_offset": 8025,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.120",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I was living then on a small pension allowed me by my father",
+     "char_offset": 15814,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "rel-003",
+   "person": "Honorine Verne (née Morel, widow de Viane)",
+   "relation": "wife",
+   "claim": "Lively, proud of her husband, acted as hostess and gatekeeper (autograph requests); Verne credited her role in his success.",
+   "evidence_level": "documented",
+   "caveats": "Modern biographers describe tensions in the marriage; not evidenced in corpus.",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.207",
+     "source_kind": "firsthand",
+     "quote": "Mme. Jules Verne has played no small part in each and all of her husband's triumphs",
+     "char_offset": 1683,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.212",
+     "source_kind": "firsthand",
+     "quote": "If I were not there to save him from his friends",
+     "char_offset": 22122,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "rel-004",
+   "person": "Michel Verne",
+   "relation": "son",
+   "claim": "Only child; lived in Paris, married with children by 1893; wrote on scientific subjects; later edited/revised posthumous novels.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "He writes ably on scientific subjects",
+     "char_offset": 29728,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsfr-les-naufrages-du-jonathan",
+     "location": "manifest note (posthumous, revised)",
+     "source_kind": "verne_text",
+     "quote_type": "published_text"
+    }
+   ],
+   "fiction_cited_as": "what_he_wrote",
+   "confidence": "high"
+  },
+  {
+   "id": "rel-005",
+   "person": "Alexandre Dumas fils",
+   "relation": "friend, early protector, collaborator",
+   "claim": "Verne said he owed Dumas fils his 'deepest debt'; Dumas introduced him to Dumas père, co-wrote Pailles rompues, and proposed him for the Académie.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.119",
+     "source_kind": "verne_own_words_reported",
+     "quote": "the friend to whom I owe the deepest debt of gratitude and affection is Alexandre Dumas the younger",
+     "char_offset": 15161,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.121",
+     "source_kind": "verne_own_words_reported",
+     "quote": "Fifteen years ago Dumas proposed my name for the Academy",
+     "char_offset": 23424,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "rel-006",
+   "person": "Pierre-Jules Hetzel (and son Louis-Jules)",
+   "relation": "publisher, adviser",
+   "claim": "Publisher of the Voyages extraordinaires; Verne called father and son 'my very good friends'. Hetzel was also editor/counsellor.",
+   "evidence_level": "documented",
+   "caveats": "Hetzel's heavy editorial interventions (e.g. Paris au XXe siècle rejected; Nemo's backstory) are known from correspondence not collected.",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.208",
+     "source_kind": "verne_own_words_reported",
+     "quote": "this excellent man and his son became, and have remained, my very good friends",
+     "char_offset": 5681,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "§ œuvre",
+     "source_kind": "secondary",
+     "quote": "qui fut son conseiller en même temps que son éditeur",
+     "char_offset": 29140,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "nc01-correspondance-inedite-de-jules-verne-et",
+     "location": "passim (not in corpus)",
+     "source_kind": "secondary",
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "rel-007",
+   "person": "Aristide Hignard",
+   "relation": "Nantes friend, composer-collaborator",
+   "claim": "Wrote operettas and songs with him (e.g. 'Les Gabiers').",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.119",
+     "source_kind": "verne_own_words_reported",
+     "quote": "Aristide Hignard, a musician",
+     "char_offset": 14516,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "§ chansons",
+     "source_kind": "secondary",
+     "quote": "Les Gabiers, par Jules Verne et Aristide Hignard",
+     "char_offset": 5822,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "rel-008",
+   "person": "Léo Delibes; Victor Massé",
+   "relation": "student-era musician friends",
+   "claim": "Verne was intimate with Delibes ('we used to say thou') and friendly with Massé.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.119",
+     "source_kind": "verne_own_words_reported",
+     "quote": "and so was Delibes, with whom I was very intimate",
+     "char_offset": 14362,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "rel-009",
+   "person": "Adolphe d'Ennery",
+   "relation": "theatrical collaborator",
+   "claim": "Co-wrote the successful stage adaptations of Le Tour du monde and Michel Strogoff.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 1",
+     "source_kind": "encyclopedia",
+     "quote": "both dramas being written in conjunction with Adolphe d’Ennery",
+     "char_offset": 1880,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "rel-010",
+   "person": "Robert H. Sherard",
+   "relation": "journalist acquaintance",
+   "claim": "Interviewed him (1893) and interpreted at Nellie Bly's 1889 visit.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "Mr. Sherard in an attractive, lazy voice translated",
+     "char_offset": 6504,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "rel-011",
+   "person": "Readers in America",
+   "relation": "correspondents",
+   "claim": "Received thousands of letters from Americans each year and professed great affection for America.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.123",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I do so love America and the Americans",
+     "char_offset": 26598,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "verne_own_words_reported",
+     "quote": "There is one man in California who has been writing to me for years",
+     "char_offset": 6999,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "rel-012",
+   "person": "Hector Malot",
+   "relation": "fellow writer",
+   "claim": "Malot called him 'the best of best fellows' (as quoted by Sherard).",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.115",
+     "source_kind": "secondary",
+     "quote": "He is the best of best fellows",
+     "char_offset": 2215,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B25",
+ "cote": "MJV B25",
+ "title": "Lettre de Nadar à Monsieur le Directeur du Moniteur du Soir",
+ "date": null,
+ "recipient_guess": "Monsieur le Directeur du Moniteur du Soir",
+ "author_side": "received",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152648",
+ "record": "eadcgm:EADC:a2152648",
+ "support": null,
+ "dimensions": "27 x 20,8 cm",
+ "archival_description": {
+  "text": "Lettre autographe signée de Nadar à Monsieur le Directeur du Moniteur du Soir [s.d.] Papier à en-tête Société d'encouragement pour la locomotion aérienne. Conseil d'administration. Censeurs... Jules Verne. Nadar parle d'un article de M. Gustave Claudin et de l'aérostation.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Nadar"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/2aa40eb7-8524-445c-90fa-d409b0f618fa"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

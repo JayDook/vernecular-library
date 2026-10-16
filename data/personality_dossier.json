@@ -1,0 +1,441 @@
+{
+ "description": "Evidence-backed traits, triangulated across letters, Verne's own memoir and independent visitors (1883-1904). Only traits with at least one primary citation are included.",
+ "confidence_scale": {
+  "high": "multiple or unambiguous primary sources",
+  "medium": "single primary source, reported speech, or unverified HTR that is legible",
+  "low": "uncertain reading, single ambiguous phrase, or secondary-only"
+ },
+ "records": [
+  {
+   "id": "dossier-001",
+   "topic": "timidity / gentleness",
+   "claim": "Self-described as a timid child; visitors in old age still saw a gentleness 'presque jusqu'à la timidité'; the 1855-56 letter to his father is catalogued as discussing timidity.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-verne-1891-story-of-my-boyhood",
+     "location": "p.210",
+     "quote_type": "published_text",
+     "quote": "childishly timid as I was, I did not dare"
+    },
+    {
+     "source_id": "nc14-souvenirs-d-enfance-et-de-jeunesse-frenc",
+     "location": "§2 (cited only; transcription not reproduced)",
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.113",
+     "quote_type": "published_text",
+     "quote": "Elle va presque jusqu'à la timidité"
+    },
+    {
+     "source_id": "letter:MJV_B27",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "il évoque l'orgueil, la paresse, la timidité, le sens des valeurs"
+    }
+   ]
+  },
+  {
+   "id": "dossier-002",
+   "topic": "work as necessity / horror of idleness",
+   "claim": "Described work as his only true happiness and idleness as torture; kept a fixed dawn-to-11 writing routine for decades.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.116",
+     "quote_type": "published_text",
+     "quote": "Le travail est pour moi la source du seul bonheur véritable"
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.116",
+     "quote_type": "published_text",
+     "quote": "L'oisiveté m'est un supplice"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "p.116",
+     "quote_type": "published_text",
+     "quote": "I rise every morning before five"
+    }
+   ]
+  },
+  {
+   "id": "dossier-003",
+   "topic": "habit and order",
+   "claim": "Strong attachment to routine and order: read papers in a fixed sequence at the Société industrielle, classified thousands of letters, took a daily cup of milk at 3 pm at the same pâtissier.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.116",
+     "quote_type": "published_text",
+     "quote": "le Figaro succédant au Temps, le Gaulois au Figaro"
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.117",
+     "quote_type": "published_text",
+     "quote": "sont classées avec un soin rigoureux"
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.119",
+     "quote_type": "published_text",
+     "quote": "sa tasse de lait quotidienne"
+    }
+   ]
+  },
+  {
+   "id": "dossier-004",
+   "topic": "unambitious self-image vs. hunger for recognition",
+   "claim": "Repeatedly called himself unambitious ('si vous saviez comme je suis peu ambitieux'), yet told Sherard his great regret was not counting in French literature (see contradictions-001).",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.113",
+     "quote_type": "published_text",
+     "quote": "si vous saviez comme je suis peu ambitieux"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "p.115",
+     "quote_type": "published_text",
+     "quote": "great regret of my life is that I have never taken any place in French literature"
+    }
+   ]
+  },
+  {
+   "id": "dossier-005",
+   "topic": "self-deprecating modesty",
+   "claim": "Late in life signed himself 'le vieux conteur' and declared he did not deserve such praise; denied being an inventor ('I have merely made suggestions').",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "letter:WILKES_GSM_B4_F42",
+     "location": "transcription excerpt",
+     "quote_type": "archival_transcription_unverified",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.666",
+     "quote_type": "published_text",
+     "quote": "have merely made suggestions"
+    }
+   ]
+  },
+  {
+   "id": "dossier-006",
+   "topic": "aversion to violence against animals",
+   "claim": "Told Brisson that fishing always seemed barbaric to him and hunting horrified him; he hunted once and shot a gendarme's hat.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Anecdote told with evident humour; the gendarme story may be embroidered.",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.119",
+     "quote_type": "published_text",
+     "quote": "la pèche lui a toujours paru barbare et que la chasse lui inspire de l'horreur"
+    }
+   ]
+  },
+  {
+   "id": "dossier-007",
+   "topic": "frugality / simple tastes in old age",
+   "claim": "Ate eggs and greens 'as if vegetarian'; a 'buveur de lait'; ate simple meals in a small room.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.112",
+     "quote_type": "published_text",
+     "quote": "M. Verne se nourrit d'œufs et d'herbage"
+    },
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.120",
+     "quote_type": "published_text",
+     "quote": "Ce conquistador est un buveur de lait"
+    }
+   ]
+  },
+  {
+   "id": "dossier-008",
+   "topic": "health anxieties / bodily complaints",
+   "claim": "From student days his letters dwell on his health (colic, stomach trouble, 1848), later facial/jaw cramps (1876), dizziness (1898) and cataract (1901-03).",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B290",
+     "location": "p.3 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "letter:MJV_B194",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "ses divers problèmes de santé et notamment une contracture des muscles de la machoire"
+    },
+    {
+     "source_id": "letter:MJV_B176",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "il ne voyage plus du fait de vertiges"
+    },
+    {
+     "source_id": "letter:MJV_B22",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "Jules Verne aborde ses problèmes de santé (cataracte) et la vieillesse"
+    }
+   ]
+  },
+  {
+   "id": "dossier-009",
+   "topic": "calm pragmatism in disputes",
+   "claim": "Counselled theatre director Ritt to ignore a hostile press review: silence is one of the forces of nature (paraphrased); publish the receipts instead.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B191",
+     "location": "p.1 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "letter:MJV_B191",
+     "location": "p.2 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "dossier-010",
+   "topic": "dutifulness / civic conscientiousness",
+   "claim": "Brisson: a very zealous councillor who never missed a session; Verne said he took more pride in the council than in literary fame.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "ia-brisson-1898-m-jules-verne",
+     "location": "p.112",
+     "quote_type": "published_text",
+     "quote": "un conseiller très zélé, qui na jamais manqué aux séances"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "p.211",
+     "quote_type": "published_text",
+     "quote": "I am far prouder of being a town councillor of Amiens than of my literary reputation"
+    }
+   ]
+  },
+  {
+   "id": "dossier-011",
+   "topic": "practical, unsentimental courage",
+   "claim": "In 1870 he served as a National Guard at Le Crotoy and bought a Chassepot rifle and 150 cartridges in case the levy reached his age.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B328",
+     "location": "p.2 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "letter:MJV_B328",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "il est garde National au Crotoy"
+    }
+   ]
+  },
+  {
+   "id": "dossier-012",
+   "topic": "family affection and tact",
+   "claim": "Letters to parents are affectionate, signed as his very affectionate son (paraphrased), solicitous about health, and show discretion in family politics (asks parents not to mention a visit to relatives).",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Quote is UNVERIFIED machine HTR of the manuscript; check scan before use.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B328",
+     "location": "p.4 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    },
+    {
+     "source_id": "letter:MJV_B290",
+     "location": "p.4 (HTR)",
+     "quote_type": "machine_htr",
+     "quote_withheld": "unpublished Nantes manuscript; transcription withheld pending notification to the Bibliothèque municipale de Nantes. See the scan via the letter record."
+    }
+   ]
+  },
+  {
+   "id": "dossier-013",
+   "topic": "difficult parenthood",
+   "claim": "By 1866 he was writing to his father about the difficult character of his son Michel.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Known only from catalogue summary; letter not transcribed.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B325",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "Jules Verne aborde le caractère difficile de Michel, son fils"
+    }
+   ]
+  },
+  {
+   "id": "dossier-014",
+   "topic": "youthful irreverence about marriage",
+   "claim": "In 1854 he wrote a long 'leste et facétieuse' letter dissuading a schoolfriend from marrying.",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Catalogue summary only.",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B17",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "Longue lettre leste et facétieuse pour déconseiller le mariage à son ancien camarade de classe"
+    }
+   ]
+  },
+  {
+   "id": "dossier-015",
+   "topic": "dramatic temperament (theatre-first identity)",
+   "claim": "Theatre remained central: early libretti/vaudevilles (1851 letters), detailed staging advice to directors (1874-76), lifelong theatre box in Amiens.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "letter:MJV_B33",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "il termine un vaudeville"
+    },
+    {
+     "source_id": "letter:MJV_B190",
+     "location": "catalogue",
+     "quote_type": "archival_description",
+     "quote": "il parle d'Adolphe d'Ennery et de son travail sur l'adaptation du roman"
+    },
+    {
+     "source_id": "ia-jones-1904-jules-verne-at-home",
+     "location": "p.668",
+     "quote_type": "published_text",
+     "quote": "I have a box at the theatre here, which I frequently occupy"
+    }
+   ]
+  },
+  {
+   "id": "dossier-016",
+   "topic": "courteous, gently ironic formality toward colleagues",
+   "claim": "As Director of the Académie d'Amiens he received new members with ceremonious courtesy ('Monsieur' repeated throughout). He paired praise with candid criticism, which he softened with self-deprecation. He called himself a near-newcomer and said it would be slightly indiscreet to ask the candidate about himself.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "caveats": "Formal public speech (written to be read aloud as Director of the Académie): a performed persona, but in his own words.",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.103",
+     "quote_type": "published_text",
+     "quote": "Vous demander à vous-même des renseignements sur vous-même, cela me semblait légèrement indiscret"
+    },
+    {
+     "source_id": "gb-verne-1875-reponse-dubois",
+     "location": "p.103-104",
+     "quote_type": "published_text",
+     "quote": "au cas où je me tromperais en quelques critiques"
+    },
+    {
+     "source_id": "gb-yvert-1875-rapport-travaux",
+     "location": "rapport 1874-75",
+     "quote_type": "published_text",
+     "quote": "avec ce tact parfait, cette justesse d'appréciations, et aussi cette bienveillance aimable"
+    }
+   ]
+  },
+  {
+   "id": "dossier-017",
+   "topic": "love of mystification and comic hoax",
+   "claim": "He liked staged hoaxes and comic set-pieces. In the Baril reply he tells a mock-archaeological hoax about a 'prehistoric' inscription that a schoolboy reads as dog-Latin. Une ville idéale is a whole dream-hoax set in Amiens in the year 2000.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "caveats": "Formal public speech (written to be read aloud as Director of the Académie): a performed persona, but in his own words.",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-reponse-baril",
+     "location": "p.321 ff.",
+     "quote_type": "published_text",
+     "quote": "Cellarius invenit polkam et non decorabitur"
+    },
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.378",
+     "quote_type": "published_text",
+     "quote": "je viens de faire en rêve dans la ville d'Amiens... en l'an 2000"
+    }
+   ]
+  },
+  {
+   "id": "dossier-018",
+   "topic": "early riser (self-statement)",
+   "claim": "Says in a public speech that he habitually rises early, which corroborates the later interviews.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.348",
+     "quote_type": "published_text",
+     "quote": "J'ai l'habitude de me lever de bonne heure"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "p.116",
+     "quote_type": "published_text",
+     "quote": "I rise every morning before five"
+    }
+   ]
+  },
+  {
+   "id": "dossier-019",
+   "topic": "self-mockery about money and taxes",
+   "claim": "He jokes at his own expense about his tax assessment ('si singulièrement coté') and the 'ruin' of paying fifteen centimes.",
+   "evidence_level": "documented",
+   "confidence": "high",
+   "caveats": "Formal public speech (written to be read aloud as Director of the Académie): a performed persona, but in his own words.",
+   "citations": [
+    {
+     "source_id": "gb-verne-1875-une-ville-ideale",
+     "location": "p.348",
+     "quote_type": "published_text",
+     "quote": "le prix de ce programme risquait de consommer ma ruine"
+    }
+   ]
+  }
+ ]
+}

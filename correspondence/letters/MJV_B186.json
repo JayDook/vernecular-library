@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B186",
+ "cote": "MJV B186",
+ "title": "Lettre de Jules Verne au Commandant [Heumbert], 27 mars 1882",
+ "date": "27 mars 1882",
+ "recipient_guess": "Commandant [Heumbert], 27 mars 1882",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152495",
+ "record": "eadcgm:EADC:a2152495",
+ "support": null,
+ "dimensions": "13,6 x 20,7 cm",
+ "archival_description": {
+  "text": "Lettre avec papier à entête : \"J. Hetzel et Cie, libraires-éditeurs, rue Jacob, 18\" Lettre dans laquelle Jules Verne écrit qu'il est à Paris \"mais pour bien peu de temps\". Il donne rendez-vous à son interlocuteur à l'hôtel du Louvre \"mercredi prochain à 3 heures\".",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/a68a9ad5-d02f-444a-af72-61dbc8db9996"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

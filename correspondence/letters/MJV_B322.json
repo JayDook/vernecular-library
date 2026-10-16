@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B322",
+ "cote": "MJV B322",
+ "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 29 mai 1856",
+ "date": "29 mai 1856",
+ "recipient_guess": "son père, Pierre Verne, 29 mai 1856",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152578",
+ "record": "eadcgm:EADC:a2152578",
+ "support": null,
+ "dimensions": "document fermé : H. 20,5 x L.13,5 cm / document ouvert : H. 20,5 x L.27 cm",
+ "archival_description": {
+  "text": "Jules Verne présente son nouveau travail d’agent de change et évoque le manuscrit d’une pièce de théâtre : « Les Heureux du jour ».",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/78caa793-2511-4dbf-bc24-34be9b80cf70"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

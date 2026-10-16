@@ -1,0 +1,45 @@
+{
+ "id": "MJV_B272_11",
+ "cote": "MJV B272/11",
+ "title": "Lettre autographe signée Jules Verne à son père",
+ "date": "",
+ "recipient_guess": "son père",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152536",
+ "record": "eadcgm:EADC:a2152536",
+ "support": null,
+ "dimensions": null,
+ "archival_description": {
+  "text": "[Peut-être 1850, à cause représentation des \"Pailles rompues\"]",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [],
+ "scans": [
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b105592833",
+   "page": 1,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_son_p%C3%A8re_Pierre_Verne._Lettre_autographe_sign%C3%A9e_Jules_Verne_%C3%A0_son_p%C3%A8re_-_btv1b105592833_(1_of_3).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b105592833",
+   "page": 2,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_son_p%C3%A8re_Pierre_Verne._Lettre_autographe_sign%C3%A9e_Jules_Verne_%C3%A0_son_p%C3%A8re_-_btv1b105592833_(2_of_3).jpg",
+   "license": "Public domain"
+  },
+  {
+   "gallica_ark": "https://gallica.bnf.fr/ark:/12148/btv1b105592833",
+   "page": 3,
+   "commons": "https://commons.wikimedia.org/wiki/File:Fonds_Jules_Verne._Correspondance._Correspondance_active_de_Jules_Verne._Lettres_%C3%A0_ses_parents._Lettres_de_Jules_Verne_%C3%A0_son_p%C3%A8re_Pierre_Verne._Lettre_autographe_sign%C3%A9e_Jules_Verne_%C3%A0_son_p%C3%A8re_-_btv1b105592833_(3_of_3).jpg",
+   "license": "Public domain"
+  }
+ ],
+ "transcription_status": "transcription_withheld_in_public_release",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B327",
+ "cote": "MJV B327",
+ "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, vers 1869",
+ "date": "vers 1869",
+ "recipient_guess": "son père, Pierre Verne, vers 1869",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152583",
+ "record": "eadcgm:EADC:a2152583",
+ "support": null,
+ "dimensions": "document fermé : H. 20,7 x L.13,4 cm / document ouvert : H. 20,7 x L.26,8 cm",
+ "archival_description": {
+  "text": "Jules Verne informe son père de leur déménagement au Crotoy. Il conseille à son père de lire le livre [D’Emile] Ollivier « Le 19 janvier ».",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/108b6ce3-dd00-40ee-8eb5-a20c787993f1"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

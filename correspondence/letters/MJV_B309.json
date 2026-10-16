@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B309",
+ "cote": "MJV B309",
+ "title": "Lettre autographe signée de Jules Verne adressée à sa sœur Marie, 04 janvier 1904",
+ "date": "04 janvier 1904",
+ "recipient_guess": "sa sœur Marie, 04 janvier 1904",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152642",
+ "record": "eadcgm:EADC:a2152642",
+ "support": null,
+ "dimensions": "document fermé : H. 13,3 x L. 10 cm / document ouvert : H. 13,3 x 20 cm",
+ "archival_description": {
+  "text": "Jules Verne envoie ses vœux à sa sœur pour la nouvelle année.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Marie Guillon"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/dbd57b29-019f-4346-a3a5-a7b64da2a826"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B317",
+ "cote": "MJV B317",
+ "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, Octobre 1852",
+ "date": "Octobre 1852",
+ "recipient_guess": "son père, Pierre Verne, Octobre 1852",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152574",
+ "record": "eadcgm:EADC:a2152574",
+ "support": null,
+ "dimensions": "document fermé : H. 21 x L. 13,6 cm / document ouvert : H. 21 x L. 27 cm",
+ "archival_description": {
+  "text": "Jules Verne écrit à son père notamment au sujet de sa traduction d’\"Ugolin\" et l’informe avoir proposé à Pitre-Chevalier une parution sous le nom de « Verne » sans précision de prénoms. Il évoque le nouvel empereur : Louis-Napoléon Bonaparte. Il demande des nouvelles de Marie : il veut savoir si elle est en pension et si elle joue de l’épinette. Octobre 1852",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/f0398626-8bbb-41fe-a99a-de1b25cd8858"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,320 @@
+{
+ "description": "Documented opinions (political, religious, literary, national). Never sourced from fictional dialogue.",
+ "evidence_levels": {
+  "documented": "stated in a cited source (Verne's reported words, firsthand observation, or reliable reference)",
+  "inferred": "reasoned from multiple sources; see reasoning",
+  "speculative": "plausible but weakly or not supported by collected sources"
+ },
+ "records": [
+  {
+   "id": "op-001",
+   "topic": "literature: psychological novel",
+   "claim": "Disliked the 'so-called psychological novel', excepting Daudet and Maupassant.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.121",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I am no very great admirer of the psychological novel",
+     "char_offset": 21751,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-002",
+   "topic": "literature: Maupassant",
+   "claim": "Called Maupassant a genius who wrote 'as naturally... as an apple-tree produces apples'.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "For De Maupassant I have the very highest admiration",
+     "char_offset": 22031,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-003",
+   "topic": "literature: Dickens",
+   "claim": "Dickens was his favourite author, read entirely in translation 'at least ten times'.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "My favorite author, however, is, and always has been, Dickens",
+     "char_offset": 22244,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.212",
+     "source_kind": "verne_own_words_reported",
+     "quote": "the English writer whom I consider the master of them all, namely, Charles Dickens",
+     "char_offset": 15796,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-004",
+   "topic": "literature: Cooper, Scott, Stevenson, Robinsonades",
+   "claim": "Admired Fenimore Cooper ('fifteen ... immortal'), Scott, Marryat, Stevenson's Treasure Island; preferred Swiss Family Robinson to Robinson Crusoe.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "There are fifteen of these which I consider immortal",
+     "char_offset": 22858,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.212",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I myself prefer the dear old ' Swiss Family Robinson",
+     "char_offset": 14589,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-005",
+   "topic": "literature: style",
+   "claim": "Insisted that adventure novels can and should have literary style and resented critics' neglect of his style.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.121",
+     "source_kind": "verne_own_words_reported",
+     "quote": "It is said that there can’t be any style in a novel of adventure, but that isn’t true",
+     "char_offset": 21429,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-006",
+   "topic": "Victor Hugo",
+   "claim": "As a young man was 'greatly under the influence of Victor Hugo', especially his drama.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I was greatly under the influence of Victor Hugo",
+     "char_offset": 12732,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-007",
+   "topic": "Britain / English-speaking peoples",
+   "claim": "Expressed affection for Britain (Scott, Scotland, the Thames) and admiration of English 'pluck' as material for heroes.",
+   "evidence_level": "documented",
+   "caveats": "Told to a British magazine; may be tailored to audience. Fiction shows more ambivalent portrayals of the British.",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.211",
+     "source_kind": "verne_own_words_reported",
+     "quote": "how sincere is my affection for Great Britain",
+     "char_offset": 13397,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.209",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I thoroughly admire the pluck and go-ahead qualities",
+     "char_offset": 9158,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-008",
+   "topic": "America",
+   "claim": "Professed love of America and Americans; longed to revisit.",
+   "evidence_level": "documented",
+   "caveats": "Told to American audiences (McClure's, Bly).",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.123",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I do so love America and the Americans",
+     "char_offset": 26598,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-009",
+   "topic": "women in his fiction / propriety",
+   "claim": "Defended the scarcity of love plots: love 'leaves room for little else', and he wanted books any boy's sister could read.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.209",
+     "source_kind": "verne_own_words_reported",
+     "quote": "Love is an all-absorbing passion",
+     "char_offset": 9842,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.209",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I have scrupulously avoided any scene which, say, a boy would not like to think his sister would read",
+     "char_offset": 10221,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-010",
+   "topic": "money",
+   "claim": "Said early contracts gave him 'a tithe of their value' but disclaimed complaint; valued recognition over money.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "were sold for a tithe of their value",
+     "char_offset": 30402,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-011",
+   "topic": "religion",
+   "claim": "Catholic by upbringing and practice in the conventional sense; Sherard attributes 'religiousness' to his Breton side and he used the phrase 'if God grants me life'.",
+   "evidence_level": "inferred",
+   "reasoning": "Only an observer's characterisation and a conventional pious phrase are in the corpus; depth of belief is not documented here. Fictional religiosity (e.g. characters' prayers) is NOT evidence.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.117",
+     "source_kind": "firsthand",
+     "quote": "the love of solitude, the religiousness, and adoration of the sea, of the Breton",
+     "char_offset": 8628,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.116",
+     "source_kind": "verne_own_words_reported",
+     "quote": "if God grants me life, I shall finish eighty",
+     "char_offset": 2726,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "op-012",
+   "topic": "politics: municipal service",
+   "claim": "Took pride in serving on the Amiens municipal council and wrote reports for it.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.117",
+     "source_kind": "verne_own_words_reported",
+     "quote": "a report which I am addressing to the municipal council of Amiens",
+     "char_offset": 7428,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.211",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I thoroughly enjoy taking my share in municipal government",
+     "char_offset": 19988,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "op-013",
+   "topic": "politics: party alignment",
+   "claim": "Elected (1888) on a moderate republican list in Amiens despite generally conservative, order-minded personal leanings.",
+   "evidence_level": "speculative",
+   "reasoning": "Not in collected corpus; reported by modern biographers (Lottman, Butcher). Needs Amiens municipal archives and contemporary local press (Gallica: Journal d'Amiens, Le Progrès de la Somme).",
+   "citations": [
+    {
+     "source_id": "nc10-jules-verne-an-exploratory-biography",
+     "location": "ch. on Amiens politics (not in corpus)",
+     "source_kind": "secondary",
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "nc11-jules-verne-the-definitive-biography",
+     "location": "ch. on Amiens (not in corpus)",
+     "source_kind": "secondary",
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "op-014",
+   "topic": "politics: Dreyfus Affair",
+   "claim": "Reportedly anti-Dreyfusard at first (unlike his son Michel), later moderated.",
+   "evidence_level": "speculative",
+   "reasoning": "Known from letters quoted in modern biographies; no primary text in corpus. High-priority research gap.",
+   "citations": [
+    {
+     "source_id": "nc11-jules-verne-the-definitive-biography",
+     "location": "ch. on 1890s (not in corpus)",
+     "source_kind": "secondary",
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "op-015",
+   "topic": "academic recognition",
+   "claim": "Ironically amused by American letters addressed to 'Jules Verne of the French Academy'.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I have a little smile to myself",
+     "char_offset": 23777,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  }
+ ]
+}

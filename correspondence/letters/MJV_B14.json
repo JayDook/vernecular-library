@@ -1,0 +1,31 @@
+{
+ "id": "MJV_B14",
+ "cote": "MJV B14",
+ "title": "Lettre de Jules Verne, 20 juillet 1897",
+ "date": "20 juillet 1897",
+ "recipient_guess": null,
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152444",
+ "record": "eadcgm:EADC:a2152444",
+ "support": null,
+ "dimensions": "279 x 218 mm.",
+ "archival_description": {
+  "text": "Lettre autographe signée de Jules Verne à Monsieur [en réalité Madame Charles Vincens, née Cécile Bouffé, pseud. Arvède Barine] 20 juillet 1897. Lettre écrite suite à la lecture d'un article sur Edgar Poe dans la \"Revue des deux mondes\". Jules Verne parle ensuite de son dernier roman \"Le Sphinx des glaces\" qui se présente comme une suite à un roman de Poe.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Arvède Barine",
+  "Barine, Arvède (1840-1908)",
+  "Charles Vincens",
+  "Cécile Bouffé",
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/b516578a-fa0d-4565-b278-766656de91a7"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

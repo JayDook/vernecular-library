@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B162",
+ "cote": "MJV B162",
+ "title": "Lettre de Jules Verne à Monsieur Alliou, 30 juillet 1902",
+ "date": "30 juillet 1902",
+ "recipient_guess": "Monsieur Alliou, 30 juillet 1902",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152465",
+ "record": "eadcgm:EADC:a2152465",
+ "support": null,
+ "dimensions": "14 x 8,7 cm",
+ "archival_description": {
+  "text": "Ensemble de 13 lettres de Jules Verne adressée à Mr Alliou , collaborateur et typographe chez l'Editeur Hetzel. Jules Verne avait l'occasion de lui écrire pour lui faire rectifier des fautes sur les épreuves imprimées de ses manuscrits.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Mr Alliou"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/3ca88c3e-51a5-4678-a5c3-4ba1cc513881"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

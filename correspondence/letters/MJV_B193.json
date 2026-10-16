@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B193",
+ "cote": "MJV B193",
+ "title": "Lettre de Jules Verne à Adolphe d'Ennery, 05 janvier 1876",
+ "date": "05 janvier 1876",
+ "recipient_guess": "Adolphe d'Ennery, 05 janvier 1876",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152507",
+ "record": "eadcgm:EADC:a2152507",
+ "support": null,
+ "dimensions": "document fermé : 10,3 x 13,2 cm / document ouvert : 20,7 x 13,2 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne à Adolphe d'Ennery, relatant leurs problèmes de santé respectifs. Il mentionne également qu'en passant par Paris pour aller en Bretagne, il a rencontré \"leurs directeurs\" [de théâtre] qui lui ont dit que l'adaptation de \"Le tour du monde en 80 jours\" ne sera pas jouée pour la fin de l'année au profit des \"Mousquetaires\". Lettre écrite lors de son séjour à Nantes chez ses parents au 6 de la rue Jean-Jacques Rousseau, le 5 janvier 1876.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Adolphe d'Ennery",
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/811ada3a-cac8-438d-9bcc-5ff9bcf796f5"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

@@ -1,0 +1,345 @@
+{
+ "description": "Dated events. Dates from interviews are flagged when known to be wrong.",
+ "evidence_levels": {
+  "documented": "stated in a cited source (Verne's reported words, firsthand observation, or reliable reference)",
+  "inferred": "reasoned from multiple sources; see reasoning",
+  "speculative": "plausible but weakly or not supported by collected sources"
+ },
+ "records": [
+  {
+   "id": "time-001",
+   "date": "1828-02-08",
+   "claim": "Birth at Nantes.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 1",
+     "source_kind": "encyclopedia",
+     "quote": "born at Nantes on the 8th of February 1828",
+     "char_offset": 45,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-002",
+   "date": "1850",
+   "claim": "Les Pailles rompues produced at the Théâtre du Gymnase.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 1",
+     "source_kind": "encyclopedia",
+     "quote": "in 1850 his verse comedy, Les Pailles rompues",
+     "char_offset": 266,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-003",
+   "date": "1857",
+   "claim": "First visit to Amiens per Verne; meets Honorine de Viane (marriage Jan 1857).",
+   "evidence_level": "documented",
+   "caveats": "Sherard: 'came to Amiens first in 1857'; Belloc's report ('fifty-three years ago') conflicts. Treat exact chronology as requiring the letters.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I came to Amiens first in 1857",
+     "char_offset": 28787,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-004",
+   "date": "1862",
+   "claim": "Journey to Norway/Scandinavia, later used in Un billet de loterie.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "a journey in Norway in 1862",
+     "char_offset": 24586,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-005",
+   "date": "1863-01",
+   "claim": "Cinq semaines en ballon published by Hetzel.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsfr-jules-verne-claretie",
+     "location": "§ Hetzel",
+     "source_kind": "secondary",
+     "quote": "Ce fut en 1863 que Jules Verne publia, chez Hetzel",
+     "char_offset": 9713,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-006",
+   "date": "1867",
+   "claim": "Voyage to America on the Great Eastern.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "my voyage to America in 1867, on the Great Eastern",
+     "char_offset": 26052,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-007",
+   "date": "1870",
+   "claim": "Named chevalier of the Légion d'honneur at the very end of the Second Empire (Verne: 'two hours after my decree was signed, the empire had ceased to be').",
+   "evidence_level": "documented",
+   "caveats": "Verne's 'two hours' is an anecdotal flourish.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "I was the last man decorated by the empire",
+     "char_offset": 31728,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-008",
+   "date": "1871",
+   "claim": "Death of his father Pierre Verne.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "My father died in 1871, aged seventy-three",
+     "char_offset": 9334,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-009",
+   "date": "1872",
+   "claim": "Le Tour du monde en quatre-vingts jours serialised in Le Temps.",
+   "evidence_level": "documented",
+   "caveats": "EB says 'first appeared in Le Temps in 1872' (serial Nov-Dec 1872).",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 1",
+     "source_kind": "encyclopedia",
+     "quote": "which first appeared in Le Temps in 1872",
+     "char_offset": 1654,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-010",
+   "date": "1874-11-08",
+   "claim": "Stage adaptation of Le Tour du monde (with d'Ennery) opens at the Porte Saint-Martin.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 1",
+     "source_kind": "encyclopedia",
+     "quote": "produced with success at the Porte St Martin theatre on the 8th of November 1874",
+     "char_offset": 1725,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-011",
+   "date": "1878",
+   "claim": "Mediterranean yacht cruise with Raoul Duval, Hetzel fils and Paul Verne.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "In 1878 I had a very instructive and most pleasant",
+     "char_offset": 25251,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-012",
+   "date": "1880",
+   "claim": "Michel Strogoff staged at the Châtelet.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 1",
+     "source_kind": "encyclopedia",
+     "quote": "Michael Strogoff (at the Châtelet",
+     "char_offset": 1838,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-013",
+   "date": "1885 (per Verne/Sherard; standard biographies give Feb 1887)",
+   "claim": "Death of his mother (Sophie Allotte de la Fuÿe).",
+   "evidence_level": "documented",
+   "confidence": "medium",
+   "caveats": "Date conflict: see contra-015.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.118",
+     "source_kind": "verne_own_words_reported",
+     "quote": "My mother died in 1885",
+     "char_offset": 9534,
+     "quote_type": "published_text"
+    }
+   ]
+  },
+  {
+   "id": "time-014",
+   "date": "1886",
+   "claim": "Shot and lamed by his nephew; travel ends. (P.-J. Hetzel also died in 1886 - not in corpus.)",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.122",
+     "source_kind": "verne_own_words_reported",
+     "quote": "in 1886, I was forced to give it up, in consequence of my accident",
+     "char_offset": 25469,
+     "quote_type": "published_text"
+    },
+    {
+     "source_id": "nc01-correspondance-inedite-de-jules-verne-et",
+     "location": "editorial apparatus (not in corpus)",
+     "source_kind": "secondary",
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-015",
+   "date": "1889-11-22",
+   "claim": "Nellie Bly visits Verne and Honorine at Amiens during her round-the-world trip, with R. H. Sherard interpreting.",
+   "evidence_level": "documented",
+   "caveats": "Exact date from Bly's itinerary; chapter itself gives 'early evening'.",
+   "citations": [
+    {
+     "source_id": "wsen-around-the-world-in-seventy-two-days-chapter-iv",
+     "location": "ch. IV",
+     "source_kind": "firsthand",
+     "quote": "accompanied by Mr. R. H. Sherard, a Paris journalist",
+     "char_offset": 66,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-016",
+   "date": "1892-07",
+   "claim": "Promoted Officer of the Légion d'honneur.",
+   "evidence_level": "inferred",
+   "reasoning": "Interview printed Jan 1894 (copyright 1893) says 'July of last year'; interview likely conducted 1893, giving July 1892.",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.124",
+     "source_kind": "verne_own_words_reported",
+     "quote": "My promotion to officer was signed in July of last year",
+     "char_offset": 31839,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "time-017",
+   "date": "1893",
+   "claim": "Sherard interview at the Société Industrielle, Amiens.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-sherard-1894-jules-verne-at-home",
+     "location": "approx. p.115",
+     "source_kind": "firsthand",
+     "quote": "It was in the cool withdrawing-room of the Société Industrielle at Amiens",
+     "char_offset": 1007,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-018",
+   "date": "1894 (autumn)",
+   "claim": "Marie Belloc interview at his Amiens home (published Feb 1895).",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "ia-belloc-1895-jules-verne-at-home",
+     "location": "approx. p.206",
+     "source_kind": "firsthand",
+     "quote": "Though it was late autumn",
+     "char_offset": 1140,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "time-019",
+   "date": "1905-03-24",
+   "claim": "Death at Amiens.",
+   "evidence_level": "documented",
+   "citations": [
+    {
+     "source_id": "wsen-1911-encyclopdia-britannica-verne-jules",
+     "location": "para 2",
+     "source_kind": "encyclopedia",
+     "quote": "He died at Amiens on the 24th of March 1905",
+     "char_offset": 3167,
+     "quote_type": "published_text"
+    }
+   ],
+   "confidence": "high"
+  }
+ ]
+}

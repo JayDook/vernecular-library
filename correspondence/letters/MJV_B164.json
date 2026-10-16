@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B164",
+ "cote": "MJV B164",
+ "title": "Lettre de Jules Verne à Monsieur Alliou, 25 août 1901",
+ "date": "25 août 1901",
+ "recipient_guess": "Monsieur Alliou, 25 août 1901",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152467",
+ "record": "eadcgm:EADC:a2152467",
+ "support": null,
+ "dimensions": "Feuillet : 11,4 x 17,6 / enveloppe : 14,5 x 11,3 cm",
+ "archival_description": {
+  "text": "Ensemble de 13 lettres de Jules Verne adressée à Mr Alliou , collaborateur et typographe chez l'Editeur Hetzel. Jules Verne avait l'occasion de lui écrire pour lui faire rectifier des fautes sur les épreuves imprimées de ses manuscrits.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Mr Alliou"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/9546013a-ef9b-4c23-9bac-30540f59d0d8"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

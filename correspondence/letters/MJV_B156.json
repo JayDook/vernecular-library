@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B156",
+ "cote": "MJV B156",
+ "title": "Lettre de Jules Verne à Monsieur Alliou, 14 avril 1891",
+ "date": "14 avril 1891",
+ "recipient_guess": "Monsieur Alliou, 14 avril 1891",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152459",
+ "record": "eadcgm:EADC:a2152459",
+ "support": null,
+ "dimensions": "feuillet fermé : 10,5 x 13,3 cm / feuillet ouvert : 21,1 c 13,4 cm / enveloppe : 11,2 x 7,3 cm",
+ "archival_description": {
+  "text": "Ensemble de 13 lettres de Jules Verne adressée à Mr Alliou , collaborateur et typographe chez l'Editeur Hetzel. Jules Verne avait l'occasion de lui écrire pour lui faire rectifier des fautes sur les épreuves imprimées de ses manuscrits.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Mr Alliou"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/e97dcaf6-6d22-43a2-8b64-480a56ed07f0"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

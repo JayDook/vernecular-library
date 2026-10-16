@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B23",
+ "cote": "MJV B23",
+ "title": "Carte-lettre autographe signée Jules Verne à Madame Béatrice Seymour, 27 janvier 1900",
+ "date": "27 janvier 1900",
+ "recipient_guess": "Madame Béatrice Seymour, 27 janvier 1900",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152449",
+ "record": "eadcgm:EADC:a2152449",
+ "support": null,
+ "dimensions": "7,6 x 12,7 cm",
+ "archival_description": {
+  "text": "Carte-lettre autographe signée de Jules Verne à Madame Béatrice Seymour, suite à sa demande.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Béatrice Seymour",
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/102b8d5b-2830-4511-8789-0c882de04cad"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

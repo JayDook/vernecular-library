@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B176",
+ "cote": "MJV B176",
+ "title": "Lettre de Jules Verne à Monsieur et cher maître, 25 octobre 1898",
+ "date": "25 octobre 1898",
+ "recipient_guess": "Monsieur et cher maître, 25 octobre 1898",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152484",
+ "record": "eadcgm:EADC:a2152484",
+ "support": null,
+ "dimensions": "document fermé : 10,1 x 13,1 cm / document ouvert : 20,3 x 13,1 cm",
+ "archival_description": {
+  "text": "Lettre mentionnant son éditeur Hetzel et l'envoi d'un certificat à la Mairie et à la Préfecture. Jules Verne conclut en écrivant qu'il ne voyage plus du fait de vertiges.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/e5a0aed9-6ca4-40f6-b039-ae839d4e4125"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

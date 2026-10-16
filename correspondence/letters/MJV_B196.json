@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B196",
+ "cote": "MJV B196",
+ "title": "Lettre de Jules Verne, 30 août 1876",
+ "date": "30 août 1876",
+ "recipient_guess": null,
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152512",
+ "record": "eadcgm:EADC:a2152512",
+ "support": null,
+ "dimensions": "document fermé : 10,2 x 13,4 cm / document ouvert : 20,5 x 13,4 cm",
+ "archival_description": {
+  "text": "Lettre autographe de Jules Verne du 31 [août 1876] écrite à Chantenay, près de Nantes. Jules Verne répond à une lettre reçue à Chantenay suite à son voyage sur la côte de Bretagne à bord de son bateau.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/638ff88f-bd31-4677-b1be-71f6950b57a7"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

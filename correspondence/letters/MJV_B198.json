@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B198",
+ "cote": "MJV B198",
+ "title": "Lettre de Jules Verne à des amis sur une lettre de d'Ennery, Fin XIXe-début XXe",
+ "date": "Fin XIXe-début XXe",
+ "recipient_guess": "des amis sur une lettre de d'Ennery, Fin XIXe-début XXe",
+ "author_side": "received",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152509",
+ "record": "eadcgm:EADC:a2152509",
+ "support": null,
+ "dimensions": "document fermé : 13,5 x 20,6 cm / document fermé : 27 x 20,6 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne à [Ritt] sur une lettre de d'Ennery. Tout d'abord, Adolphe d'Ennery s'adresse à Jules Verne à propos de l'adaptation théâtrale de \"Le tour du monde en 80 jours\". Puis Jules Verne écrit à des amis faisant suite à la lettre d'Adolphe d'Ennery. Lettre écrite un vendredi sans autre précision sur la date.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/9ef3a8d6-ceba-44d8-9a21-dcff53c72ab0"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

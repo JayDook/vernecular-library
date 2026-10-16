@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B177",
+ "cote": "MJV B177",
+ "title": "Lettre de Jules Verne à Monsieur [?], fin XIXe - début XXe",
+ "date": "fin XIXe - début XXe",
+ "recipient_guess": "Monsieur [?], fin XIXe - début XXe",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152485",
+ "record": "eadcgm:EADC:a2152485",
+ "support": null,
+ "dimensions": "document fermé : 10,1 x 13 cm / document ouvert : 20,2 x 13 cm",
+ "archival_description": {
+  "text": "Lettre manuscrite de Jules Verne à Monsieur [?]. Lettre datée du 29 mai, année non connue. Lettre dans laquelle Jules Verne évoque des démarches prises par son fils Michel Verne.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Michel Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/6614679c-bbea-40bd-883d-706fa26cf33d"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

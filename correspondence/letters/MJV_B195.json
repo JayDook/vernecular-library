@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B195",
+ "cote": "MJV B195",
+ "title": "Lettre de Jules Verne à Adolphe d'Ennery, 12 février 1876",
+ "date": "12 février 1876",
+ "recipient_guess": "Adolphe d'Ennery, 12 février 1876",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152508",
+ "record": "eadcgm:EADC:a2152508",
+ "support": null,
+ "dimensions": "document fermé : 10,3 x 13,2 cm / document ouvert : 20,7 x 13,2 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne à Adolphe d'Ennery. Il commence par parler de son état de santé qui s'améliore (problème de gencives). Il annonce qu'il va écrire \"aux directeurs\" et que son interlocuteur pourra faire de même au sujet de l'adaptation au théâtre de \"Le tour du monde en 80 jours\". Il mentionne que cette pièce a été jouée à Nantes à 39 reprises \"ce qui est énorme pour la ville\" ; il mentionne également les villes de Rouen, Marseille et Lyon.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Adolphe d'Ennery",
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/3bdfe87e-ebbc-46da-ad06-a623ca7377f5"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

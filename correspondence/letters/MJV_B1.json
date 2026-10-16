@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B1",
+ "cote": "MJV B1",
+ "title": "Carte de visite de Jules Verne, 1850 - 1900",
+ "date": "1850 - 1900",
+ "recipient_guess": null,
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152436",
+ "record": "eadcgm:EADC:a2152436",
+ "support": null,
+ "dimensions": "10 x 6 cm",
+ "archival_description": {
+  "text": "Carte de visite avec quelques lignes manuscrites signées de Jules Verne.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/e3cee394-ea20-4ce8-a9eb-53fccfedea18"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

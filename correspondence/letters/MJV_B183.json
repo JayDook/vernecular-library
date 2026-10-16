@@ -1,0 +1,27 @@
+{
+ "id": "MJV_B183",
+ "cote": "MJV B183",
+ "title": "Lettre de Jules Verne au Commandant [Heumbert], Fin XIXe-début XXe",
+ "date": "Fin XIXe-début XXe",
+ "recipient_guess": "Commandant [Heumbert], Fin XIXe-début XXe",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152492",
+ "record": "eadcgm:EADC:a2152492",
+ "support": null,
+ "dimensions": "10,5 x 13,5 cm",
+ "archival_description": {
+  "text": "Lettre de Jules Verne au Commandant [Heumbert], écrite un 4 juillet mais l'année reste inconnue. Lettre de remerciements à la suite de la réception d'une autre lettre. Jules Verne écrit qu'il a besoin de conseils en algèbre. Il mentionne aussi qu'il lit les articles de son interlocuteur.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/512d398f-f88f-49dc-91f1-7cf158a7d300"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}

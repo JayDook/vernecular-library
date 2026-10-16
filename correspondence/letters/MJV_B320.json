@@ -1,0 +1,28 @@
+{
+ "id": "MJV_B320",
+ "cote": "MJV B320",
+ "title": "Lettre autographe signée de Jules Verne adressée à son père, Pierre Verne, 19 novembre 1853",
+ "date": "19 novembre 1853",
+ "recipient_guess": "son père, Pierre Verne, 19 novembre 1853",
+ "author_side": "active",
+ "institution": "Centre d'études verniennes / Médiathèque Jacques Demy, Nantes",
+ "ark_url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/004a2152576",
+ "record": "eadcgm:EADC:a2152576",
+ "support": null,
+ "dimensions": "document fermé : H. 21 x L.13,5 cm / document ouvert : H. 21 x L.27 cm",
+ "archival_description": {
+  "text": "Lettre adressée à son père et écrite sur un papier à l’entête du Théâtre Lyrique. Il l’informe du départ d’Hignard pour Nantes qui va assister aux dernières répétitions de « Colin Maillard ». Une grande majorité de la lettre est consacrée à la mort de son ami Jules Lorin.",
+  "description_type": "archival_description",
+  "attribution": "Centre d'études verniennes de Nantes, inventaire du Fonds Jules Verne (CCFr/BnF, version électronique 2019, modifié 2023)"
+ },
+ "persons_index": [
+  "Jules Verne",
+  "Pierre Verne"
+ ],
+ "digitized_urls": [
+  "https://catalogue-bm.nantes.fr/ark:/73533/61bca03f-4be4-45b8-8fa3-114042d6f6c1"
+ ],
+ "scans": [],
+ "transcription_status": "scan_available_not_transcribed",
+ "reuse": "Catalogue record: CCFr/BnF (cite as 'Centre d'études verniennes, Fonds Jules Verne, [cote]'). Access to originals by prior authorisation; publication of unpublished documents must be notified to the institution."
+}
